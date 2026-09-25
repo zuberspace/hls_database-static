@@ -71,7 +71,7 @@ jobs:
         # so raising it does nothing. Ten minutes is the ceiling, full stop.
         #
         # Nothing about the wait is ours. The build takes ~25s, tar 0.13s, and the
-        # upload 3.8s for a 26 MB artifact; the rest is this action polling while
+        # upload a few seconds for a ~56 MB artifact; the rest is this action polling while
         # the deployment sits in Pages' queue - `deployment_queued` start to
         # finish, it never even began. That wait went 59s -> 5m27s -> past 10m in
         # one day on a bundle that barely changed. Do not go trimming files over
