@@ -427,7 +427,7 @@ function downloadText(filename, text, type = "text/csv;charset=utf-8") {
 
 function downloadButton(count, handler) {
   if (!count) return "";
-  return `<button type="button" onclick="${handler.name}()" class="inline-flex items-center bg-white hover:bg-gray-100 text-gray-800 font-semibold py-1 px-3 border border-gray-400 rounded shadow text-sm focus:outline-none">${icon("download", "mr-2")}Download CSV</button>`;
+  return `<button type="button" onclick="${handler.name}()" class="inline-flex items-center bg-white hover:bg-gray-100 active:bg-gray-200 transition-colors duration-150 text-gray-800 font-semibold py-1 px-3 border border-gray-400 rounded shadow text-sm focus:outline-none">${icon("download", "mr-2")}Download CSV</button>`;
 }
 
 function loadIdentificationCsv() {
