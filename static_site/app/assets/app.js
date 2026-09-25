@@ -404,7 +404,43 @@ function renderTable() {
   const shown = rows.slice(0, LIMIT);
   const head = ["2θ", "Intensity (rel.)", "Name", "Layer type"];
   const tableHtml = `<div class="rounded shadow-sm overflow-hidden"><div class="overflow-x-auto"><table class="w-full text-left text-sm border-collapse"><thead class="bg-purple-400 text-gray-900"><tr>${head.map((h) => `<th class="p-2 font-bold">${h}</th>`).join("")}</tr></thead><tbody>${shown.map((r, i) => `<tr class="${i % 2 ? "bg-purple-100" : "bg-purple-200"} hover:bg-purple-400"><td class="p-2 text-right">${Number.isFinite(r.twoTheta) ? r.twoTheta.toFixed(2) : "-"}</td><td class="p-2 text-right">${Number.isFinite(r.intensity) ? r.intensity.toFixed(1) : "-"}</td><td class="p-2"><a href="#/${r.isRelated ? "rm" : "hls"}/${r.slug}" class="text-blue-700 hover:underline">${r.name}</a></td><td class="p-2">${r.layerType || "/"}</td></tr>`).join("")}</tbody></table></div>${rows.length > LIMIT ? `<div class="bg-purple-100 p-2 text-xs text-gray-700">Showing the first ${LIMIT} of ${rows.length} rows.</div>` : ""}</div>`;
-  getEl("app").innerHTML = renderSection("Powder Pattern Identification Table", "purple", rows.length ? tableHtml : noData("Nothing found"));
+  getEl("app").innerHTML = renderSection("Powder Pattern Identification Table", "purple", rows.length ? tableHtml : noData("Nothing found"), downloadButton(rows.length, loadIdentificationCsv));
+}
+
+// The CSV is built in the browser from the committed data, so the full table is
+// downloadable even though the page stops rendering rows at LIMIT.
+function csvCell(value) {
+  const text = String(value ?? "");
+  return /[",;\r\n]/.test(text) ? `"${text.replaceAll('"', '""')}"` : text;
+}
+
+function downloadText(filename, text, type = "text/csv;charset=utf-8") {
+  const url = URL.createObjectURL(new Blob([text], { type }));
+  const link = document.createElement("a");
+  link.href = url;
+  link.download = filename;
+  document.body.appendChild(link);
+  link.click();
+  link.remove();
+  URL.revokeObjectURL(url);
+}
+
+function downloadButton(count, handler) {
+  if (!count) return "";
+  return `<button type="button" onclick="${handler.name}()" class="inline-flex items-center bg-white hover:bg-gray-100 text-gray-800 font-semibold py-1 px-3 border border-gray-400 rounded shadow text-sm focus:outline-none">${icon("download", "mr-2")}Download CSV</button>`;
+}
+
+function loadIdentificationCsv() {
+  const rows = state.index.peak_table || [];
+  const header = ["2theta", "Intensity (rel.)", "Name", "Layer type"];
+  const body = rows.map((p) => [
+    p.two_theta,
+    p.intensity,
+    p.name,
+    p.layer_type || "/",
+  ].map(csvCell).join(","));
+  // CRLF + BOM: both are what spreadsheet software expects from a CSV download.
+  downloadText("hls-identification-table.csv", "\ufeff" + [header.join(","), ...body].join("\r\n") + "\r\n");
 }
 
 // Panel colours per page, as in the Django templates: information.html is teal,
