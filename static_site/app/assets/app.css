@@ -35,11 +35,6 @@ body {
   min-height: 60vh;
 }
 
-.table-scroll {
-  max-height: 70vh;
-  overflow: auto;
-}
-
 .ref-num {
   min-width: 30px;
 }
