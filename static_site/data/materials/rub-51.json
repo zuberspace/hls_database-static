@@ -1,0 +1,1167 @@
+{
+  "pk": 28,
+  "name": "RUB-51",
+  "slug": "rub-51",
+  "is_related_material": false,
+  "layer_type": {
+    "pk": 16,
+    "name": "sod",
+    "slug": "sod"
+  },
+  "intercalated_cation": {
+    "pk": 12,
+    "name": "benzyltrimethylammonium",
+    "chemical_formula": "C6H5(CH3)3N"
+  },
+  "similar_structure": [],
+  "similar_chemistry": [],
+  "similar_structure_known": {},
+  "similar_chemistry_known": {},
+  "files": {
+    "cif": "cifs/RUB-51_only_for_drawing.cif",
+    "cif_for_jsmol": "cifs_for_jsmol/RUB-51_for_JSmol.cif",
+    "powder_pattern_data": "powder_pattern/RUB-51_powder_pattern.csv",
+    "reflections_data": "reflections/RUB-51_Ref.csv",
+    "fractional_atomic_coordinates_data": "facs/RUB-51_fracs.csv",
+    "structure_plot": "plots/SP_RUB-51_cut.jpg",
+    "atr_ir_spectrum_data": "atr_ir_spectra/Rub51_pur.CSV"
+  },
+  "synthesis": [
+    {
+      "pk": 28,
+      "mixture": "0.9 SiO<sub>2</sub> : 0.1 H<sub>3</sub>BO<sub>3</sub> : 0.5 SDA : 3-4 H<sub>2</sub>O",
+      "sda": "Benzyltrimethylammonium",
+      "temperature": 120.0,
+      "duration": "21-30 d",
+      "conditions": "",
+      "comment": "",
+      "reference": {
+        "pk": 31,
+        "title": "A new layered silicate with structural motives of silicate zeolites: Synthesis, crystal structure, and properties",
+        "year": 2008,
+        "volume": 20,
+        "issue": "5",
+        "pages": "1896-1901",
+        "doi": "https://doi.org/10.1021/cm702880p",
+        "pdf": "",
+        "journal": {
+          "pk": 10,
+          "name": "Chemistry of Materials"
+        },
+        "authors": [
+          {
+            "pk": 88,
+            "first_name": "Zhaofei",
+            "last_name": "Li",
+            "display_name": "Zhaofei Li"
+          },
+          {
+            "pk": 22,
+            "first_name": "Bernd",
+            "last_name": "Marler",
+            "display_name": "Bernd Marler"
+          },
+          {
+            "pk": 29,
+            "first_name": "Hermann",
+            "last_name": "Gies",
+            "display_name": "Hermann Gies"
+          }
+        ],
+        "from_db": true
+      }
+    }
+  ],
+  "crystal_structure": [
+    {
+      "pk": 28,
+      "space_group": {
+        "pk": 29,
+        "symbol_short": "Pca2(1)"
+      },
+      "crystal_system": "orthorhombic",
+      "chemical_composition": "[C<sub>6</sub>H<sub>5</sub>CH<sub>2</sub>N(CH<sub>3</sub>)<sub>3</sub>]<sub>4</sub> [Si<sub>12</sub>O<sub>24</sub>(OH)<sub>4</sub>]",
+      "stacking_direction": "b",
+      "a": 8.405,
+      "b": 14.524,
+      "c": 11.771,
+      "alpha": 90.0,
+      "beta": 90.0,
+      "gamma": 90.0,
+      "comment": "",
+      "reference": {
+        "pk": 31,
+        "title": "A new layered silicate with structural motives of silicate zeolites: Synthesis, crystal structure, and properties",
+        "year": 2008,
+        "volume": 20,
+        "issue": "5",
+        "pages": "1896-1901",
+        "doi": "https://doi.org/10.1021/cm702880p",
+        "pdf": "",
+        "journal": {
+          "pk": 10,
+          "name": "Chemistry of Materials"
+        },
+        "authors": [
+          {
+            "pk": 88,
+            "first_name": "Zhaofei",
+            "last_name": "Li",
+            "display_name": "Zhaofei Li"
+          },
+          {
+            "pk": 22,
+            "first_name": "Bernd",
+            "last_name": "Marler",
+            "display_name": "Bernd Marler"
+          },
+          {
+            "pk": 29,
+            "first_name": "Hermann",
+            "last_name": "Gies",
+            "display_name": "Hermann Gies"
+          }
+        ],
+        "from_db": true
+      },
+      "lp_2d_cell": [
+        "a = 8.40 Å",
+        "c = 11.77 Å",
+        "β = 90.00 °"
+      ],
+      "lp_stacking_direction": [
+        "b = 14.52 Å",
+        "α = 90.00 °",
+        "γ = 90.00 °"
+      ]
+    }
+  ],
+  "properties": [
+    {
+      "pk": 28,
+      "density_calculated": 1.603,
+      "condensation_product": "amorphous",
+      "comment": ""
+    }
+  ],
+  "peaks": [
+    {
+      "HLS": 28,
+      "two_theta": "6.128000000",
+      "intensity": "100.0",
+      "pk": 197
+    },
+    {
+      "HLS": 28,
+      "two_theta": "16.310000000",
+      "intensity": "35.2",
+      "pk": 198
+    },
+    {
+      "HLS": 28,
+      "two_theta": "17.892000000",
+      "intensity": "23.5",
+      "pk": 199
+    },
+    {
+      "HLS": 28,
+      "two_theta": "22.621000000",
+      "intensity": "25.5",
+      "pk": 200
+    },
+    {
+      "HLS": 28,
+      "two_theta": "23.343000000",
+      "intensity": "14.5",
+      "pk": 201
+    },
+    {
+      "HLS": 28,
+      "two_theta": "25.879000000",
+      "intensity": "16.8",
+      "pk": 202
+    },
+    {
+      "HLS": 28,
+      "two_theta": "26.109000000",
+      "intensity": "12.8",
+      "pk": 203
+    }
+  ],
+  "reflections": [
+    {
+      "HLS": 28,
+      "h": 0,
+      "k": 1,
+      "l": 0,
+      "m": 2,
+      "two_theta": "6.128",
+      "intensity_calculated": "100.0",
+      "d_hkl": "14.412000",
+      "represents": 1,
+      "pk": 1751
+    },
+    {
+      "HLS": 28,
+      "h": 1,
+      "k": 1,
+      "l": 0,
+      "m": 4,
+      "two_theta": "12.202",
+      "intensity_calculated": "1.4",
+      "d_hkl": "7.248000",
+      "represents": null,
+      "pk": 1752
+    },
+    {
+      "HLS": 28,
+      "h": 0,
+      "k": 2,
+      "l": 0,
+      "m": 2,
+      "two_theta": "12.273",
+      "intensity_calculated": "2.3",
+      "d_hkl": "7.206000",
+      "represents": null,
+      "pk": 1753
+    },
+    {
+      "HLS": 28,
+      "h": 1,
+      "k": 1,
+      "l": 1,
+      "m": 8,
+      "two_theta": "14.355",
+      "intensity_calculated": "1.1",
+      "d_hkl": "6.165000",
+      "represents": null,
+      "pk": 1754
+    },
+    {
+      "HLS": 28,
+      "h": 0,
+      "k": 0,
+      "l": 2,
+      "m": 2,
+      "two_theta": "15.101",
+      "intensity_calculated": "0.3",
+      "d_hkl": "5.862000",
+      "represents": null,
+      "pk": 1755
+    },
+    {
+      "HLS": 28,
+      "h": 1,
+      "k": 2,
+      "l": 0,
+      "m": 4,
+      "two_theta": "16.205",
+      "intensity_calculated": "0.1",
+      "d_hkl": "5.465000",
+      "represents": null,
+      "pk": 1756
+    },
+    {
+      "HLS": 28,
+      "h": 0,
+      "k": 1,
+      "l": 2,
+      "m": 4,
+      "two_theta": "16.310",
+      "intensity_calculated": "35.2",
+      "d_hkl": "5.430000",
+      "represents": null,
+      "pk": 1757
+    },
+    {
+      "HLS": 28,
+      "h": 1,
+      "k": 2,
+      "l": 1,
+      "m": 8,
+      "two_theta": "17.892",
+      "intensity_calculated": "23.5",
+      "d_hkl": "4.954000",
+      "represents": null,
+      "pk": 1758
+    },
+    {
+      "HLS": 28,
+      "h": 0,
+      "k": 3,
+      "l": 0,
+      "m": 2,
+      "two_theta": "18.454",
+      "intensity_calculated": "2.8",
+      "d_hkl": "4.804000",
+      "represents": null,
+      "pk": 1759
+    },
+    {
+      "HLS": 28,
+      "h": 1,
+      "k": 1,
+      "l": 2,
+      "m": 8,
+      "two_theta": "19.459",
+      "intensity_calculated": "0.0",
+      "d_hkl": "4.558000",
+      "represents": null,
+      "pk": 1760
+    },
+    {
+      "HLS": 28,
+      "h": 0,
+      "k": 2,
+      "l": 2,
+      "m": 4,
+      "two_theta": "19.505",
+      "intensity_calculated": "6.2",
+      "d_hkl": "4.548000",
+      "represents": null,
+      "pk": 1761
+    },
+    {
+      "HLS": 28,
+      "h": 2,
+      "k": 0,
+      "l": 0,
+      "m": 2,
+      "two_theta": "21.173",
+      "intensity_calculated": "9.7",
+      "d_hkl": "4.193000",
+      "represents": 0,
+      "pk": 1762
+    },
+    {
+      "HLS": 28,
+      "h": 1,
+      "k": 3,
+      "l": 0,
+      "m": 4,
+      "two_theta": "21.298",
+      "intensity_calculated": "0.0",
+      "d_hkl": "4.168000",
+      "represents": null,
+      "pk": 1763
+    },
+    {
+      "HLS": 28,
+      "h": 2,
+      "k": 1,
+      "l": 0,
+      "m": 4,
+      "two_theta": "22.062",
+      "intensity_calculated": "2.5",
+      "d_hkl": "4.026000",
+      "represents": null,
+      "pk": 1764
+    },
+    {
+      "HLS": 28,
+      "h": 1,
+      "k": 2,
+      "l": 2,
+      "m": 8,
+      "two_theta": "22.220",
+      "intensity_calculated": "0.5",
+      "d_hkl": "3.998000",
+      "represents": null,
+      "pk": 1765
+    },
+    {
+      "HLS": 28,
+      "h": 2,
+      "k": 0,
+      "l": 1,
+      "m": 4,
+      "two_theta": "22.503",
+      "intensity_calculated": "0.5",
+      "d_hkl": "3.948000",
+      "represents": null,
+      "pk": 1766
+    },
+    {
+      "HLS": 28,
+      "h": 1,
+      "k": 3,
+      "l": 1,
+      "m": 8,
+      "two_theta": "22.621",
+      "intensity_calculated": "25.5",
+      "d_hkl": "3.928000",
+      "represents": null,
+      "pk": 1767
+    },
+    {
+      "HLS": 28,
+      "h": 2,
+      "k": 1,
+      "l": 1,
+      "m": 8,
+      "two_theta": "23.343",
+      "intensity_calculated": "14.5",
+      "d_hkl": "3.808000",
+      "represents": null,
+      "pk": 1768
+    },
+    {
+      "HLS": 28,
+      "h": 0,
+      "k": 3,
+      "l": 2,
+      "m": 4,
+      "two_theta": "23.929",
+      "intensity_calculated": "0.3",
+      "d_hkl": "3.716000",
+      "represents": null,
+      "pk": 1769
+    },
+    {
+      "HLS": 28,
+      "h": 2,
+      "k": 2,
+      "l": 0,
+      "m": 4,
+      "two_theta": "24.544",
+      "intensity_calculated": "1.3",
+      "d_hkl": "3.624000",
+      "represents": null,
+      "pk": 1770
+    },
+    {
+      "HLS": 28,
+      "h": 0,
+      "k": 4,
+      "l": 0,
+      "m": 2,
+      "two_theta": "24.689",
+      "intensity_calculated": "0.2",
+      "d_hkl": "3.603000",
+      "represents": null,
+      "pk": 1771
+    },
+    {
+      "HLS": 28,
+      "h": 2,
+      "k": 2,
+      "l": 1,
+      "m": 8,
+      "two_theta": "25.709",
+      "intensity_calculated": "3.5",
+      "d_hkl": "3.462000",
+      "represents": null,
+      "pk": 1772
+    },
+    {
+      "HLS": 28,
+      "h": 1,
+      "k": 1,
+      "l": 3,
+      "m": 8,
+      "two_theta": "25.879",
+      "intensity_calculated": "16.8",
+      "d_hkl": "3.440000",
+      "represents": null,
+      "pk": 1773
+    },
+    {
+      "HLS": 28,
+      "h": 2,
+      "k": 0,
+      "l": 2,
+      "m": 4,
+      "two_theta": "26.109",
+      "intensity_calculated": "12.8",
+      "d_hkl": "3.410000",
+      "represents": 0,
+      "pk": 1774
+    },
+    {
+      "HLS": 28,
+      "h": 1,
+      "k": 3,
+      "l": 2,
+      "m": 8,
+      "two_theta": "26.211",
+      "intensity_calculated": "7.4",
+      "d_hkl": "3.397000",
+      "represents": null,
+      "pk": 1775
+    },
+    {
+      "HLS": 28,
+      "h": 2,
+      "k": 1,
+      "l": 2,
+      "m": 8,
+      "two_theta": "26.843",
+      "intensity_calculated": "1.9",
+      "d_hkl": "3.319000",
+      "represents": null,
+      "pk": 1776
+    },
+    {
+      "HLS": 28,
+      "h": 1,
+      "k": 4,
+      "l": 0,
+      "m": 4,
+      "two_theta": "26.911",
+      "intensity_calculated": "3.2",
+      "d_hkl": "3.310000",
+      "represents": null,
+      "pk": 1777
+    },
+    {
+      "HLS": 28,
+      "h": 1,
+      "k": 4,
+      "l": 1,
+      "m": 8,
+      "two_theta": "27.984",
+      "intensity_calculated": "0.4",
+      "d_hkl": "3.186000",
+      "represents": null,
+      "pk": 1778
+    },
+    {
+      "HLS": 28,
+      "h": 1,
+      "k": 2,
+      "l": 3,
+      "m": 8,
+      "two_theta": "28.046",
+      "intensity_calculated": "11.3",
+      "d_hkl": "3.179000",
+      "represents": null,
+      "pk": 1779
+    },
+    {
+      "HLS": 28,
+      "h": 2,
+      "k": 3,
+      "l": 0,
+      "m": 4,
+      "two_theta": "28.228",
+      "intensity_calculated": "9.6",
+      "d_hkl": "3.159000",
+      "represents": null,
+      "pk": 1780
+    },
+    {
+      "HLS": 28,
+      "h": 2,
+      "k": 2,
+      "l": 2,
+      "m": 8,
+      "two_theta": "28.942",
+      "intensity_calculated": "0.9",
+      "d_hkl": "3.083000",
+      "represents": null,
+      "pk": 1781
+    },
+    {
+      "HLS": 28,
+      "h": 0,
+      "k": 4,
+      "l": 2,
+      "m": 4,
+      "two_theta": "29.067",
+      "intensity_calculated": "1.3",
+      "d_hkl": "3.070000",
+      "represents": null,
+      "pk": 1782
+    },
+    {
+      "HLS": 28,
+      "h": 2,
+      "k": 3,
+      "l": 1,
+      "m": 8,
+      "two_theta": "29.257",
+      "intensity_calculated": "0.4",
+      "d_hkl": "3.050000",
+      "represents": null,
+      "pk": 1783
+    },
+    {
+      "HLS": 28,
+      "h": 0,
+      "k": 0,
+      "l": 4,
+      "m": 2,
+      "two_theta": "30.472",
+      "intensity_calculated": "0.6",
+      "d_hkl": "2.931000",
+      "represents": null,
+      "pk": 1784
+    },
+    {
+      "HLS": 28,
+      "h": 1,
+      "k": 4,
+      "l": 2,
+      "m": 8,
+      "two_theta": "30.999",
+      "intensity_calculated": "1.8",
+      "d_hkl": "2.883000",
+      "represents": null,
+      "pk": 1785
+    },
+    {
+      "HLS": 28,
+      "h": 0,
+      "k": 5,
+      "l": 0,
+      "m": 2,
+      "two_theta": "31.000",
+      "intensity_calculated": "0.6",
+      "d_hkl": "2.882000",
+      "represents": null,
+      "pk": 1786
+    },
+    {
+      "HLS": 28,
+      "h": 0,
+      "k": 1,
+      "l": 4,
+      "m": 4,
+      "two_theta": "31.112",
+      "intensity_calculated": "0.1",
+      "d_hkl": "2.872000",
+      "represents": null,
+      "pk": 1787
+    },
+    {
+      "HLS": 28,
+      "h": 2,
+      "k": 0,
+      "l": 3,
+      "m": 4,
+      "two_theta": "31.263",
+      "intensity_calculated": "4.9",
+      "d_hkl": "2.859000",
+      "represents": null,
+      "pk": 1788
+    },
+    {
+      "HLS": 28,
+      "h": 1,
+      "k": 3,
+      "l": 3,
+      "m": 8,
+      "two_theta": "31.350",
+      "intensity_calculated": "1.8",
+      "d_hkl": "2.851000",
+      "represents": null,
+      "pk": 1789
+    },
+    {
+      "HLS": 28,
+      "h": 2,
+      "k": 1,
+      "l": 3,
+      "m": 8,
+      "two_theta": "31.888",
+      "intensity_calculated": "1.1",
+      "d_hkl": "2.804000",
+      "represents": null,
+      "pk": 1790
+    },
+    {
+      "HLS": 28,
+      "h": 2,
+      "k": 3,
+      "l": 2,
+      "m": 8,
+      "two_theta": "32.163",
+      "intensity_calculated": "0.1",
+      "d_hkl": "2.781000",
+      "represents": null,
+      "pk": 1791
+    },
+    {
+      "HLS": 28,
+      "h": 3,
+      "k": 1,
+      "l": 0,
+      "m": 4,
+      "two_theta": "32.606",
+      "intensity_calculated": "1.1",
+      "d_hkl": "2.744000",
+      "represents": null,
+      "pk": 1792
+    },
+    {
+      "HLS": 28,
+      "h": 2,
+      "k": 4,
+      "l": 0,
+      "m": 4,
+      "two_theta": "32.746",
+      "intensity_calculated": "6.1",
+      "d_hkl": "2.733000",
+      "represents": null,
+      "pk": 1793
+    },
+    {
+      "HLS": 28,
+      "h": 1,
+      "k": 5,
+      "l": 0,
+      "m": 4,
+      "two_theta": "32.829",
+      "intensity_calculated": "0.1",
+      "d_hkl": "2.726000",
+      "represents": null,
+      "pk": 1794
+    },
+    {
+      "HLS": 28,
+      "h": 1,
+      "k": 1,
+      "l": 4,
+      "m": 8,
+      "two_theta": "32.935",
+      "intensity_calculated": "0.0",
+      "d_hkl": "2.717000",
+      "represents": null,
+      "pk": 1795
+    },
+    {
+      "HLS": 28,
+      "h": 0,
+      "k": 2,
+      "l": 4,
+      "m": 4,
+      "two_theta": "32.963",
+      "intensity_calculated": "0.4",
+      "d_hkl": "2.715000",
+      "represents": null,
+      "pk": 1796
+    },
+    {
+      "HLS": 28,
+      "h": 3,
+      "k": 1,
+      "l": 1,
+      "m": 8,
+      "two_theta": "33.513",
+      "intensity_calculated": "0.4",
+      "d_hkl": "2.672000",
+      "represents": null,
+      "pk": 1797
+    },
+    {
+      "HLS": 28,
+      "h": 2,
+      "k": 4,
+      "l": 1,
+      "m": 8,
+      "two_theta": "33.649",
+      "intensity_calculated": "0.4",
+      "d_hkl": "2.661000",
+      "represents": null,
+      "pk": 1798
+    },
+    {
+      "HLS": 28,
+      "h": 2,
+      "k": 2,
+      "l": 3,
+      "m": 8,
+      "two_theta": "33.701",
+      "intensity_calculated": "0.5",
+      "d_hkl": "2.657000",
+      "represents": null,
+      "pk": 1799
+    },
+    {
+      "HLS": 28,
+      "h": 1,
+      "k": 5,
+      "l": 1,
+      "m": 8,
+      "two_theta": "33.731",
+      "intensity_calculated": "1.4",
+      "d_hkl": "2.655000",
+      "represents": null,
+      "pk": 1800
+    },
+    {
+      "HLS": 28,
+      "h": 3,
+      "k": 2,
+      "l": 0,
+      "m": 4,
+      "two_theta": "34.386",
+      "intensity_calculated": "1.6",
+      "d_hkl": "2.606000",
+      "represents": null,
+      "pk": 1801
+    },
+    {
+      "HLS": 28,
+      "h": 0,
+      "k": 5,
+      "l": 2,
+      "m": 4,
+      "two_theta": "34.651",
+      "intensity_calculated": "0.2",
+      "d_hkl": "2.587000",
+      "represents": null,
+      "pk": 1802
+    },
+    {
+      "HLS": 28,
+      "h": 1,
+      "k": 2,
+      "l": 4,
+      "m": 8,
+      "two_theta": "34.700",
+      "intensity_calculated": "2.4",
+      "d_hkl": "2.583000",
+      "represents": null,
+      "pk": 1803
+    },
+    {
+      "HLS": 28,
+      "h": 3,
+      "k": 2,
+      "l": 1,
+      "m": 8,
+      "two_theta": "35.252",
+      "intensity_calculated": "0.5",
+      "d_hkl": "2.544000",
+      "represents": null,
+      "pk": 1804
+    },
+    {
+      "HLS": 28,
+      "h": 1,
+      "k": 4,
+      "l": 3,
+      "m": 8,
+      "two_theta": "35.510",
+      "intensity_calculated": "0.0",
+      "d_hkl": "2.526000",
+      "represents": null,
+      "pk": 1805
+    },
+    {
+      "HLS": 28,
+      "h": 0,
+      "k": 3,
+      "l": 4,
+      "m": 4,
+      "two_theta": "35.860",
+      "intensity_calculated": "0.5",
+      "d_hkl": "2.502000",
+      "represents": null,
+      "pk": 1806
+    },
+    {
+      "HLS": 28,
+      "h": 3,
+      "k": 1,
+      "l": 2,
+      "m": 8,
+      "two_theta": "36.112",
+      "intensity_calculated": "0.1",
+      "d_hkl": "2.485000",
+      "represents": null,
+      "pk": 1807
+    },
+    {
+      "HLS": 28,
+      "h": 2,
+      "k": 4,
+      "l": 2,
+      "m": 8,
+      "two_theta": "36.240",
+      "intensity_calculated": "0.1",
+      "d_hkl": "2.477000",
+      "represents": null,
+      "pk": 1808
+    },
+    {
+      "HLS": 28,
+      "h": 1,
+      "k": 5,
+      "l": 2,
+      "m": 8,
+      "two_theta": "36.316",
+      "intensity_calculated": "0.0",
+      "d_hkl": "2.472000",
+      "represents": null,
+      "pk": 1809
+    },
+    {
+      "HLS": 28,
+      "h": 2,
+      "k": 3,
+      "l": 3,
+      "m": 8,
+      "two_theta": "36.546",
+      "intensity_calculated": "0.4",
+      "d_hkl": "2.457000",
+      "represents": null,
+      "pk": 1810
+    }
+  ],
+  "reflection_layer_cell": [
+    {
+      "HLS": 28,
+      "h": 2,
+      "k": 0,
+      "l": 0,
+      "m": 2,
+      "two_theta": "21.173",
+      "intensity_calculated": "9.7",
+      "d_hkl": "4.193000",
+      "represents": 0,
+      "pk": 1762
+    },
+    {
+      "HLS": 28,
+      "h": 2,
+      "k": 0,
+      "l": 2,
+      "m": 4,
+      "two_theta": "26.109",
+      "intensity_calculated": "12.8",
+      "d_hkl": "3.410000",
+      "represents": 0,
+      "pk": 1774
+    }
+  ],
+  "reflection_layer_layer": [
+    {
+      "HLS": 28,
+      "h": 0,
+      "k": 1,
+      "l": 0,
+      "m": 2,
+      "two_theta": "6.128",
+      "intensity_calculated": "100.0",
+      "d_hkl": "14.412000",
+      "represents": 1,
+      "pk": 1751
+    }
+  ],
+  "fractional_atomic_coordinates": [
+    {
+      "HLS": 28,
+      "atom": "Si1",
+      "x": "-0.7477",
+      "y": "0.5354",
+      "z": "0.2562",
+      "b_iso": "1.38",
+      "occupy": "1.000",
+      "pk": 536
+    },
+    {
+      "HLS": 28,
+      "atom": "Si2",
+      "x": "-0.4443",
+      "y": "0.6247",
+      "z": "0.3662",
+      "b_iso": "1.38",
+      "occupy": "1.000",
+      "pk": 537
+    },
+    {
+      "HLS": 28,
+      "atom": "Si3",
+      "x": "-0.9468",
+      "y": "0.3813",
+      "z": "0.6359",
+      "b_iso": "1.38",
+      "occupy": "1.000",
+      "pk": 538
+    },
+    {
+      "HLS": 28,
+      "atom": "O1",
+      "x": "-0.4780",
+      "y": "0.6300",
+      "z": "0.5014",
+      "b_iso": "1.95",
+      "occupy": "1.000",
+      "pk": 539
+    },
+    {
+      "HLS": 28,
+      "atom": "O2",
+      "x": "-0.3370",
+      "y": "0.5329",
+      "z": "0.3456",
+      "b_iso": "1.95",
+      "occupy": "1.000",
+      "pk": 540
+    },
+    {
+      "HLS": 28,
+      "atom": "O3",
+      "x": "-1.1204",
+      "y": "0.4000",
+      "z": "0.6934",
+      "b_iso": "1.95",
+      "occupy": "1.000",
+      "pk": 541
+    },
+    {
+      "HLS": 28,
+      "atom": "O4",
+      "x": "-0.3710",
+      "y": "0.7180",
+      "z": "0.3189",
+      "b_iso": "1.95",
+      "occupy": "1.000",
+      "pk": 542
+    },
+    {
+      "HLS": 28,
+      "atom": "O5",
+      "x": "-0.8620",
+      "y": "0.2962",
+      "z": "0.6950",
+      "b_iso": "1.95",
+      "occupy": "1.000",
+      "pk": 543
+    },
+    {
+      "HLS": 28,
+      "atom": "O6",
+      "x": "-0.6213",
+      "y": "0.6065",
+      "z": "0.3146",
+      "b_iso": "1.95",
+      "occupy": "1.000",
+      "pk": 544
+    },
+    {
+      "HLS": 28,
+      "atom": "O7",
+      "x": "-0.8434",
+      "y": "0.4755",
+      "z": "0.6585",
+      "b_iso": "1.95",
+      "occupy": "1.000",
+      "pk": 545
+    },
+    {
+      "HLS": 28,
+      "atom": "C11",
+      "x": "0.3909",
+      "y": "0.0812",
+      "z": "0.5011",
+      "b_iso": "5.28",
+      "occupy": "1.070",
+      "pk": 546
+    },
+    {
+      "HLS": 28,
+      "atom": "C12",
+      "x": "0.4091",
+      "y": "0.0466",
+      "z": "0.6115",
+      "b_iso": "5.28",
+      "occupy": "1.070",
+      "pk": 547
+    },
+    {
+      "HLS": 28,
+      "atom": "C13",
+      "x": "0.4630",
+      "y": "-0.0437",
+      "z": "0.6276",
+      "b_iso": "5.28",
+      "occupy": "1.070",
+      "pk": 548
+    },
+    {
+      "HLS": 28,
+      "atom": "C14",
+      "x": "0.4820",
+      "y": "-0.1023",
+      "z": "0.5342",
+      "b_iso": "5.28",
+      "occupy": "1.070",
+      "pk": 549
+    },
+    {
+      "HLS": 28,
+      "atom": "C15",
+      "x": "0.4530",
+      "y": "-0.0696",
+      "z": "0.4243",
+      "b_iso": "5.28",
+      "occupy": "1.070",
+      "pk": 550
+    },
+    {
+      "HLS": 28,
+      "atom": "C16",
+      "x": "0.4090",
+      "y": "0.0224",
+      "z": "0.4076",
+      "b_iso": "5.28",
+      "occupy": "1.070",
+      "pk": 551
+    },
+    {
+      "HLS": 28,
+      "atom": "N1",
+      "x": "0.0254",
+      "y": "-0.2448",
+      "z": "0.5080",
+      "b_iso": "9.28",
+      "occupy": "1.000",
+      "pk": 552
+    },
+    {
+      "HLS": 28,
+      "atom": "C21",
+      "x": "0.6178",
+      "y": "0.8133",
+      "z": "-0.0202",
+      "b_iso": "9.28",
+      "occupy": "1.330",
+      "pk": 553
+    },
+    {
+      "HLS": 28,
+      "atom": "C22",
+      "x": "0.5335",
+      "y": "0.6578",
+      "z": "0.0120",
+      "b_iso": "9.28",
+      "occupy": "1.500",
+      "pk": 554
+    },
+    {
+      "HLS": 28,
+      "atom": "C23",
+      "x": "0.1445",
+      "y": "0.7676",
+      "z": "0.4126",
+      "b_iso": "9.28",
+      "occupy": "1.500",
+      "pk": 555
+    },
+    {
+      "HLS": 28,
+      "atom": "C24",
+      "x": "0.4090",
+      "y": "0.7908",
+      "z": "0.1198",
+      "b_iso": "9.28",
+      "occupy": "1.500",
+      "pk": 556
+    }
+  ],
+  "has_powder_pattern": true,
+  "has_atr_ir_spectrum": true
+}

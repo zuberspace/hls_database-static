@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Redirecting...</title>
+</head>
+<body>
+  <script>
+    (function () {
+      var path = window.location.pathname || "/";
+      if (path.includes("/mediafiles/")) return;
+      var segments = path.split("/").filter(Boolean);
+      if (segments.length && (segments[segments.length - 1] === "404.html" || segments[segments.length - 1] === "index.html")) {
+        segments.pop();
+      }
+      if ((window.location.hostname.endsWith("github.io") || window.location.hostname.endsWith("gitlab.io")) && segments.length > 1) {
+        segments.shift();
+      }
+      var route = segments.join("/");
+      var hashRoute = route ? "#/" + route : "#/";
+      window.location.replace("./index.html" + hashRoute + window.location.search);
+    })();
+  </script>
+  <p>Redirecting...</p>
+</body>
+</html>

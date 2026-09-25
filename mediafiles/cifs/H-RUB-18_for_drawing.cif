@@ -1,0 +1,69 @@
+#======================================================================
+
+# CRYSTAL DATA     H-RUB-18
+
+#----------------------------------------------------------------------
+
+data_VESTA_phase_1
+
+
+_chemical_name_common                  ''
+_cell_length_a                         7.38300
+_cell_length_b                         7.38300
+_cell_length_c                         29.75900
+_cell_angle_alpha                      90
+_cell_angle_beta                       90
+_cell_angle_gamma                      90
+_space_group_name_H-M_alt              'I 41/a m d'
+_space_group_IT_number                 141
+
+loop_
+_space_group_symop_operation_xyz
+   'x, y, z'
+   '-x, -y, -z'
+   '-x+1/2, -y, z+1/2'
+   'x+1/2, y, -z+1/2'
+   '-y+1/4, x+3/4, z+1/4'
+   'y+3/4, -x+1/4, -z+3/4'
+   'y+1/4, -x+1/4, z+3/4'
+   '-y+3/4, x+3/4, -z+1/4'
+   '-x+1/2, y, -z+1/2'
+   'x+1/2, -y, z+1/2'
+   'x, -y, -z'
+   '-x, y, z'
+   'y+1/4, x+3/4, -z+1/4'
+   '-y+3/4, -x+1/4, z+3/4'
+   '-y+1/4, -x+1/4, -z+3/4'
+   'y+3/4, x+3/4, z+1/4'
+   'x+1/2, y+1/2, z+1/2'
+   '-x+1/2, -y+1/2, -z+1/2'
+   '-x, -y+1/2, z'
+   'x, y+1/2, -z'
+   '-y+3/4, x+1/4, z+3/4'
+   'y+1/4, -x+3/4, -z+1/4'
+   'y+3/4, -x+3/4, z+1/4'
+   '-y+1/4, x+1/4, -z+3/4'
+   '-x, y+1/2, -z'
+   'x, -y+1/2, z'
+   'x+1/2, -y+1/2, -z+1/2'
+   '-x+1/2, y+1/2, z+1/2'
+   'y+3/4, x+1/4, -z+3/4'
+   '-y+1/4, -x+3/4, z+1/4'
+   '-y+3/4, -x+3/4, -z+1/4'
+   'y+1/4, x+1/4, z+3/4'
+
+loop_
+   _atom_site_label
+   _atom_site_occupancy
+   _atom_site_fract_x
+   _atom_site_fract_y
+   _atom_site_fract_z
+   _atom_site_adp_type
+   _atom_site_U_iso_or_equiv
+   _atom_site_type_symbol
+   Si1        1.0     0.791000      0.791000      0.000000     Uiso  0.025330 Si
+   Si2        2.0000  0.000000      0.789000      0.427000     Uiso  0.025330 Si
+   OW1        2.1191  0.000000      0.657000      0.383000     Uiso  0.054460 O
+   O2         1.0     0.237000      0.672000      0.709000     Uiso  0.021530 O
+   O3         1.9524  0.000000      0.000000      0.588000     Uiso  0.021530 O
+   O4         2.0000  0.000000      0.757000      0.264000     Uiso  0.021530 O

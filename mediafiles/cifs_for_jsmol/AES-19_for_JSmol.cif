@@ -1,0 +1,66 @@
+#======================================================================
+
+# CRYSTAL DATA    AES-19
+
+
+#=======================================================================
+
+data_phase_1
+
+_symmetry_cell_setting                 orthorhombic
+_symmetry_space_group_name_H-M         'P n n a'
+_symmetry_space_group_name_Hall        '-P 2a 2bc'
+_symmetry_Int_Tables_number            52
+
+loop_
+   _symmetry_equiv_pos_site_id
+   _symmetry_equiv_pos_as_xyz
+  1   x,y,z
+  2   -x+1/2,-y,z
+  3   -x+1/2,y+1/2,-z+1/2
+  4   x,-y+1/2,-z+1/2
+  5   -x,-y,-z
+  6   x+1/2,y,-z
+  7   x+1/2,-y+1/2,z+1/2
+  8   -x,y+1/2,z+1/2
+
+_cell_length_a                         13.93680(5)
+_cell_length_b                         23.4754(3)
+_cell_length_c                         6.76308(5)
+_cell_angle_alpha                      90
+_cell_angle_beta                       90
+_cell_angle_gamma                      90
+_cell_volume                           2212.69(3)
+
+loop_
+   _atom_site_label
+   _atom_site_fract_x
+   _atom_site_fract_y
+   _atom_site_fract_z
+   _atom_site_occupancy
+   _atom_site_symmetry_multiplicity
+   _atom_site_Wyckoff_symbol
+   _atom_site_adp_type
+   _atom_site_U_iso_or_equiv
+   _atom_site_type_symbol
+Si1     0.2130(3)   0.3719(2)   0.0278(6)   1            8 e Uiso  0.0067(5)  Si
+Si2     0.0597(3)   0.1864(2)   0.2281(7)   1            8 e Uiso  0.0067(5)  Si
+Si3     0.5706(4)   0.1205(2)   0.1727(5)   1            8 e Uiso  0.0067(5)  Si
+Si4     0.4270(4)   0.1171(2)   0.5041(6)   1            8 e Uiso  0.0067(5)  Si
+O1      0.1585(6)   0.3192(4)   0.134(1)    1            8 e Uiso  0.018(1)   O
+O2      0.5517(8)   0.0595(4)   0.084(1)    1            8 e Uiso  0.018(1)   F
+O3      0.1979(7)   0.0661(4)   0.368(1)    1            8 e Uiso  0.018(1)   F
+O4      0.4247(7)   0.0480(4)   0.518(1)    1            8 e Uiso  0.018(1)   F
+O5      0.5825(7)   0.1708(4)   0.005(1)    1            8 e Uiso  0.018(1)   O
+O6      0.5233(6)   0.6430(3)   0.210(1)    1            8 e Uiso  0.018(1)   O
+O7      0.3227(9)   0.3499(4)   0.008(2)    1            8 e Uiso  0.018(1)   O
+O8      0.0245(7)   0.25        0.25        1            4 d Uiso  0.018(1)   O
+O9      0.1713(6)   0.1285(3)   0.701(1)    1            8 e Uiso  0.018(1)   O
+O10     0.4825(6)   0.1418(3)   0.306(1)    1            8 e Uiso  0.018(1)   O
+Sr      0.05774(9)  0.01421(6)  0.2429(2)   1            8 e Uiso  0.0095(3)  Sr
+K1      0.3660(3)   0.25        0.25        1            4 d Uiso  0.045(1)   Rb
+K2      0.25        0           0.7180(8)   1            4 c Uiso  0.045(1)   Rb
+WO1     0.3160(7)   0.0619(4)   0.070(1)    1            8 e Uiso  0.028(3)   S
+WO2     0.309(1)    0.307(1)    0.575(2)    0.61(2)      8 e Uiso  0.028(3)   S
+WO3     0.316(2)    0.160(1)   -0.010(4)    0.39(2)      8 e Uiso  0.028(3)   S
+

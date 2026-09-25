@@ -1,0 +1,43 @@
+#======================================================================
+
+# CRYSTAL DATA
+
+#----------------------------------------------------------------------
+
+data_Liebau
+
+
+_pd_phase_name                         'sample Disilicic Acid I               '
+_cell_length_a                         6.120(1)
+_cell_length_b                         15.400(1)
+_cell_length_c                         4.960(1)
+_cell_angle_alpha                      90
+_cell_angle_beta                       90
+_cell_angle_gamma                      90
+_symmetry_space_group_name_H-M         'I b m 2'
+_symmetry_Int_Tables_number            46
+
+loop_
+_symmetry_equiv_pos_as_xyz
+   'x, y, z'
+   '-x, -y, z'
+   '-x, y+1/2, z'
+   'x, -y+1/2, z'
+   'x+1/2, y+1/2, z+1/2'
+   '-x+1/2, -y+1/2, z+1/2'
+   '-x+1/2, y, z+1/2'
+   'x+1/2, -y, z+1/2'
+
+loop_
+   _atom_site_label
+   _atom_site_occupancy
+   _atom_site_fract_x
+   _atom_site_fract_y
+   _atom_site_fract_z
+   _atom_site_adp_type
+   _atom_site_U_iso_or_equiv
+   _atom_site_type_symbol
+   Si1        1.0000  0.889600      0.093500      0.000000     Uiso  0.012670 Si
+   O1         1.0000  0.000000      0.000000      0.889500     Uiso  0.025330 O
+   O2         1.0     0.803500      0.114100      0.714600     Uiso  0.025330 O
+   OH3         1.0     0.080800      0.164000      0.965100     Uiso  0.025330 F

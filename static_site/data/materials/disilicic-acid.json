@@ -1,0 +1,409 @@
+{
+  "pk": 3,
+  "name": "Disilicic Acid",
+  "slug": "disilicic-acid",
+  "is_related_material": false,
+  "layer_type": {
+    "pk": 5,
+    "name": "cri",
+    "slug": "cri"
+  },
+  "intercalated_cation": {
+    "pk": 3,
+    "name": "H+",
+    "chemical_formula": "H"
+  },
+  "similar_structure": [],
+  "similar_chemistry": [],
+  "similar_structure_known": {},
+  "similar_chemistry_known": {},
+  "files": {
+    "cif": "cifs/calculation_disilicic_acid.cif",
+    "cif_for_jsmol": "cifs_for_jsmol/disilicic_acid_for_JSmol_sSZDmO9.cif",
+    "powder_pattern_data": "powder_pattern/Disilicic_acid_calc.csv",
+    "reflections_data": "reflections/disilisic_acid_reflections.csv",
+    "fractional_atomic_coordinates_data": "facs/disilisic_acid_facs.csv",
+    "structure_plot": "plots/SP_Disilicic_Acid_cut.jpg",
+    "atr_ir_spectrum_data": null
+  },
+  "synthesis": [
+    {
+      "pk": 3,
+      "mixture": "Layered α-Na<sub>2</sub>Si<sub>2</sub>O<sub>5</sub> leached with sulfuric acid",
+      "sda": "H<sup>+",
+      "temperature": null,
+      "duration": "",
+      "conditions": "",
+      "comment": "",
+      "reference": {
+        "pk": 7,
+        "title": "Über Kristallstrukturen zweier Phyllokieselsäuren H<sub>2</sub>Si<sub>2</sub>O<sub>5</sub>",
+        "year": 1964,
+        "volume": 120,
+        "issue": "1-6",
+        "pages": "427-449",
+        "doi": "https://doi.org/10.1524/zkri.1964.120.16.427",
+        "pdf": "",
+        "journal": {
+          "pk": 4,
+          "name": "Zeitschrift für Kristallographie – Crystalline Materials"
+        },
+        "authors": [
+          {
+            "pk": 11,
+            "first_name": "F.",
+            "last_name": "Liebau",
+            "display_name": "F. Liebau"
+          }
+        ],
+        "from_db": true
+      }
+    }
+  ],
+  "crystal_structure": [
+    {
+      "pk": 3,
+      "space_group": {
+        "pk": 46,
+        "symbol_short": "Ima2"
+      },
+      "crystal_system": "orthorhombic",
+      "chemical_composition": "H<sub>8</sub>Si<sub>8</sub>O<sub>20</sub>",
+      "stacking_direction": "b",
+      "a": 6.12,
+      "b": 15.4,
+      "c": 4.96,
+      "alpha": 90.0,
+      "beta": 90.0,
+      "gamma": 90.0,
+      "comment": "",
+      "reference": {
+        "pk": 7,
+        "title": "Über Kristallstrukturen zweier Phyllokieselsäuren H<sub>2</sub>Si<sub>2</sub>O<sub>5</sub>",
+        "year": 1964,
+        "volume": 120,
+        "issue": "1-6",
+        "pages": "427-449",
+        "doi": "https://doi.org/10.1524/zkri.1964.120.16.427",
+        "pdf": "",
+        "journal": {
+          "pk": 4,
+          "name": "Zeitschrift für Kristallographie – Crystalline Materials"
+        },
+        "authors": [
+          {
+            "pk": 11,
+            "first_name": "F.",
+            "last_name": "Liebau",
+            "display_name": "F. Liebau"
+          }
+        ],
+        "from_db": true
+      },
+      "lp_2d_cell": [
+        "a = 6.12 Å",
+        "c = 4.96 Å",
+        "β = 90.00 °"
+      ],
+      "lp_stacking_direction": [
+        "b = 15.40 Å",
+        "α = 90.00 °",
+        "γ = 90.00 °"
+      ]
+    }
+  ],
+  "properties": [
+    {
+      "pk": 3,
+      "density_calculated": 1.963,
+      "condensation_product": "Cristobalite [22]",
+      "comment": ""
+    }
+  ],
+  "peaks": [
+    {
+      "HLS": 3,
+      "two_theta": "11.483000000",
+      "intensity": "31.1",
+      "pk": 15
+    },
+    {
+      "HLS": 3,
+      "two_theta": "15.568000000",
+      "intensity": "100.0",
+      "pk": 16
+    },
+    {
+      "HLS": 3,
+      "two_theta": "22.590000000",
+      "intensity": "9.4",
+      "pk": 17
+    },
+    {
+      "HLS": 3,
+      "two_theta": "23.063000000",
+      "intensity": "36.7",
+      "pk": 18
+    },
+    {
+      "HLS": 3,
+      "two_theta": "23.083000000",
+      "intensity": "7.0",
+      "pk": 19
+    },
+    {
+      "HLS": 3,
+      "two_theta": "31.433000000",
+      "intensity": "22.3",
+      "pk": 20
+    },
+    {
+      "HLS": 3,
+      "two_theta": "32.518000000",
+      "intensity": "11.3",
+      "pk": 21
+    }
+  ],
+  "reflections": [
+    {
+      "HLS": 3,
+      "h": 0,
+      "k": 2,
+      "l": 0,
+      "m": 2,
+      "two_theta": "11.483",
+      "intensity_calculated": "129.8",
+      "d_hkl": "7.700000",
+      "represents": 1,
+      "pk": 43
+    },
+    {
+      "HLS": 3,
+      "h": 1,
+      "k": 1,
+      "l": 0,
+      "m": 4,
+      "two_theta": "15.568",
+      "intensity_calculated": "972.5",
+      "d_hkl": "5.687357",
+      "represents": null,
+      "pk": 44
+    },
+    {
+      "HLS": 3,
+      "h": 1,
+      "k": 3,
+      "l": 0,
+      "m": 4,
+      "two_theta": "22.590",
+      "intensity_calculated": "1923.3",
+      "d_hkl": "3.932980",
+      "represents": null,
+      "pk": 45
+    },
+    {
+      "HLS": 3,
+      "h": 1,
+      "k": 0,
+      "l": 1,
+      "m": 4,
+      "two_theta": "23.063",
+      "intensity_calculated": "3673.5",
+      "d_hkl": "3.853374",
+      "represents": 0,
+      "pk": 46
+    },
+    {
+      "HLS": 3,
+      "h": 0,
+      "k": 4,
+      "l": 0,
+      "m": 2,
+      "two_theta": "23.083",
+      "intensity_calculated": "1322.2",
+      "d_hkl": "3.850000",
+      "represents": null,
+      "pk": 47
+    },
+    {
+      "HLS": 3,
+      "h": 1,
+      "k": 2,
+      "l": 1,
+      "m": 8,
+      "two_theta": "25.834",
+      "intensity_calculated": "239.6",
+      "d_hkl": "3.445958",
+      "represents": null,
+      "pk": 48
+    },
+    {
+      "HLS": 3,
+      "h": 2,
+      "k": 0,
+      "l": 0,
+      "m": 2,
+      "two_theta": "29.160",
+      "intensity_calculated": "42.3",
+      "d_hkl": "3.060000",
+      "represents": null,
+      "pk": 49
+    },
+    {
+      "HLS": 3,
+      "h": 2,
+      "k": 2,
+      "l": 0,
+      "m": 4,
+      "two_theta": "31.433",
+      "intensity_calculated": "15.1",
+      "d_hkl": "2.843678",
+      "represents": null,
+      "pk": 50
+    },
+    {
+      "HLS": 3,
+      "h": 1,
+      "k": 5,
+      "l": 0,
+      "m": 4,
+      "two_theta": "32.518",
+      "intensity_calculated": "13.2",
+      "d_hkl": "2.751230",
+      "represents": null,
+      "pk": 51
+    },
+    {
+      "HLS": 3,
+      "h": 1,
+      "k": 4,
+      "l": 1,
+      "m": 8,
+      "two_theta": "32.858",
+      "intensity_calculated": "351.5",
+      "d_hkl": "2.723553",
+      "represents": null,
+      "pk": 52
+    },
+    {
+      "HLS": 3,
+      "h": 2,
+      "k": 1,
+      "l": 1,
+      "m": 8,
+      "two_theta": "34.913",
+      "intensity_calculated": "26.9",
+      "d_hkl": "2.567812",
+      "represents": null,
+      "pk": 53
+    },
+    {
+      "HLS": 3,
+      "h": 0,
+      "k": 6,
+      "l": 0,
+      "m": 2,
+      "two_theta": "34.929",
+      "intensity_calculated": "24.7",
+      "d_hkl": "2.566667",
+      "represents": null,
+      "pk": 54
+    },
+    {
+      "HLS": 3,
+      "h": 0,
+      "k": 0,
+      "l": 2,
+      "m": 2,
+      "two_theta": "36.191",
+      "intensity_calculated": "249.4",
+      "d_hkl": "2.480000",
+      "represents": 0,
+      "pk": 55
+    }
+  ],
+  "reflection_layer_cell": [
+    {
+      "HLS": 3,
+      "h": 1,
+      "k": 0,
+      "l": 1,
+      "m": 4,
+      "two_theta": "23.063",
+      "intensity_calculated": "3673.5",
+      "d_hkl": "3.853374",
+      "represents": 0,
+      "pk": 46
+    },
+    {
+      "HLS": 3,
+      "h": 0,
+      "k": 0,
+      "l": 2,
+      "m": 2,
+      "two_theta": "36.191",
+      "intensity_calculated": "249.4",
+      "d_hkl": "2.480000",
+      "represents": 0,
+      "pk": 55
+    }
+  ],
+  "reflection_layer_layer": [
+    {
+      "HLS": 3,
+      "h": 0,
+      "k": 2,
+      "l": 0,
+      "m": 2,
+      "two_theta": "11.483",
+      "intensity_calculated": "129.8",
+      "d_hkl": "7.700000",
+      "represents": 1,
+      "pk": 43
+    }
+  ],
+  "fractional_atomic_coordinates": [
+    {
+      "HLS": 3,
+      "atom": "Si1",
+      "x": "0.8896",
+      "y": "0.0935",
+      "z": "0.0000",
+      "b_iso": null,
+      "occupy": "1.000",
+      "pk": 13
+    },
+    {
+      "HLS": 3,
+      "atom": "O1",
+      "x": "0.0000",
+      "y": "0.0000",
+      "z": "0.8895",
+      "b_iso": null,
+      "occupy": "1.000",
+      "pk": 14
+    },
+    {
+      "HLS": 3,
+      "atom": "O2",
+      "x": "0.8035",
+      "y": "0.1141",
+      "z": "0.7146",
+      "b_iso": null,
+      "occupy": "1.000",
+      "pk": 15
+    },
+    {
+      "HLS": 3,
+      "atom": "O3",
+      "x": "0.0808",
+      "y": "0.1640",
+      "z": "0.9651",
+      "b_iso": null,
+      "occupy": "1.000",
+      "pk": 16
+    }
+  ],
+  "has_powder_pattern": true,
+  "has_atr_ir_spectrum": false
+}

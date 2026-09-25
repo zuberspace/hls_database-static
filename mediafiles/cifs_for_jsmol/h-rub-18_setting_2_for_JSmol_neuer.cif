@@ -1,0 +1,78 @@
+##############################################################################
+###      FullProf-generated CIF output file  (version: August 2002)        ###
+###      Template of CIF submission form for structure report              ###
+##############################################################################
+ 
+data_VESTA_phase_1
+
+# 6. POWDER SPECIMEN AND CRYSTAL DATA
+ 
+_symmetry_cell_setting                Tetragonal
+_symmetry_space_group_name_H-M       'I 41/A M D'
+_symmetry_space_group_name_Hall      '-I 4bd 2'
+_symmetry_Int_Tables_number        141
+
+ 
+loop_
+    _symmetry_equiv_pos_as_xyz   #<--must include 'x,y,z'
+'x,y,z'
+'-y+1/4,x+3/4,z+1/4'
+'-x+1/2,-y,z+1/2'
+'y+1/4,-x+1/4,z+3/4'
+'-x,y,z'
+'y+3/4,x+3/4,z+1/4'
+'x+1/2,-y,z+1/2'
+'-y+3/4,-x+1/4,z+3/4'
+'-x,-y,-z'
+'y+3/4,-x+1/4,-z+3/4'
+'x+1/2,y,-z+1/2'
+'-y+3/4,x+3/4,-z+1/4'
+'x,-y,-z'
+'-y+1/4,-x+1/4,-z+3/4'
+'-x+1/2,y,-z+1/2'
+'y+1/4,x+3/4,-z+1/4'
+'x+1/2,y+1/2,z+1/2'
+'-y+3/4,x+1/4,z+3/4'
+'-x,-y+1/2,z'
+'y+3/4,-x+3/4,z+1/4'
+'-x+1/2,y+1/2,z+1/2'
+'y+1/4,x+1/4,z+3/4'
+'x,-y+1/2,z'
+'-y+1/4,-x+3/4,z+1/4'
+'-x+1/2,-y+1/2,-z+1/2'
+'y+1/4,-x+3/4,-z+1/4'
+'x,y+1/2,-z'
+'-y+1/4,x+1/4,-z+3/4'
+'x+1/2,-y+1/2,-z+1/2'
+'-y+3/4,-x+3/4,-z+1/4'
+'-x,y+1/2,-z'
+'y+3/4,x+1/4,-z+3/4'
+ 
+_cell_length_a                       7.38300
+_cell_length_b                       7.38300
+_cell_length_c                       29.75900
+_cell_angle_alpha                    90.00000
+_cell_angle_beta                     90.00000
+_cell_angle_gamma                    90.00000
+_cell_volume                         1622.12402
+
+#=============================================================================
+ 
+# 9. ATOMIC COORDINATES AND DISPLACEMENT PARAMETERS
+ 
+loop_
+    _atom_site_label
+    _atom_site_fract_x
+    _atom_site_fract_y
+    _atom_site_fract_z
+    _atom_site_U_iso_or_equiv
+    _atom_site_occupancy
+    _atom_site_adp_type              # Not in version 2.0.1
+    _atom_site_type_symbol
+ Si1    0.79100     1.04100     0.87500     0.02533     1.00000    Uiso Si  
+ Si2    0.00000     1.03900     0.30200     0.02533     1.00000    Uiso Si  
+ OH1    0.00000     0.90700     0.25900     0.05446     1.12500    Uiso F   
+ O2     0.23700     0.92200     0.58400     0.02153     1.00000    Uiso O   
+ O3     0.00000     0.25000     0.46300     0.02153     1.00000    Uiso O   
+ O4     0.00000     1.00700     0.13900     0.02153     1.00000    Uiso O   
+ 

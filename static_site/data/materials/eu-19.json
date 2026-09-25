@@ -1,0 +1,1037 @@
+{
+  "pk": 5,
+  "name": "EU-19",
+  "slug": "eu-19",
+  "is_related_material": false,
+  "layer_type": {
+    "pk": 4,
+    "name": "cas",
+    "slug": "cas"
+  },
+  "intercalated_cation": {
+    "pk": 5,
+    "name": "piperazinium",
+    "chemical_formula": "C4H12N2"
+  },
+  "similar_structure": [
+    "MCM-69 [33]"
+  ],
+  "similar_chemistry": [],
+  "similar_structure_known": {
+    "MCM-69 [33]": null
+  },
+  "similar_chemistry_known": {},
+  "files": {
+    "cif": "cifs/EU-19_for_drawing.cif",
+    "cif_for_jsmol": "cifs_for_jsmol/Eu-19_for_JSmol.cif",
+    "powder_pattern_data": "powder_pattern/EU-19_powder_pattern.csv",
+    "reflections_data": "reflections/EU-19_Reflections.csv",
+    "fractional_atomic_coordinates_data": "facs/EU-19_fracs.csv",
+    "structure_plot": "plots/SP_EU-19_cut.jpg",
+    "atr_ir_spectrum_data": "atr_ir_spectra/EU-19_THO49C.CSV"
+  },
+  "synthesis": [
+    {
+      "pk": 5,
+      "mixture": "15 SDA : 20 SiO<sub>2</sub> : 1000 H<sub>2</sub>O",
+      "sda": "Piperazine",
+      "temperature": 150.0,
+      "duration": "102 d",
+      "conditions": "static",
+      "comment": "",
+      "reference": {
+        "pk": 9,
+        "title": "Preparation and properties of piperazine silicate (EU-19) and a silica polymorph (EU-20)",
+        "year": 1988,
+        "volume": null,
+        "issue": "10",
+        "pages": "2513-2517",
+        "doi": "https://doi.org/10.1039/DT9880002513",
+        "pdf": "",
+        "journal": {
+          "pk": 5,
+          "name": "Journal of the Chemical Society - Dalton Transactions"
+        },
+        "authors": [
+          {
+            "pk": 19,
+            "first_name": "A. J.",
+            "last_name": "Blake",
+            "display_name": "A. J. Blake"
+          },
+          {
+            "pk": 20,
+            "first_name": "Kevin R.",
+            "last_name": "Franklin",
+            "display_name": "Kevin R. Franklin"
+          },
+          {
+            "pk": 21,
+            "first_name": "B. M.",
+            "last_name": "Lowe",
+            "display_name": "B. M. Lowe"
+          }
+        ],
+        "from_db": true
+      }
+    }
+  ],
+  "crystal_structure": [
+    {
+      "pk": 5,
+      "space_group": {
+        "pk": 15,
+        "symbol_short": "C2/c"
+      },
+      "crystal_system": "monoclinic",
+      "chemical_composition": "(C<sub>4</sub>H<sub>12</sub>N<sub>2</sub>)<sub>4</sub>[Si<sub>24</sub>O<sub>52</sub>]",
+      "stacking_direction": "c",
+      "a": 13.57,
+      "b": 4.9,
+      "c": 22.46,
+      "alpha": 90.0,
+      "beta": 91.67,
+      "gamma": 90.0,
+      "comment": "",
+      "reference": {
+        "pk": 18,
+        "title": "Piperazine silicate (EU 19): the structure of a very small crystal determined with synchrotron radiation",
+        "year": 1988,
+        "volume": 44,
+        "issue": "1",
+        "pages": "73-77",
+        "doi": "https://doi.org/10.1107/S0108768187009820",
+        "pdf": "",
+        "journal": {
+          "pk": 13,
+          "name": "Acta Crystallographica Section B"
+        },
+        "authors": [
+          {
+            "pk": 46,
+            "first_name": "S. J.",
+            "last_name": "Andrews",
+            "display_name": "S. J. Andrews"
+          },
+          {
+            "pk": 47,
+            "first_name": "M. Z.",
+            "last_name": "Papiz",
+            "display_name": "M. Z. Papiz"
+          },
+          {
+            "pk": 48,
+            "first_name": "R.",
+            "last_name": "McMeeking",
+            "display_name": "R. McMeeking"
+          },
+          {
+            "pk": 19,
+            "first_name": "A. J.",
+            "last_name": "Blake",
+            "display_name": "A. J. Blake"
+          },
+          {
+            "pk": 21,
+            "first_name": "B. M.",
+            "last_name": "Lowe",
+            "display_name": "B. M. Lowe"
+          },
+          {
+            "pk": 49,
+            "first_name": "K. R.",
+            "last_name": "Franklin",
+            "display_name": "K. R. Franklin"
+          },
+          {
+            "pk": 50,
+            "first_name": "J. R.",
+            "last_name": "Helliwell",
+            "display_name": "J. R. Helliwell"
+          },
+          {
+            "pk": 51,
+            "first_name": "M. M.",
+            "last_name": "Harding",
+            "display_name": "M. M. Harding"
+          }
+        ],
+        "from_db": true
+      },
+      "lp_2d_cell": [
+        "a = 13.57 Å",
+        "b = 4.90 Å",
+        "γ = 90.00 °"
+      ],
+      "lp_stacking_direction": [
+        "c = 22.46 Å",
+        "α = 90.00 °",
+        "β = 91.67 °"
+      ]
+    }
+  ],
+  "properties": [
+    {
+      "pk": 5,
+      "density_calculated": 2.04,
+      "condensation_product": "EU-20, EU-20b (88% CAS + 12% NSI)",
+      "comment": ""
+    }
+  ],
+  "peaks": [
+    {
+      "HLS": 5,
+      "two_theta": "7.736000000",
+      "intensity": "100.0",
+      "pk": 29
+    },
+    {
+      "HLS": 5,
+      "two_theta": "20.487000000",
+      "intensity": "39.7",
+      "pk": 30
+    },
+    {
+      "HLS": 5,
+      "two_theta": "22.127000000",
+      "intensity": "79.4",
+      "pk": 31
+    },
+    {
+      "HLS": 5,
+      "two_theta": "25.881000000",
+      "intensity": "13.6",
+      "pk": 32
+    },
+    {
+      "HLS": 5,
+      "two_theta": "26.568000000",
+      "intensity": "11.0",
+      "pk": 33
+    },
+    {
+      "HLS": 5,
+      "two_theta": "27.273000000",
+      "intensity": "16.3",
+      "pk": 34
+    },
+    {
+      "HLS": 5,
+      "two_theta": "27.347000000",
+      "intensity": "14.8",
+      "pk": 35
+    }
+  ],
+  "reflections": [
+    {
+      "HLS": 5,
+      "h": 0,
+      "k": 0,
+      "l": 2,
+      "m": 2,
+      "two_theta": "7.736",
+      "intensity_calculated": "100.0",
+      "d_hkl": "11.419000",
+      "represents": 1,
+      "pk": 142
+    },
+    {
+      "HLS": 5,
+      "h": 2,
+      "k": 0,
+      "l": 0,
+      "m": 2,
+      "two_theta": "12.858",
+      "intensity_calculated": "0.9",
+      "d_hkl": "6.880000",
+      "represents": null,
+      "pk": 143
+    },
+    {
+      "HLS": 5,
+      "h": -2,
+      "k": 0,
+      "l": 2,
+      "m": 2,
+      "two_theta": "14.825",
+      "intensity_calculated": "1.8",
+      "d_hkl": "5.971000",
+      "represents": null,
+      "pk": 144
+    },
+    {
+      "HLS": 5,
+      "h": 2,
+      "k": 0,
+      "l": 2,
+      "m": 2,
+      "two_theta": "15.217",
+      "intensity_calculated": "8.6",
+      "d_hkl": "5.818000",
+      "represents": null,
+      "pk": 145
+    },
+    {
+      "HLS": 5,
+      "h": 0,
+      "k": 0,
+      "l": 4,
+      "m": 2,
+      "two_theta": "15.507",
+      "intensity_calculated": "0.6",
+      "d_hkl": "5.710000",
+      "represents": null,
+      "pk": 146
+    },
+    {
+      "HLS": 5,
+      "h": 1,
+      "k": 1,
+      "l": 0,
+      "m": 4,
+      "two_theta": "18.886",
+      "intensity_calculated": "0.8",
+      "d_hkl": "4.695000",
+      "represents": null,
+      "pk": 147
+    },
+    {
+      "HLS": 5,
+      "h": -1,
+      "k": 1,
+      "l": 1,
+      "m": 4,
+      "two_theta": "19.246",
+      "intensity_calculated": "2.4",
+      "d_hkl": "4.608000",
+      "represents": null,
+      "pk": 148
+    },
+    {
+      "HLS": 5,
+      "h": 1,
+      "k": 1,
+      "l": 1,
+      "m": 4,
+      "two_theta": "19.323",
+      "intensity_calculated": "0.2",
+      "d_hkl": "4.590000",
+      "represents": null,
+      "pk": 149
+    },
+    {
+      "HLS": 5,
+      "h": -2,
+      "k": 0,
+      "l": 4,
+      "m": 2,
+      "two_theta": "19.899",
+      "intensity_calculated": "10.9",
+      "d_hkl": "4.458000",
+      "represents": null,
+      "pk": 150
+    },
+    {
+      "HLS": 5,
+      "h": -1,
+      "k": 1,
+      "l": 2,
+      "m": 4,
+      "two_theta": "20.363",
+      "intensity_calculated": "3.0",
+      "d_hkl": "4.358000",
+      "represents": null,
+      "pk": 151
+    },
+    {
+      "HLS": 5,
+      "h": 2,
+      "k": 0,
+      "l": 4,
+      "m": 2,
+      "two_theta": "20.487",
+      "intensity_calculated": "39.7",
+      "d_hkl": "4.332000",
+      "represents": null,
+      "pk": 152
+    },
+    {
+      "HLS": 5,
+      "h": 1,
+      "k": 1,
+      "l": 2,
+      "m": 4,
+      "two_theta": "20.508",
+      "intensity_calculated": "0.5",
+      "d_hkl": "4.327000",
+      "represents": null,
+      "pk": 153
+    },
+    {
+      "HLS": 5,
+      "h": -1,
+      "k": 1,
+      "l": 3,
+      "m": 4,
+      "two_theta": "22.127",
+      "intensity_calculated": "79.4",
+      "d_hkl": "4.014000",
+      "represents": null,
+      "pk": 154
+    },
+    {
+      "HLS": 5,
+      "h": 1,
+      "k": 1,
+      "l": 3,
+      "m": 4,
+      "two_theta": "22.328",
+      "intensity_calculated": "4.9",
+      "d_hkl": "3.978000",
+      "represents": null,
+      "pk": 155
+    },
+    {
+      "HLS": 5,
+      "h": 0,
+      "k": 0,
+      "l": 6,
+      "m": 2,
+      "two_theta": "23.351",
+      "intensity_calculated": "8.4",
+      "d_hkl": "3.806000",
+      "represents": null,
+      "pk": 156
+    },
+    {
+      "HLS": 5,
+      "h": -1,
+      "k": 1,
+      "l": 4,
+      "m": 4,
+      "two_theta": "24.405",
+      "intensity_calculated": "4.4",
+      "d_hkl": "3.644000",
+      "represents": null,
+      "pk": 157
+    },
+    {
+      "HLS": 5,
+      "h": 1,
+      "k": 1,
+      "l": 4,
+      "m": 4,
+      "two_theta": "24.649",
+      "intensity_calculated": "1.8",
+      "d_hkl": "3.609000",
+      "represents": null,
+      "pk": 158
+    },
+    {
+      "HLS": 5,
+      "h": 4,
+      "k": 0,
+      "l": 0,
+      "m": 2,
+      "two_theta": "25.881",
+      "intensity_calculated": "13.6",
+      "d_hkl": "3.440000",
+      "represents": 0,
+      "pk": 159
+    },
+    {
+      "HLS": 5,
+      "h": 3,
+      "k": 1,
+      "l": 0,
+      "m": 4,
+      "two_theta": "26.361",
+      "intensity_calculated": "0.3",
+      "d_hkl": "3.378000",
+      "represents": null,
+      "pk": 160
+    },
+    {
+      "HLS": 5,
+      "h": -2,
+      "k": 0,
+      "l": 6,
+      "m": 2,
+      "two_theta": "26.405",
+      "intensity_calculated": "0.8",
+      "d_hkl": "3.373000",
+      "represents": null,
+      "pk": 161
+    },
+    {
+      "HLS": 5,
+      "h": -3,
+      "k": 1,
+      "l": 1,
+      "m": 4,
+      "two_theta": "26.568",
+      "intensity_calculated": "11.0",
+      "d_hkl": "3.352000",
+      "represents": null,
+      "pk": 162
+    },
+    {
+      "HLS": 5,
+      "h": 3,
+      "k": 1,
+      "l": 1,
+      "m": 4,
+      "two_theta": "26.737",
+      "intensity_calculated": "2.8",
+      "d_hkl": "3.331000",
+      "represents": null,
+      "pk": 163
+    },
+    {
+      "HLS": 5,
+      "h": -4,
+      "k": 0,
+      "l": 2,
+      "m": 2,
+      "two_theta": "26.827",
+      "intensity_calculated": "2.4",
+      "d_hkl": "3.321000",
+      "represents": null,
+      "pk": 164
+    },
+    {
+      "HLS": 5,
+      "h": -1,
+      "k": 1,
+      "l": 5,
+      "m": 4,
+      "two_theta": "27.077",
+      "intensity_calculated": "4.7",
+      "d_hkl": "3.290000",
+      "represents": null,
+      "pk": 165
+    },
+    {
+      "HLS": 5,
+      "h": 2,
+      "k": 0,
+      "l": 6,
+      "m": 2,
+      "two_theta": "27.081",
+      "intensity_calculated": "10.1",
+      "d_hkl": "3.290000",
+      "represents": null,
+      "pk": 166
+    },
+    {
+      "HLS": 5,
+      "h": 4,
+      "k": 0,
+      "l": 2,
+      "m": 2,
+      "two_theta": "27.273",
+      "intensity_calculated": "16.3",
+      "d_hkl": "3.267000",
+      "represents": null,
+      "pk": 167
+    },
+    {
+      "HLS": 5,
+      "h": -3,
+      "k": 1,
+      "l": 2,
+      "m": 4,
+      "two_theta": "27.347",
+      "intensity_calculated": "14.8",
+      "d_hkl": "3.259000",
+      "represents": null,
+      "pk": 168
+    },
+    {
+      "HLS": 5,
+      "h": 1,
+      "k": 1,
+      "l": 5,
+      "m": 4,
+      "two_theta": "27.355",
+      "intensity_calculated": "3.3",
+      "d_hkl": "3.258000",
+      "represents": null,
+      "pk": 169
+    },
+    {
+      "HLS": 5,
+      "h": 3,
+      "k": 1,
+      "l": 2,
+      "m": 4,
+      "two_theta": "27.676",
+      "intensity_calculated": "0.0",
+      "d_hkl": "3.221000",
+      "represents": null,
+      "pk": 170
+    },
+    {
+      "HLS": 5,
+      "h": -3,
+      "k": 1,
+      "l": 3,
+      "m": 4,
+      "two_theta": "28.654",
+      "intensity_calculated": "1.1",
+      "d_hkl": "3.113000",
+      "represents": null,
+      "pk": 171
+    },
+    {
+      "HLS": 5,
+      "h": 3,
+      "k": 1,
+      "l": 3,
+      "m": 4,
+      "two_theta": "29.127",
+      "intensity_calculated": "0.3",
+      "d_hkl": "3.063000",
+      "represents": null,
+      "pk": 172
+    },
+    {
+      "HLS": 5,
+      "h": -4,
+      "k": 0,
+      "l": 4,
+      "m": 2,
+      "two_theta": "29.906",
+      "intensity_calculated": "4.4",
+      "d_hkl": "2.985000",
+      "represents": null,
+      "pk": 173
+    },
+    {
+      "HLS": 5,
+      "h": -1,
+      "k": 1,
+      "l": 6,
+      "m": 4,
+      "two_theta": "30.050",
+      "intensity_calculated": "1.9",
+      "d_hkl": "2.971000",
+      "represents": null,
+      "pk": 174
+    },
+    {
+      "HLS": 5,
+      "h": 1,
+      "k": 1,
+      "l": 6,
+      "m": 4,
+      "two_theta": "30.353",
+      "intensity_calculated": "0.0",
+      "d_hkl": "2.942000",
+      "represents": null,
+      "pk": 175
+    },
+    {
+      "HLS": 5,
+      "h": -3,
+      "k": 1,
+      "l": 4,
+      "m": 4,
+      "two_theta": "30.428",
+      "intensity_calculated": "0.4",
+      "d_hkl": "2.935000",
+      "represents": null,
+      "pk": 176
+    },
+    {
+      "HLS": 5,
+      "h": 4,
+      "k": 0,
+      "l": 4,
+      "m": 2,
+      "two_theta": "30.711",
+      "intensity_calculated": "0.6",
+      "d_hkl": "2.909000",
+      "represents": null,
+      "pk": 177
+    },
+    {
+      "HLS": 5,
+      "h": 3,
+      "k": 1,
+      "l": 4,
+      "m": 4,
+      "two_theta": "31.023",
+      "intensity_calculated": "1.6",
+      "d_hkl": "2.880000",
+      "represents": null,
+      "pk": 178
+    },
+    {
+      "HLS": 5,
+      "h": 0,
+      "k": 0,
+      "l": 8,
+      "m": 2,
+      "two_theta": "31.308",
+      "intensity_calculated": "2.4",
+      "d_hkl": "2.855000",
+      "represents": null,
+      "pk": 179
+    },
+    {
+      "HLS": 5,
+      "h": -3,
+      "k": 1,
+      "l": 5,
+      "m": 4,
+      "two_theta": "32.599",
+      "intensity_calculated": "2.7",
+      "d_hkl": "2.745000",
+      "represents": null,
+      "pk": 180
+    },
+    {
+      "HLS": 5,
+      "h": -1,
+      "k": 1,
+      "l": 7,
+      "m": 4,
+      "two_theta": "33.256",
+      "intensity_calculated": "0.1",
+      "d_hkl": "2.692000",
+      "represents": null,
+      "pk": 181
+    },
+    {
+      "HLS": 5,
+      "h": 3,
+      "k": 1,
+      "l": 5,
+      "m": 4,
+      "two_theta": "33.299",
+      "intensity_calculated": "1.4",
+      "d_hkl": "2.688000",
+      "represents": null,
+      "pk": 182
+    },
+    {
+      "HLS": 5,
+      "h": 1,
+      "k": 1,
+      "l": 7,
+      "m": 4,
+      "two_theta": "33.578",
+      "intensity_calculated": "1.5",
+      "d_hkl": "2.667000",
+      "represents": null,
+      "pk": 183
+    },
+    {
+      "HLS": 5,
+      "h": -2,
+      "k": 0,
+      "l": 8,
+      "m": 2,
+      "two_theta": "33.607",
+      "intensity_calculated": "0.7",
+      "d_hkl": "2.665000",
+      "represents": null,
+      "pk": 184
+    },
+    {
+      "HLS": 5,
+      "h": 2,
+      "k": 0,
+      "l": 8,
+      "m": 2,
+      "two_theta": "34.333",
+      "intensity_calculated": "0.0",
+      "d_hkl": "2.610000",
+      "represents": null,
+      "pk": 185
+    },
+    {
+      "HLS": 5,
+      "h": -4,
+      "k": 0,
+      "l": 6,
+      "m": 2,
+      "two_theta": "34.603",
+      "intensity_calculated": "1.7",
+      "d_hkl": "2.590000",
+      "represents": null,
+      "pk": 186
+    },
+    {
+      "HLS": 5,
+      "h": -3,
+      "k": 1,
+      "l": 6,
+      "m": 4,
+      "two_theta": "35.105",
+      "intensity_calculated": "0.1",
+      "d_hkl": "2.554000",
+      "represents": null,
+      "pk": 187
+    },
+    {
+      "HLS": 5,
+      "h": 4,
+      "k": 0,
+      "l": 6,
+      "m": 2,
+      "two_theta": "35.661",
+      "intensity_calculated": "0.1",
+      "d_hkl": "2.516000",
+      "represents": null,
+      "pk": 188
+    },
+    {
+      "HLS": 5,
+      "h": 3,
+      "k": 1,
+      "l": 6,
+      "m": 4,
+      "two_theta": "35.892",
+      "intensity_calculated": "0.1",
+      "d_hkl": "2.500000",
+      "represents": null,
+      "pk": 189
+    },
+    {
+      "HLS": 5,
+      "h": 0,
+      "k": 2,
+      "l": 0,
+      "m": 2,
+      "two_theta": "35.930",
+      "intensity_calculated": "9.1",
+      "d_hkl": "2.497000",
+      "represents": 0,
+      "pk": 190
+    },
+    {
+      "HLS": 5,
+      "h": 0,
+      "k": 2,
+      "l": 1,
+      "m": 4,
+      "two_theta": "36.151",
+      "intensity_calculated": "3.6",
+      "d_hkl": "2.483000",
+      "represents": null,
+      "pk": 191
+    },
+    {
+      "HLS": 5,
+      "h": -1,
+      "k": 1,
+      "l": 8,
+      "m": 4,
+      "two_theta": "36.647",
+      "intensity_calculated": "4.6",
+      "d_hkl": "2.450000",
+      "represents": null,
+      "pk": 192
+    },
+    {
+      "HLS": 5,
+      "h": 0,
+      "k": 2,
+      "l": 2,
+      "m": 4,
+      "two_theta": "36.809",
+      "intensity_calculated": "2.1",
+      "d_hkl": "2.440000",
+      "represents": null,
+      "pk": 193
+    },
+    {
+      "HLS": 5,
+      "h": 1,
+      "k": 1,
+      "l": 8,
+      "m": 4,
+      "two_theta": "36.986",
+      "intensity_calculated": "0.1",
+      "d_hkl": "2.429000",
+      "represents": null,
+      "pk": 194
+    }
+  ],
+  "reflection_layer_cell": [
+    {
+      "HLS": 5,
+      "h": 4,
+      "k": 0,
+      "l": 0,
+      "m": 2,
+      "two_theta": "25.881",
+      "intensity_calculated": "13.6",
+      "d_hkl": "3.440000",
+      "represents": 0,
+      "pk": 159
+    },
+    {
+      "HLS": 5,
+      "h": 0,
+      "k": 2,
+      "l": 0,
+      "m": 2,
+      "two_theta": "35.930",
+      "intensity_calculated": "9.1",
+      "d_hkl": "2.497000",
+      "represents": 0,
+      "pk": 190
+    }
+  ],
+  "reflection_layer_layer": [
+    {
+      "HLS": 5,
+      "h": 0,
+      "k": 0,
+      "l": 2,
+      "m": 2,
+      "two_theta": "7.736",
+      "intensity_calculated": "100.0",
+      "d_hkl": "11.419000",
+      "represents": 1,
+      "pk": 142
+    }
+  ],
+  "fractional_atomic_coordinates": [
+    {
+      "HLS": 5,
+      "atom": "Si1",
+      "x": "0.4666",
+      "y": "0.3274",
+      "z": "0.6832",
+      "b_iso": "1.16",
+      "occupy": "1.000",
+      "pk": 46
+    },
+    {
+      "HLS": 5,
+      "atom": "Si2",
+      "x": "0.5628",
+      "y": "-0.1700",
+      "z": "0.6321",
+      "b_iso": "1.16",
+      "occupy": "1.000",
+      "pk": 47
+    },
+    {
+      "HLS": 5,
+      "atom": "Si3",
+      "x": "0.2548",
+      "y": "0.2468",
+      "z": "0.7110",
+      "b_iso": "1.16",
+      "occupy": "1.000",
+      "pk": 48
+    },
+    {
+      "HLS": 5,
+      "atom": "O1",
+      "x": "0.3524",
+      "y": "0.2798",
+      "z": "0.6747",
+      "b_iso": "2.33",
+      "occupy": "1.000",
+      "pk": 49
+    },
+    {
+      "HLS": 5,
+      "atom": "O2",
+      "x": "0.5264",
+      "y": "0.1359",
+      "z": "0.6438",
+      "b_iso": "2.33",
+      "occupy": "1.000",
+      "pk": 50
+    },
+    {
+      "HLS": 5,
+      "atom": "O3",
+      "x": "0.4911",
+      "y": "0.6333",
+      "z": "0.6646",
+      "b_iso": "2.33",
+      "occupy": "1.000",
+      "pk": 51
+    },
+    {
+      "HLS": 5,
+      "atom": "O4",
+      "x": "0.5000",
+      "y": "0.2861",
+      "z": "0.7500",
+      "b_iso": "2.33",
+      "occupy": "1.000",
+      "pk": 52
+    },
+    {
+      "HLS": 5,
+      "atom": "O5",
+      "x": "0.5720",
+      "y": "-0.2182",
+      "z": "0.5632",
+      "b_iso": "2.33",
+      "occupy": "1.000",
+      "pk": 53
+    },
+    {
+      "HLS": 5,
+      "atom": "O6",
+      "x": "0.1669",
+      "y": "0.3157",
+      "z": "0.6664",
+      "b_iso": "2.33",
+      "occupy": "1.000",
+      "pk": 54
+    },
+    {
+      "HLS": 5,
+      "atom": "O7",
+      "x": "0.2540",
+      "y": "0.4368",
+      "z": "0.7672",
+      "b_iso": "2.33",
+      "occupy": "1.000",
+      "pk": 55
+    },
+    {
+      "HLS": 5,
+      "atom": "C1",
+      "x": "0.6850",
+      "y": "0.4181",
+      "z": "0.4625",
+      "b_iso": "5.45",
+      "occupy": "1.283",
+      "pk": 56
+    },
+    {
+      "HLS": 5,
+      "atom": "C2",
+      "x": "0.7486",
+      "y": "0.3154",
+      "z": "0.5624",
+      "b_iso": "5.45",
+      "occupy": "1.283",
+      "pk": 57
+    },
+    {
+      "HLS": 5,
+      "atom": "N1",
+      "x": "0.6568",
+      "y": "0.3585",
+      "z": "0.5260",
+      "b_iso": "5.45",
+      "occupy": "1.000",
+      "pk": 58
+    }
+  ],
+  "has_powder_pattern": true,
+  "has_atr_ir_spectrum": true
+}

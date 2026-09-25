@@ -1,0 +1,51 @@
+
+#======================================================================
+# CRYSTAL DATA
+#----------------------------------------------------------------------
+data_VESTA_phase_1
+
+_chemical_name_common                  'CIF file'
+_cell_length_a                         8.786460
+_cell_length_b                         8.786460
+_cell_length_c                         14.653130
+_cell_angle_alpha                      90.000000
+_cell_angle_beta                       90.000000
+_cell_angle_gamma                      90.000000
+_cell_volume                           1131.249122
+_space_group_name_H-M_alt              'P -4 21 m'
+_space_group_IT_number                 113
+
+loop_
+_space_group_symop_operation_xyz
+   'x, y, z'
+   '-x, -y, z'
+   'y, -x, -z'
+   '-y, x, -z'
+   '-x+1/2, y+1/2, -z'
+   'x+1/2, -y+1/2, -z'
+   '-y+1/2, -x+1/2, z'
+   'y+1/2, x+1/2, z'
+
+loop_
+   _atom_site_label
+   _atom_site_occupancy
+   _atom_site_fract_x
+   _atom_site_fract_y
+   _atom_site_fract_z
+   _atom_site_adp_type
+   _atom_site_U_iso_or_equiv
+   _atom_site_type_symbol
+   Si1        1.0     0.500000     0.500000     0.000000    Uiso  0.008000 Si
+   Si2        1.0     0.502(4)     0.7470(10)   0.1540(10)  Uiso  0.008000 Si
+   O1         1.0     0.363(4)     0.863(4)     0.137(6)    Uiso  0.014000 O
+   O2         1.0     0.514(6)     0.350(2)     0.0630(10)  Uiso  0.014000 O
+   O3         1.0     0.342(4)     0.158(4)     0.144(6)    Uiso  0.014000 O
+   OH         1.1000  0.478(4)     0.626(2)     0.241(2)    Uiso  0.014000 F
+   N1         1.0     0.000000     0.500000     0.167(3)    Uiso  0.025000 N
+   C11        0.3750  0.068(7)     0.432(7)     0.082(4)    Uiso  0.150000 C
+   C12        0.3750  0.068(7)     0.568(7)     0.082(4)    Uiso  0.150000 C
+   C21        1.1250  0.108(2)     0.608(2)     0.215(2)    Uiso  0.150000 C
+   C22        1.1250  0.108(2)     0.392(2)     0.215(2)    Uiso  0.150000 C
+   OW1        1.2500  0.257(4)     0.496(3)     0.487(5)    Uiso  0.650000 S
+   OW2        1.0600  0.229(5)     0.729(5)     0.638(5)    Uiso  0.100000 S
+   OW3        1.0600  0.195(5)     0.305(5)     0.592(5)    Uiso  0.100000 S

@@ -1,0 +1,63 @@
+{
+  "pk": 7,
+  "name": "fer",
+  "slug": "fer",
+  "ratio_q3q4": 3.5,
+  "composition_si": 18.0,
+  "composition_o": 38.0,
+  "ratio_sio": "2.11",
+  "thickness": 9.5,
+  "layer_charge": 0.019,
+  "d_oh_oh": 5.8,
+  "plot": "layer_types/fer_top.png",
+  "materials": [
+    {
+      "pk": 4,
+      "name": "ERS-12",
+      "slug": "ers-12",
+      "is_related_material": false
+    },
+    {
+      "pk": 17,
+      "name": "MCM-47",
+      "slug": "mcm-47",
+      "is_related_material": false
+    },
+    {
+      "pk": 20,
+      "name": "PLS-3",
+      "slug": "pls-3",
+      "is_related_material": false
+    },
+    {
+      "pk": 14,
+      "name": "Prefer dehydrated",
+      "slug": "prefer-dehydrated",
+      "is_related_material": false
+    },
+    {
+      "pk": 13,
+      "name": "Prefer hydrated",
+      "slug": "prefer-hydrated",
+      "is_related_material": false
+    },
+    {
+      "pk": 23,
+      "name": "RUB-36",
+      "slug": "rub-36",
+      "is_related_material": false
+    },
+    {
+      "pk": 24,
+      "name": "RUB-38",
+      "slug": "rub-38",
+      "is_related_material": false
+    },
+    {
+      "pk": 27,
+      "name": "RUB-48",
+      "slug": "rub-48",
+      "is_related_material": false
+    }
+  ]
+}

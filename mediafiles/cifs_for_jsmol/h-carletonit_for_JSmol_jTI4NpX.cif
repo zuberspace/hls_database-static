@@ -1,0 +1,74 @@
+#======================================================================
+
+# CRYSTAL DATA  H-Carletonite
+
+#=======================================================================
+ data_global
+#=======================================================================
+ 
+_symmetry_cell_setting                Tetragonal
+_symmetry_space_group_name_H-M       'I 4/m c m'
+_space_group_IT_number                 140
+
+loop_
+    _symmetry_equiv_pos_as_xyz   #<--must include 'x,y,z'
+'x,y,z'
+'-y,x,z'
+'-x,-y,z'
+'y,-x,z'
+'-x,y,z+1/2'
+'y,x,z+1/2'
+'x,-y,z+1/2'
+'-y,-x,z+1/2'
+'-x,-y,-z'
+'y,-x,-z'
+'x,y,-z'
+'-y,x,-z'
+'x,-y,-z+1/2'
+'-y,-x,-z+1/2'
+'-x,y,-z+1/2'
+'y,x,-z+1/2'
+'x+1/2,y+1/2,z+1/2'
+'-y+1/2,x+1/2,z+1/2'
+'-x+1/2,-y+1/2,z+1/2'
+'y+1/2,-x+1/2,z+1/2'
+'-x+1/2,y+1/2,z'
+'y+1/2,x+1/2,z'
+'x+1/2,-y+1/2,z'
+'-y+1/2,-x+1/2,z'
+'-x+1/2,-y+1/2,-z+1/2'
+'y+1/2,-x+1/2,-z+1/2'
+'x+1/2,y+1/2,-z+1/2'
+'-y+1/2,x+1/2,-z+1/2'
+'x+1/2,-y+1/2,-z'
+'-y+1/2,-x+1/2,-z'
+'-x+1/2,y+1/2,-z'
+'y+1/2,x+1/2,-z'
+ 
+_cell_length_a                       13.8978
+_cell_length_b                       13.8978
+_cell_length_c                       20.4671
+_cell_angle_alpha                    90.0000
+_cell_angle_beta                     90.0000
+_cell_angle_gamma                    90.0000
+_cell_volume                         3953.21
+
+loop_
+    _atom_site_label
+    _atom_site_fract_x
+    _atom_site_fract_y
+    _atom_site_fract_z
+    _atom_site_U_iso_or_equiv
+    _atom_site_occupancy
+    _atom_site_adp_type
+    _atom_site_type_symbol
+ Si1  0.09607(15)  0.24600(14)  0.42212(9)  0.0083(3)  1.00000 Uiso Si    
+ Si2  0.23430(13)  0.10358(14)  0.35185(10)  0.0083(3)  1.00000 Uiso Si    
+ O1  0.1486(2)  0.1553(2)  0.3912(3)  0.0109(5)  1.00000 Uiso O     
+ O2  0.2532(3)  0.0092(2)  0.3934(2)  0.0109(5)  1.00000 Uiso O     
+ O3  0.2076(3)  0.0845(3)  0.27389(16)  0.0109(5)  1.00000 Uiso F     
+ O4  0.1650(2)  0.6649(2)  0.3547(3)  0.0109(5)  1.00000 Uiso O     
+ O5  0.1598(3)  0.6598(3)  0.0968(2)  0.0109(5)  1.00000 Uiso O     
+ O6  0.0865(6)  0.2262(5)  0.50000  0.0109(5)  1.00000 Uiso O     
+ 
+ 

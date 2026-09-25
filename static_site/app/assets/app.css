@@ -1,0 +1,161 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  /* Tailwind 1.9.6 gray-800 — must match the version index.html loads. */
+  color: #2d3748;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  #app,
+  a {
+    transition-duration: 0.01ms !important;
+    animation-duration: 0.01ms !important;
+  }
+}
+
+/* Tailwind 1.9.6 has no arbitrary values (h-[500px] and friends are silently
+   ignored), so every fixed size the app needs lives here instead. */
+
+/* Matches hls.html: resizable, 200-600px, starting at the full 600px. */
+.chart-wrap {
+  position: relative;
+  height: 600px;
+  min-height: 200px;
+  max-height: 600px;
+  resize: vertical;
+  overflow: auto;
+  margin: 12px 0;
+}
+
+#app {
+  min-height: 60vh;
+}
+
+.table-scroll {
+  max-height: 70vh;
+  overflow: auto;
+}
+
+.ref-num {
+  min-width: 30px;
+}
+
+/* Tailwind 1.9.6 has no max-h-* scale and no h-7. */
+.filter-scroll {
+  max-height: 10rem;
+}
+
+.input-sm {
+  height: 1.75rem;
+}
+
+/* `prose` belongs to the Typography plugin, which the CDN build does not
+   include, and v1's preflight strips margins and list markers. Database-authored
+   HTML therefore needs these basics spelled out or it collapses into one block. */
+.prose p {
+  margin: 0 0 0.75em;
+}
+
+.prose h1,
+.prose h2,
+.prose h3 {
+  font-weight: 700;
+  line-height: 1.25;
+  margin: 1.25em 0 0.5em;
+}
+
+.prose h1 { font-size: 1.5rem; }
+.prose h2 { font-size: 1.25rem; }
+.prose h3 { font-size: 1.125rem; }
+
+.prose ul,
+.prose ol {
+  margin: 0 0 0.75em;
+  padding-left: 1.5em;
+  list-style: revert;
+}
+
+.prose li {
+  margin: 0.25em 0;
+}
+
+.prose a {
+  color: #2b6cb0;
+  text-decoration: underline;
+}
+
+.prose > :last-child {
+  margin-bottom: 0;
+}
+
+.img-fluid {
+  max-width: 100%;
+  height: auto;
+}
+
+#jsmol-root {
+  height: 600px;
+  min-height: 420px;
+  border: 1px solid #d1d5db;
+  border-radius: 6px;
+  padding: 8px;
+  background: #ffffff;
+}
+
+/* `all` transitions every animatable property, including layout ones. Only the
+   colour actually changes on hover. */
+a {
+  transition: color 0.2s ease-out;
+}
+
+/* The page is swapped only once the new content is ready and then faded in once.
+   The previous version faded out over 150ms while the transition itself was
+   declared at 300ms, so the swap landed at half opacity — a visible stutter
+   rather than a fade — and it depended on .fade-out being declared after
+   .fade-in, since both used !important at equal specificity. */
+/* The page transition lives in static_site/tailwind.css as an `animate-*`
+   utility, which is how v4 wants animations declared. */
+
+/* Fix for JSmol root height */
+#jsmol-root > div {
+  height: 100% !important;
+  width: 100% !important;
+}
+
+/* Custom checkbox styling for sidebar */
+.form-checkbox {
+  appearance: none;
+  background-origin: border-box;
+  user-select: none;
+  flex-shrink: 0;
+  height: 1rem;
+  width: 1rem;
+  color: #4299e1;
+  background-color: #fff;
+  border-color: #e2e8f0;
+  border-width: 1px;
+  border-radius: 0.25rem;
+}
+
+.form-checkbox:checked {
+  background-image: url("data:image/svg+xml,%3csvg viewBox='0 0 16 16' fill='white' xmlns='http://www.w3.org/2000/svg'%3e%3cpath d='M5.707 7.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4a1 1 0 00-1.414-1.414L7 8.586 5.707 7.293z'/%3e%3c/svg%3e");
+  border-color: transparent;
+  background-color: currentColor;
+  background-size: 100% 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+/* Hide spin buttons for number inputs in sidebar */
+input[type=number]::-webkit-inner-spin-button, 
+input[type=number]::-webkit-outer-spin-button { 
+  -webkit-appearance: none; 
+  margin: 0; 
+}
+input[type=number] {
+  -moz-appearance: textfield;
+}

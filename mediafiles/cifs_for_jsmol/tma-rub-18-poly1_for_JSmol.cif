@@ -1,0 +1,58 @@
+#======================================================================
+
+# CRYSTAL DATA
+
+#----------------------------------------------------------------------
+
+data_Ikeda
+
+
+_pd_phase_name                         'sample TMA-RUB-18-poly1               '
+_cell_length_a                         7.412(1)
+_cell_length_b                         7.412(1)
+_cell_length_c                         22.615(1)
+_cell_angle_alpha                      90
+_cell_angle_beta                       90
+_cell_angle_gamma                      90
+_symmetry_space_group_name_H-M         'P 42/n m c'
+_symmetry_Int_Tables_number            137
+
+loop_
+_symmetry_equiv_pos_as_xyz
+   'x, y, z'
+   '-x, -y, -z'
+   '-x+1/2, -y+1/2, z'
+   'x+1/2, y+1/2, -z'
+   '-y+1/2, x, z+1/2'
+   'y+1/2, -x, -z+1/2'
+   'y, -x+1/2, z+1/2'
+   '-y, x+1/2, -z+1/2'
+   '-x, y+1/2, -z'
+   'x, -y+1/2, z'
+   'x+1/2, -y, -z'
+   '-x+1/2, y, z'
+   'y+1/2, x+1/2, -z+1/2'
+   '-y+1/2, -x+1/2, z+1/2'
+   '-y, -x, -z+1/2'
+   'y, x, z+1/2'
+
+loop_
+   _atom_site_label
+   _atom_site_occupancy
+   _atom_site_fract_x
+   _atom_site_fract_y
+   _atom_site_fract_z
+   _atom_site_adp_type
+   _atom_site_U_iso_or_equiv
+   _atom_site_type_symbol
+   Si1        1.0000  0.250000      0.960900      0.652400     Uiso  0.015700 Si
+   Si2        1.0000  0.544600     -0.544600      0.750000     Uiso  0.015700 Si
+   O1         1.0000  0.421200      0.995900      0.688600     Uiso  0.017350 O
+   OH2         1.0000  0.250000      0.088900      0.599100     Uiso  0.017350 F
+   O3         1.0000  0.250000      0.988200      0.271900     Uiso  0.017350 O
+   O4         1.0     0.250000      0.750000      0.623500     Uiso  0.017350 O
+   N1         1.0     0.250000      0.750000      0.427000     Uiso  0.341960 N
+   C1         0.5000  0.340000      0.660000      0.457000     Uiso  0.341960 C
+   C2         0.5000  0.346000      0.654000      0.396000     Uiso  0.341960 C
+   OH         0.5000  0.250000      0.516000      0.360400     Uiso  0.044330 He
+   OW          0.4520  0.750000      0.543000      0.516900     Uiso  0.058260 S

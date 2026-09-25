@@ -1,0 +1,728 @@
+##############################################################################
+###      FullProf-generated CIF output file  (version: May 2019)           ###
+###      Template of CIF submission form for structure report              ###
+##############################################################################
+ 
+# This file has been generated using FullProf.2k taking one example of 
+# structure report provided by Acta Cryst. It is given as a 'template' with 
+# filled structural items. Many other items are left unfilled and it is the  
+# responsibility of the user to properly fill or suppress them. In principle 
+# all question marks '?' should be replaced by the appropriate text or 
+# numerical value depending on the kind of CIF item. 
+# See the document: cif_core.dic (URL: http://www.iucr.org) for details. 
+ 
+# Please notify any error or suggestion to: 
+#           Juan Rodriguez-Carvajal (jrc@ill.eu)
+# Improvements will be progressively added as needed.
+#      Date: 14/01/2024  Time: 12:56:37.073
+ 
+ 
+#=============================================================================
+ data_global
+#=============================================================================
+ 
+_audit_creation_date  14/01/2024  
+_audit_creation_method  "FullProf Suite"
+# PROCESSING SUMMARY (IUCr Office Use Only)
+ 
+_journal_data_validation_number      ?
+ 
+_journal_date_recd_electronic        ?
+_journal_date_to_coeditor            ?
+_journal_date_from_coeditor          ?
+_journal_date_accepted               ?
+_journal_date_printers_first         ?
+_journal_date_printers_final         ?
+_journal_date_proofs_out             ?
+_journal_date_proofs_in              ?
+_journal_coeditor_name               ?
+_journal_coeditor_code               ?
+_journal_coeditor_notes
+; ?
+;
+_journal_techeditor_code             ?
+_journal_techeditor_notes
+; ?
+;
+_journal_coden_ASTM                  ?
+_journal_name_full                   ?
+_journal_year                        ?
+_journal_volume                      ?
+_journal_issue                       ?
+_journal_page_first                  ?
+_journal_page_last                   ?
+_journal_paper_category              ?
+_journal_suppl_publ_number           ?
+_journal_suppl_publ_pages            ?
+ 
+#=============================================================================
+ 
+# 1. SUBMISSION DETAILS
+ 
+_publ_contact_author_name        'Marler, Bernd'
+_publ_contact_author_address      'Institute of Geology, Mineralogy und Geophysics, Ruhr-University Bochum, Universitaetsstrasse 150, 44801 Bochum, Germany'
+
+
+_publ_contact_author_email           'bernd.marler@rub.de'
+_publ_contact_author_phone           '+492332-665580'
+ 
+_publ_contact_letter
+; ?
+;
+ 
+_publ_requested_journal              'Z. Kristallogr. NCS'
+_publ_requested_coeditor_name        ?
+_publ_requested_category             ?
+ 
+ 
+# Definition of non standard CIF items (Reliability indices used in FULLPROF) 
+ 
+loop_ 
+_publ_manuscript_incl_extra_item
+_publ_manuscript_incl_extra_info
+_publ_manuscript_incl_extra_defn
+#      Name                               Explanation                 Standard?
+#     ------                              -----------                 ---------
+ '_pd_proc_ls_prof_cR_factor'    'Prof. R-factor CORRECTED for background'   no
+ '_pd_proc_ls_prof_cwR_factor'   'wProf.R-factor CORRECTED for background'   no
+ '_pd_proc_ls_prof_cwR_expected' 'wProf.Expected CORRECTED for background'   no
+ '_pd_proc_ls_prof_chi2'         'Chi-square for all considered points'      no
+ '_pd_proc_ls_prof_echi2'        'Chi-2 for points with Bragg contribution'  no
+#=============================================================================
+ 
+# 3. TITLE AND AUTHOR LIST
+ 
+_publ_section_title
+;The structure of RUB-56, (C6H16N)8 [Si32O64(OH)8] • 32 H2O], a hydrous layer silicate (2D-zeolite) that contains microporous levyne-type silicate layers 
+;
+
+# The loop structure below should contain the names and addresses of all 
+# authors, in the required order of publication. Repeat as necessary.
+ 
+loop_
+    _publ_author_name
+    _publ_author_address
+
+'Bernd Marler'
+;
+     Institute of Geology, Mineralogy und Geophysics
+     Ruhr-University Bochum
+     Universitaetsstrasse 150
+     44801 Bochum
+     Germany
+;
+     'Antje Gruenewald-Lueke'
+;
+     Institute of Geology, Mineralogy und Geophysics
+     Ruhr-University Bochum
+     Universitaetsstrasse 150
+     44801 Bochum
+     Germany
+;
+    'Hermann Gies'
+;
+     Institute of Geology, Mineralogy und Geophysics
+     Ruhr-University Bochum
+     Universitaetsstrasse 150
+     44801 Bochum
+     Germany
+;
+'Trees de Baerdemaeker'
+;
+      Process Research and Chemical Engineering 
+      BASF SE 	
+      67056 Ludwigshafen, 
+      Germany;
+;
+ 
+#=============================================================================
+ 
+# 4. TEXT
+ 
+_publ_section_abstract
+; C48H200N8O104Si32, monoclinic, C2/m (No. 12), a = 16.2532(14) angstrom, b = 13.3020(7) angstrom, c = 16.7771(14) angstrom, beta = 96.476(10) degree, V = 3604.07 (3) angstrom^3, Z = 1, density = 2.02(2) g/cm3, R(F) = 0.031, chi2 = 2.44, T = 293 K.
+;
+
+_publ_section_exptl_
+; RUB-56 samples were hydrothermally synthesized in Teflon-lined autoclaves at 140 degree C for 2-7 days using diethyldimethylammonium hydroxide (Sigma-Aldrich, 20% in water) as the structure directing agent (SDA). Reaction mixtures of composition 0.9-1 SiO2 : 0.5 SDA : 6-10 H2O were used. Lab-made silica gel (11 wt% H2O) served as the silica source. A more detailed view on the synthesis of RUB-56 is presented in a patent application [1]. The sample of highest crystallinity with respect to purity and (small) halfwidths of the diffraction peaks was used for the structure analysis. 
+;
+
+_publ_section_exptl_refinement
+; Tables 1 and 2 contain details of the measurement method, a list of atomic coordinates, occupancy factors and displacement parameters, respectively.
+
+Table 1. Data collection and handling.
+
+Crystals:			very small, colorless and plate-like grains 
+size: 			ca. 1 micron x 1 micron x 0.05 micron
+Wavelength:			Cu Kalpha1 radiation (1.54059 angstrom)
+Diffractometer: 		Siemens  D5000
+Scan mode:			Debye-Scherrer
+2theta range used:	2.96 - 89.77 degree
+N(hkl)measured:		1822
+RBragg, Rwp, chi2:	0.034, 0.114, 2.44 
+N(param)refined:		78
+Programs:			Fullprof 2K [8], VESTA [10] 
+
+
+Table 2. Atomic coordinates, occupancy factors and displacement parameters (in angstrom^2).
+
+Name  S. f.  x           y            z           Uiso        Occ.  
+
+Si1   Si   -0.0848(2)   0.7313(3)   0.0322(2)   0.0162(6)  1.0000
+Si2   Si    0.8537(2)   0.8814(3)   0.1592(2)   0.0162(6)  1.0000
+Si3   Si    0.4920(2)   0.8827(3)   0.1872(2)   0.0162(6)  1.0000
+Si4   Si    0.1630(2)   0.6159(3)   0.1206(2)   0.0162(6)  1.0000
+O1    O    -0.1270(7)   0.8248(6)   0.0763(4)   0.021(3)   1.0000
+O2    O    -0.0602(7)   0.6489(6)   0.1025(4)   0.021(3)   1.0000
+OH3   O     0.9106(7)   0.8530(8)   0.2419(5)   0.021(3)   1.0000
+O4    O     0.8708(10)  0.00000     0.1449(10)  0.021(3)   1.0000
+O5    O     0.00000     0.7743(8)   0.00000     0.021(3)   1.0000
+OH6   O     0.4697(8)   0.8107(7)   0.2598(5)   0.021(3)   1.0000
+O10   O     0.3556(6)   0.8127(8)  -0.0425(5)   0.021(3)   1.0000
+O12   O     0.2544(2)   0.6365(8)   0.1672(5)   0.021(3)   1.0000
+O13   O     0.9689(10)  0.50000     0.2023(10)  0.021(3)   1.0000
+O15   O     1.0909(3)   0.6330(9)   0.1782(6)   0.021(3)   1.0000
+O16   O     0.3453(12)  0.00000    -0.0918(8)   0.021(3)   1.0000
+N1    N     0.1769(5)   0.00000     0.1364(6)   0.411(6)   1.0000
+C1    C     0.2189(15)  0.9090(11)  0.1758(6)   0.411(6)   1.3333
+C3   C      0.0837(6)   0.00000     0.1243(17)  0.411(6)   1.5000
+C4   C      0.2335(14)  0.1119(15)  0.2668(5)   0.411(6)   1.5000
+N2   N      0.2418(5)   0.50000     0.4157(6)   0.411(6)   1.0000
+C5   C      0.1509(6)   0.50000     0.3899(16)  0.411(6)   1.5000
+C6   C      0.2669(19)  0.50000     0.5045(6)   0.411(6)   1.5000
+C7   C      0.2874(12)  0.5873(9)   0.3851(7)   0.411(6)   1.3333
+C8   C      0.3201(16)  0.6596(13)  0.4549(10)  0.411(6)   1.5000
+OW1  O      0.4985(13)  0.50000     0.6430(12)  0.098(3)   1.2500
+OW2  O     -0.0780(9)   0.7807(8)   0.6470(9)   0.098(3)   1.2500
+OW3  O      0.50000     0.7838(12)  0.50000     0.098(3)   1.2500
+OW4  O      0.0803(7)   0.5964(8)   0.6004(7)   0.098(3)   1.2500 
+
+
+Experimental details:
+Powder diffraction data were collected using a Siemens D5000 diffractometer equipped with a Braun linear position-sensitive detector (2theta coverage = 6 degree) and a curved germanium (111) primary monochromator. The powder was kept in a sealed glass capillary (0.3 mm in diameter) to avoid preferred orientation of the crystals. No absorption correction was necessary. The powder pattern contains a weak additional peak at 5.75 degree. Since no other reflections could be detected that do not belong to the pattern of RUB-56, this peak was not assigned to an impurity phase. Instead, the peak at 5.75 degree was included in the background.
+Soft distance restraints were applied to d(Si-O) = 1.620(5) angstrom, d(Si...Si) = 3.08(4) angstrom, d(O...O) = 2.63(3) angstrom, d(C-C) = 1.54(1) angstrom, d(C-N) = 1.48(1) angstrom, d(N...C, next-next neighbour) = 2.45(4) angstrom and d(C...C, next-next neighbour) = 2.50(4) angstrom. Common isotropic displacement parameters B(iso) were refined for all Si, all O(layer), all O(water molecules) and all C and N atoms. The occupancy factors of carbon atoms and those oxygen atoms representing water molecules were increased to include the scattering power of the hydrogen atoms which could not be located. This procedure was chosen because the highly diffuse electron density at the position of the carbon and (water) oxygen atoms includes also the electrons of the hydrogen atoms.
+;
+
+_publ_section_comment
+; Hydrous Layer Silicates (HLSs) - sometimes also called “2-dimensional zeolites” (2D-zeolites) - are materials consisting of i) pure silica layers (seldom traces of other elements are present such as Al, B, Ga, Fe), ii) intercalated cations of low charge density like [Na(H2O)6] complexes or organic cations such as tetramethylammonium, and iii) in most cases water molecules. Overviews on HLSs have for example been published by Marler al. [2], Ramos et al. [3] and Roth et al. [4]. HLSs are mainly used as precursors to form expanded silica frameworks by techniques of pillaring, mesoporous silicas by delamination of the structures and high silica zeolites by topotactic condensation of the layers. 
+
+
+RUB-56 forms very small and thin, quadrangular, plate-like crystals (approx. size: 1 * 1 * 0.05 micrometer^3). Because of the small size of the crystals only powder data were available for structure analysis. The powder XRD pattern of RUB-56 was indexed in the monoclinic system with approx. lattice parameters a = 16.22 angstrom, b = 13.28 angstrom, c = 16.76 angstrom and beta = 96.45 degree. The analysis of systematically extincted reflections led to possibly space group symmetries C2, Cm or C2/m. In addition, RUB-56 had been characterized by thermal analysis, SEM, FTIR spectroscopy as well as 29Si MAS and 1H-29Si CP MAS NMR spectroscopy [5].
+
+The structure was solved by model building taking into account the close correspondence of the structures of RUB-56 and ITQ-8 [6, 7] which became obvious from the comparison of lattice parameters, FTIR and NMR spectra. Based on the known structure of ITQ-8 [7] a rough model of the structure of RUB-56 was built to start the Rietveld refinement. While the atoms of the silicate layer were, at the very beginning of the refinement, already close to the finally refined positions, the sites of the water molecules and the coordinates of the carbon and nitrogen atoms were derived from successively calculated Difference Fourier maps. All atomic coordinates (ignoring protons) were subsequently refined by the Rietveld method using FullProf [8] in space group No. 12 (C2/m). 
+The structure refinement of the title compound gave T-O, T-T and O-O distances in the range of 1.606 to 1.652 angstrom, 3.072 to 3.163 angstrom, and 2.385 to 2.802 angstrom, respectively, which are typical values for layer silicates possessing only Si at T sites of the [TO4]-tetrahedra.
+
+RUB-56 contains levyne-type silicate layers (lev layer) as the main structural constituents. In contrast to most HLSs [9], which possess dense silicate layers with 6-rings as largest “pores” (free diameter ca. 2.5 angstrom), the lev layer of RUB-56 contains slightly elliptical 8-rings pores with free diameters of 4.0 angstrom * 3.3 angstrom (see Figure 1). These pores are large enough to let small organic molecules pass, rendering the lev layer a microporous silicate layer. 
+The lev layers in the structure of RUB-56, are interconnected to neighboring ones by bands of water molecules being hydrogen bonded to each other and to the terminal Si-OH/Si-O- groups of the layers (see Figure 2). The diethyldimethylammonium cations which are intercalated between water bands and lev layers compensate their negative charge. Like ITQ-8, RUB-56, is also an interesting material to act as a precursor for the synthesis of microporous framework silicates by interlayer expansion reactions. Intercalating suitable metal-linker units like Si(CH3)2Cl2, Fe(III)Cl3 or Fe(III)-acetylacetonate and docking these linkers to two neighboring lev layers would lead to framework structures with 3-dimensional pore systems. 
+;
+
+_publ_section_references
+;[1] Feyen, M., Mueller, U., Bao, X., Zhang, W., De Vos, D., Gies, H., Xiao, F.-S., Yokoi, T., Kolb, U., Marler, B., Wang, Y., De Baerdemaeker, T., Shi, C., Pan, X., Meng, X. and Gruenewald–Lueke, A.: A Layered Silicate. US Patent Application 2021/0101800 A1, 2021.
+[2]Marler, B. and Gies, H.: Hydrous layer silicates as precursors for zeolites obtained through topotactic condensation: a review. Eur. J. Mineral. 24 , 405-428, 2012.
+[3] Ramos, F. S. O., de Pietre, M. K. and Pastore H. O.: Lamellar zeolites: an oxymoron?. RSC Adv. 3, 2084-2111, 2013.
+[4] Roth, W. J., Gil, B. and Marszalek, B.: Comprehensive system integrating 3D and 2D zeolite structures with recent new types of layered geometries. Catal. Today 227, 9-14, 2014.
+[5] Diaz-Cabañas, M. J., Camblor, M. A., Liu, Z., Ohsuna T. and Terasaki,O.: Zeolite syntheses using linear diquats of varying length in fluoride media. The synthesis of ITQ-8, ITQ-10, ITQ-14 and high silica Nu-87. J. Mater. Chem. 12, 249-257, 2002.
+[6] Marler, B., Müller, M. and Gies, H.: Structure and Properties of ITQ - 8: A Hydrous Layer Silicate with Microporous Silicate Layers. Dalton Transactions 45, 10155-10164, 2016. 
+[7] Zhang, L., Grünewald-Lüke, A., Marler, B., Wei, Y. and Gies, H.: Two New Hydrous Layer Silicates - RUB-56 and RUB-57. Book of Abstracts, IV Int. Workshop on Layered Materials, Campinas, Brazil, Pages 139-140 (2012)
+[8] Rodriguez-Carvajal, J. FullProf: A Program for Rietveld Refinementand Profile Matching Analysis of Complex Powder Diffraction Patterns Version 7.30; ILL, Grenoble, France, 2020. http://www.ill.eu/sites/fullprof/index.html
+[9] Marler, B., Grünewald-Lüke, A., Ikeda, T. Zuber, P. and Gies, H.: Database of Hydrous Layer Silicates. https://hls-database.com/
+[10] Momma, K.; Izumi, F.: VESTA 3 for three-dimensional visualization of crystal, volumetric and morphology data. Appl. Crystallogr. 44, 1272-1276, 2011; http://jp-minerals.org/vesta/en/download.html.
+;
+
+_publ_section_figure_captions
+;Figure 1: The lev layer projected on (010) to show the 8-ring pores. Si: purple, O: red, O-/OH groups: blue.
+
+Figure 2: The structure of RUB-56 constructed from silicate layers ([SiO4] = blue tetrahedra with terminal O-/OH groups as blue spheres), bands of hydrogen bonded water molecules (light blue) and diethyldimethylammonium cations (C: brown, N: green)
+;
+
+_publ_section_acknowledgements
+;This research was funded by the International Network of Centers of Excellence (INCOE) project coordinated by BASF SE, Germany.
+;
+ 
+#=============================================================================
+ 
+
+data_RUB-56 
+ 
+#=============================================================================
+ 
+# 5. CHEMICAL DATA
+ 
+_chemical_name_systematic
+; ?
+;
+_chemical_name_common             RUB-56
+_chemical_formula_moiety          'C34.67 N4 O51 Si16'
+_chemical_formula_structural      ?
+_chemical_formula_analytical      ?
+_chemical_formula_iupac           ?
+_chemical_formula_sum             'C34.67 N4 O51 Si16'
+_chemical_formula_weight          1737.82
+_chemical_melting_point           ?
+
+loop_
+    _atom_type_symbol               
+    _atom_type_scat_Cromer_Mann_a1 
+    _atom_type_scat_Cromer_Mann_b1 
+    _atom_type_scat_Cromer_Mann_a2 
+    _atom_type_scat_Cromer_Mann_b2 
+    _atom_type_scat_Cromer_Mann_a3 
+    _atom_type_scat_Cromer_Mann_b3 
+    _atom_type_scat_Cromer_Mann_a4 
+    _atom_type_scat_Cromer_Mann_b4 
+    _atom_type_scat_Cromer_Mann_c 
+    _atom_type_scat_dispersion_real 
+    _atom_type_scat_dispersion_imag 
+    _atom_type_scat_source          
+si     6.29150   2.43860   3.03530  32.33370   1.98910   0.67850
+       1.54100  81.69370   1.14070   0.24400   0.33000
+ International_Tables_for_Crystallography_Vol.C(1991)_Tables_6.1.1.4_and_6.1.1.5
+o      3.04850  13.27710   2.28680   5.70110   1.54630   0.32390
+       0.86700  32.90890   0.25080   0.04700   0.03200
+ International_Tables_for_Crystallography_Vol.C(1991)_Tables_6.1.1.4_and_6.1.1.5
+n     12.21260   0.00570   3.13220   9.89330   2.01250  28.99750
+       1.16630   0.58260 -11.52900   0.02900   0.01800
+ International_Tables_for_Crystallography_Vol.C(1991)_Tables_6.1.1.4_and_6.1.1.5
+c      2.31000  20.84390   1.02000  10.20750   1.58860   0.56870
+       0.86500  51.65120   0.21560   0.01700   0.00900
+ International_Tables_for_Crystallography_Vol.C(1991)_Tables_6.1.1.4_and_6.1.1.5
+ 
+#=============================================================================
+ 
+# 6. POWDER SPECIMEN AND CRYSTAL DATA
+ 
+_symmetry_cell_setting                Monoclinic
+_symmetry_space_group_name_H-M       'C 2/m'
+_symmetry_space_group_name_Hall      '-C 2y'
+ 
+loop_
+    _symmetry_equiv_pos_as_xyz   #<--must include 'x,y,z'
+'x,y,z'
+'-x,y,-z'
+'-x,-y,-z'
+'x,-y,z'
+'x+1/2,y+1/2,z'
+'-x+1/2,y+1/2,-z'
+'-x+1/2,-y+1/2,-z'
+'x+1/2,-y+1/2,z'
+ 
+_cell_length_a                       16.2532(14)
+_cell_length_b                       13.3020(7)
+_cell_length_c                       16.7771(14)
+_cell_angle_alpha                    90.0000
+_cell_angle_beta                     96.475(10)
+_cell_angle_gamma                    90.0000
+_cell_volume                         3604.07(14)
+_cell_formula_units_Z                2
+_cell_measurement_temperature        293
+_exptl_crystal_density_diffrn        1.60
+_cell_special_details
+; ?
+;
+# The next three fields give the specimen dimensions in mm.  The equatorial
+# plane contains the incident and diffracted beam.
+ 
+_pd_spec_size_axial               ?       # perpendicular to 
+                                          # equatorial plane
+_pd_spec_size_equat               ?       # parallel to 
+                                          # scattering vector
+                                          # in transmission
+_pd_spec_size_thick               ?       # parallel to 
+                                          # scattering vector
+                                          # in reflection
+ 
+# The next five fields are character fields that describe the specimen.
+ 
+_pd_spec_mounting                         # This field should be
+                                          # used to give details of the 
+                                          # container.
+; ?
+;
+_pd_spec_mount_mode                      'transmission'
+_pd_spec_shape                           'cylinder' 
+_pd_char_particle_morphology             'flat_sheet' 
+_pd_char_colour                          'white'
+ 
+# The following three fields describe the preparation of the specimen.
+# The cooling rate is in K/min.  The pressure at which the sample was 
+# prepared is in kPa.  The temperature of preparation is in K.        
+ 
+_pd_prep_cool_rate                ?
+_pd_prep_pressure                 ?
+_pd_prep_temperature              ?
+ 
+# The next four fields are normally only needed for transmission experiments.
+ 
+_exptl_absorpt_coefficient_mu        ?
+_exptl_absorpt_correction_type       ?
+_exptl_absorpt_process_details       ?
+_exptl_absorpt_correction_T_min      ?
+_exptl_absorpt_correction_T_max      ?
+ 
+#=============================================================================
+ 
+# 7. EXPERIMENTAL DATA
+ 
+_exptl_special_details
+; ?
+;
+ 
+# The following item is used to identify the equipment used to record 
+# the powder pattern when the diffractogram was measured at a laboratory 
+# other than the authors' home institution, e.g. when neutron or synchrotron
+# radiation is used.
+ 
+_pd_instr_location
+; ?
+;
+_pd_calibration_special_details           # description of the method used
+                                          # to calibrate the instrument
+; ?
+;
+ 
+_diffrn_ambient_temperature          '293'
+_diffrn_source                       'X-ray tube'
+_diffrn_radiation_type               'Cu K\a' 
+_diffrn_source_target                'Cu'
+ 
+_diffrn_radiation_monochromator      'Ge (111)' 
+_diffrn_measurement_device_type      'Siemens D5000'
+_diffrn_measurement_method           'Debye-Scherrer Geometry'
+_diffrn_detector_area_resol_mean     '6°theta' 
+_diffrn_detector                     'BRAUN'
+_diffrn_detector_type                'Position sensitive detector'
+_pd_meas_scan_method                 'cont'  
+
+#  The following four items give details of the measured (not processed)
+#  powder pattern.  Angles are in degrees.
+ 
+_pd_meas_number_of_points         11008
+_pd_meas_2theta_range_min         3.04730
+_pd_meas_2theta_range_max         89.85830
+_pd_meas_2theta_range_inc         0.007889
+ 
+#=============================================================================
+ 
+# 8. REFINEMENT DATA
+ 
+_refine_special_details
+; ?
+;
+ 
+# Use the next field to give any special details about the fitting of the
+# powder pattern.
+ 
+_pd_proc_ls_special_details
+; ?
+;
+ 
+# The next three items are given as text.
+ 
+_pd_proc_ls_profile_function     'Thompson-Cox-Hastings pseudo-Voigt function'
+_pd_proc_ls_background_function  'Linear interpolation between bgrd. points'
+_pd_proc_ls_pref_orient_corr     'none' 
+
+#  The following profile R-factors are NOT CORRECTED for background
+#  The sum is extended to all non-excluded points.
+#  These are the current CIF standard
+ 
+_pd_proc_ls_prof_R_factor                3.4583
+_pd_proc_ls_prof_wR_factor               4.5405
+_pd_proc_ls_prof_wR_expected             2.9046
+ 
+#  The following profile R-factors are CORRECTED for background
+#  The sum is extended to all non-excluded points.
+#  These items are not in the current CIF standard, but are defined above
+ 
+_pd_proc_ls_prof_cR_factor               10.4815
+_pd_proc_ls_prof_cwR_factor              11.4344
+_pd_proc_ls_prof_cwR_expected             7.3147
+ 
+#  The following items are not in the CIF standard, but are defined above
+ 
+_pd_proc_ls_prof_chi2                 2.4436
+_pd_proc_ls_prof_echi2                2.4436
+ 
+#  Items related to LS refinement
+ 
+_refine_ls_R_I_factor                   3.3541
+_refine_ls_number_reflns                  1822
+_refine_ls_number_parameters                78
+_refine_ls_number_restraints                68
+_refine_ls_goodness_of_fit_all          1.8253
+_refine_ls_shift/su_max                 ?
+
+ 
+# The following four items apply to angular dispersive measurements.
+# 2theta minimum, maximum and increment (in degrees) are for the 
+# intensities used in the refinement.
+ 
+_pd_proc_2theta_range_min                2.9585
+_pd_proc_2theta_range_max               89.7695
+_pd_proc_2theta_range_inc              0.007889
+_pd_proc_wavelength                    1.540600
+ 
+_pd_block_diffractogram_id        ?  # The id used for the block containing
+                                     # the powder pattern profile (section 11)
+ 
+# Give appropriate details in the next two text fields.
+ 
+_pd_proc_info_excluded_regions    ?
+_pd_proc_info_data_reduction      ?
+ 
+# The following items are used to identify the programs used.
+ 
+_computing_data_collection           ?
+_computing_structure_solution        ?
+_computing_structure_refinement      FULLPROF
+_computing_molecular_graphics        ?
+_computing_publication_material      ?
+ 
+#=============================================================================
+ 
+# 9. ATOMIC COORDINATES AND DISPLACEMENT PARAMETERS
+ 
+loop_
+    _atom_site_label
+    _atom_site_fract_x
+    _atom_site_fract_y
+    _atom_site_fract_z
+    _atom_site_U_iso_or_equiv
+    _atom_site_occupancy
+    _atom_site_adp_type
+    _atom_site_type_symbol
+ Si1 -0.0848(2)  0.7313(3)  0.0322(2)  0.0162(6)  1.00000 Uiso Si    
+ Si2  0.8537(2)  0.8814(3)  0.1592(2)  0.0162(6)  1.00000 Uiso Si    
+ Si3  0.4920(2)  0.8827(3)  0.1872(2)  0.0162(6)  1.00000 Uiso Si    
+ Si4  0.1630(2)  0.6159(3)  0.1206(2)  0.0162(6)  1.00000 Uiso Si    
+ O1 -0.1270(7)  0.8248(6)  0.0763(4)  0.021(3)  1.00000 Uiso O     
+ O2 -0.0602(7)  0.6489(6)  0.1025(4)  0.021(3)  1.00000 Uiso O     
+ OH3  0.9106(7)  0.8530(8)  0.2419(5)  0.021(3)  1.00000 Uiso O     
+ O4  0.8708(10)  0.00000  0.1449(10)  0.021(3)  1.00000 Uiso O     
+ O5  0.00000  0.7743(8)  0.00000  0.021(3)  1.00000 Uiso O     
+ OH6  0.4697(8)  0.8107(7)  0.2598(5)  0.021(3)  1.00000 Uiso O     
+ O10  0.3556(6)  0.8127(8) -0.0425(5)  0.021(3)  1.00000 Uiso O     
+ O12  0.2544(2)  0.6365(8)  0.1672(5)  0.021(3)  1.00000 Uiso O     
+ O13  0.9689(10)  0.50000  0.2023(10)  0.021(3)  1.00000 Uiso O     
+ O15  1.0909(3)  0.6330(9)  0.1782(6)  0.021(3)  1.00000 Uiso O     
+ O16  0.3453(12)  0.00000 -0.0918(8)  0.021(3)  1.00000 Uiso O     
+ N1  0.1769(5)  0.00000  0.1364(6)  0.411(6)  1.00000 Uiso N     
+ C1  0.2189(15)  0.9090(11)  0.1758(6)  0.411(6)  1.33333 Uiso C     
+ C2  0.2047(18)  0.00000  0.0546(9)  0.411(6)  1.50000 Uiso C     
+ C3  0.0837(6)  0.00000  0.1243(17)  0.411(6)  1.50000 Uiso C     
+ C4  0.2335(14)  0.1119(15)  0.2668(5)  0.411(6)  1.50000 Uiso C     
+ N2  0.2418(5)  0.50000  0.4157(6)  0.411(6)  1.00000 Uiso N     
+ C5  0.1509(6)  0.50000  0.3899(16)  0.411(6)  1.50000 Uiso C     
+ C6  0.2669(19)  0.50000  0.5045(6)  0.411(6)  1.50000 Uiso C     
+ C7  0.2874(12)  0.5873(9)  0.3851(7)  0.411(6)  1.33333 Uiso C     
+ C8  0.3201(16)  0.6596(13)  0.4549(10)  0.411(6)  1.50000 Uiso C     
+ W1  0.4985(13)  0.50000  0.6430(12)  0.098(3)  1.25000 Uiso O     
+ W2 -0.0780(9)  0.7807(8)  0.6470(9)  0.098(3)  1.25000 Uiso O     
+ W3  0.50000  0.7838(12)  0.50000  0.098(3)  1.25000 Uiso O     
+ W4  0.0803(7)  0.5964(8)  0.6004(7)  0.098(3)  1.25000 Uiso O     
+ 
+# Note: if the displacement parameters were refined anisotropically
+# the U matrices should be given as for single-crystal studies.
+ 
+#=============================================================================
+ 
+# 10. DISTANCES AND ANGLES / MOLECULAR GEOMETRY 
+ 
+_geom_special_details                ?
+ 
+loop_
+   _geom_bond_atom_site_label_1
+   _geom_bond_atom_site_label_2
+   _geom_bond_distance
+   _geom_bond_site_symmetry_2
+   _geom_bond_publ_flag
+Si1   Si1   3.072(5)      2_555 ?
+Si1   Si2   3.163(5)      1_455 ?
+Si1   Si3   3.144(5)      8_465 ?
+Si1   Si4   3.132(5)      2_555 ?
+Si1   O1    1.637(10)     1_555 ?
+Si1   O2    1.627(8)      1_555 ?
+Si1   O5    1.639(5)      1_555 ?
+Si1   O10   1.606(9)      8_465 ?
+Si2   Si1   3.163(5)      1_655 ?
+Si2   Si2   3.155(6)      4_575 ?
+Si2   Si4   3.094(5)      8_565 ?
+Si2   O1    1.643(8)      1_655 ?
+Si2   OH3   1.623(9)      1_555 ?
+Si2   O4    1.624(6)      1_565 ?
+Si2   O12   1.652(5)      8_565 ?
+Si3   Si1   3.144(5)      8_565 ?
+Si3   Si3   3.121(6)      4_575 ?
+Si3   Si4   3.110(5)      8_565 ?
+Si3   O2    1.626(8)      8_565 ?
+Si3   OH6   1.622(10)     1_555 ?
+Si3   O13   1.631(6)      5_455 ?
+Si3   O15   1.645(6)      8_465 ?
+Si4   Si1   3.132(5)      2_555 ?
+Si4   Si2   3.094(5)      8_465 ?
+Si4   Si3   3.110(5)      8_465 ?
+Si4   Si4   3.083(6)      4_565 ?
+Si4   O10   1.619(10)     7_565 ?
+Si4   O12   1.622(6)      1_555 ?
+Si4   O15   1.617(9)      1_455 ?
+Si4   O16   1.617(6)      6_555 ?
+O1    Si1   1.637(10)     1_555 ?
+O1    Si2   1.643(8)      1_455 ?
+O1    O2    2.596(12)     1_555 ?
+O1    OH3   2.802(11)     1_455 ?
+O1    O4    2.601(11)     1_465 ?
+O1    O5    2.636(11)     1_555 ?
+O1    O10   2.696(12)     8_465 ?
+O1    O12   2.640(12)     8_465 ?
+O1    C2    3.350(15)     2_565 ?
+O2    Si1   1.627(8)      1_555 ?
+O2    Si3   1.626(8)      8_465 ?
+O2    O1    2.596(12)     1_555 ?
+O2    O5    2.660(11)     1_555 ?
+O2    OH6   2.683(11)     8_465 ?
+O2    O10   2.702(11)     8_465 ?
+O2    O13   2.602(13)     1_455 ?
+O2    O15   2.643(12)     1_455 ?
+OH3   Si2   1.623(9)      1_555 ?
+OH3   O1    2.802(11)     1_655 ?
+OH3   O4    2.579(14)     1_565 ?
+OH3   OH6   2.385(15)     8_565 ?
+OH3   O12   2.705(11)     8_565 ?
+OH3   C7    3.391(19)     8_565 ?
+OH3   W1    3.015(18)     6_656 ?
+OH3   W2    3.265(17)     2_656 ?
+O4    Si2   1.624(6)      1_545 ?
+O4    Si2   1.624(6)      4_565 ?
+O4    O1    2.601(11)     1_645 ?
+O4    O1    2.601(11)     4_665 ?
+O4    OH3   2.579(14)     1_545 ?
+O4    OH3   2.579(14)     4_565 ?
+O4    O12   2.679(15)     5_545 ?
+O4    O12   2.679(15)     8_555 ?
+O5    Si1   1.639(5)      1_555 ?
+O5    Si1   1.639(5)      2_555 ?
+O5    O1    2.636(11)     1_555 ?
+O5    O1    2.636(11)     2_555 ?
+O5    O2    2.660(11)     1_555 ?
+O5    O2    2.660(11)     2_555 ?
+O5    O10   2.642(11)     7_565 ?
+O5    O10   2.642(11)     8_465 ?
+OH6   Si3   1.622(10)     1_555 ?
+OH6   O2    2.683(11)     8_565 ?
+OH6   OH3   2.385(15)     8_465 ?
+OH6   O13   2.696(11)     5_455 ?
+OH6   O15   2.631(14)     8_465 ?
+OH6   W2    2.530(17)     7_566 ?
+OH6   W4    2.849(15)     7_566 ?
+O10   Si1   1.606(9)      8_565 ?
+O10   Si4   1.619(10)     7_565 ?
+O10   O1    2.696(12)     8_565 ?
+O10   O2    2.702(11)     8_565 ?
+O10   O5    2.642(11)     7_565 ?
+O10   O12   2.681(11)     7_565 ?
+O10   O15   2.628(13)     7_665 ?
+O10   O16   2.625(11)     1_565 ?
+O12   Si2   1.652(5)      8_465 ?
+O12   Si4   1.622(6)      1_555 ?
+O12   O1    2.640(12)     8_565 ?
+O12   OH3   2.705(11)     8_465 ?
+O12   O4    2.679(15)     5_455 ?
+O12   O10   2.681(11)     7_565 ?
+O12   O15   2.685(6)      1_455 ?
+O12   O16   2.657(15)     6_555 ?
+O13   Si3   1.631(6)      5_545 ?
+O13   Si3   1.631(6)      8_565 ?
+O13   O2    2.602(13)     1_655 ?
+O13   O2    2.602(13)     4_665 ?
+O13   OH6   2.696(11)     5_545 ?
+O13   OH6   2.696(11)     8_565 ?
+O13   O15   2.721(16)     1_555 ?
+O13   O15   2.721(16)     4_565 ?
+O15   Si3   1.645(6)      8_565 ?
+O15   Si4   1.617(9)      1_655 ?
+O15   O2    2.643(12)     1_655 ?
+O15   OH6   2.631(14)     8_565 ?
+O15   O10   2.628(13)     7_665 ?
+O15   O12   2.685(6)      1_655 ?
+O15   O13   2.721(16)     1_555 ?
+O15   O16   2.578(16)     6_655 ?
+O16   Si4   1.617(6)      6_545 ?
+O16   Si4   1.617(6)      7_555 ?
+O16   O10   2.625(11)     1_545 ?
+O16   O10   2.625(11)     4_565 ?
+O16   O12   2.657(15)     6_545 ?
+O16   O12   2.657(15)     7_555 ?
+O16   O15   2.578(16)     6_645 ?
+O16   O15   2.578(16)     7_655 ?
+N1    C1    1.505(17)     1_545 ?
+N1    C1    1.505(17)     4_565 ?
+N1    C2    1.49(2)       1_555 ?
+N1    C3    1.505(13)     1_555 ?
+N1    C4    2.719(16)     1_555 ?
+N1    C4    2.719(16)     4_555 ?
+C1    N1    1.505(17)     1_565 ?
+C1    C1    2.42(2)       4_575 ?
+C1    C2    2.355(17)     1_565 ?
+C1    C3    2.57(2)       1_565 ?
+C1    C4    3.10(2)       1_565 ?
+C1    C4    1.544(14)     4_565 ?
+C2    O1    3.350(15)     2_545 ?
+C2    O1    3.350(15)     3_565 ?
+C2    N1    1.49(2)       1_555 ?
+C2    C1    2.355(17)     1_545 ?
+C2    C1    2.355(17)     4_565 ?
+C2    C3    2.40(3)       1_555 ?
+C3    N1    1.505(13)     1_555 ?
+C3    C1    2.57(2)       1_545 ?
+C3    C1    2.57(2)       4_565 ?
+C3    C2    2.40(3)       1_555 ?
+C4    N1    2.719(16)     1_555 ?
+C4    C1    3.10(2)       1_545 ?
+C4    C1    1.544(14)     4_565 ?
+C4    C4    2.98(3)       4_555 ?
+C4    W2    3.37(3)       3_566 ?
+N2    C5    1.492(13)     1_555 ?
+N2    C6    1.500(15)     1_555 ?
+N2    C7    1.499(16)     1_555 ?
+N2    C7    1.499(16)     4_565 ?
+N2    C8    2.524(20)     1_555 ?
+N2    C8    2.524(20)     4_565 ?
+C5    N2    1.492(13)     1_555 ?
+C5    C6    2.54(3)       1_555 ?
+C5    C7    2.51(2)       1_555 ?
+C5    C7    2.51(2)       4_565 ?
+C6    N2    1.500(15)     1_555 ?
+C6    C5    2.54(3)       1_555 ?
+C6    C7    2.371(17)     1_555 ?
+C6    C7    2.371(17)     4_565 ?
+C6    C8    2.47(2)       1_555 ?
+C6    C8    2.47(2)       4_565 ?
+C7    OH3   3.391(19)     8_465 ?
+C7    N2    1.499(16)     1_555 ?
+C7    C5    2.51(2)       1_555 ?
+C7    C6    2.371(17)     1_555 ?
+C7    C7    2.323(17)     4_565 ?
+C7    C8    1.56(2)       1_555 ?
+C8    N2    2.524(20)     1_555 ?
+C8    C6    2.47(2)       1_555 ?
+C8    C7    1.56(2)       1_555 ?
+C8    W3    3.37(2)       1_555 ?
+W1    OH3   3.015(18)     6_646 ?
+W1    OH3   3.015(18)     7_666 ?
+W1    W2    3.175(14)     5_545 ?
+W1    W2    3.175(14)     8_565 ?
+W2    OH3   3.265(17)     2_656 ?
+W2    OH6   2.530(17)     7_566 ?
+W2    C4    3.37(3)       3_566 ?
+W2    W1    3.175(14)     5_455 ?
+W2    W3    3.022(16)     7_566 ?
+W3    C8    3.37(2)       1_555 ?
+W3    C8    3.37(2)       2_656 ?
+W3    W2    3.022(16)     7_566 ?
+W3    W2    3.022(16)     8_565 ?
+W3    W4    2.566(15)     7_566 ?
+W3    W4    2.566(15)     8_565 ?
+W4    OH6   2.849(15)     7_566 ?
+W4    W3    2.566(15)     7_566 ?
+W4    W4    2.565(15)     4_565 ?
+

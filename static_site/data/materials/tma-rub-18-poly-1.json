@@ -1,0 +1,791 @@
+{
+  "pk": 55,
+  "name": "TMA-RUB-18 poly-1",
+  "slug": "tma-rub-18-poly-1",
+  "is_related_material": false,
+  "layer_type": {
+    "pk": 15,
+    "name": "rwr",
+    "slug": "rwr"
+  },
+  "intercalated_cation": {
+    "pk": 4,
+    "name": "tetramethylammonium",
+    "chemical_formula": "C4H12N1"
+  },
+  "similar_structure": [],
+  "similar_chemistry": [],
+  "similar_structure_known": {},
+  "similar_chemistry_known": {},
+  "files": {
+    "cif": null,
+    "cif_for_jsmol": "cifs_for_jsmol/tma-rub-18-poly1_for_JSmol.cif",
+    "powder_pattern_data": "powder_pattern/TMA_RUB-18poly1_powder_pattern.csv",
+    "reflections_data": "reflections/TMA-RUB-Poly1_ref.csv",
+    "fractional_atomic_coordinates_data": "facs/TMA-RUB-18_poly1_fracs.csv",
+    "structure_plot": "plots/SP_TMA-RUB-18_poly1_cut.jpg",
+    "atr_ir_spectrum_data": "atr_ir_spectra/TMA_RUB-18poly1_ir.csv"
+  },
+  "synthesis": [
+    {
+      "pk": 48,
+      "mixture": "Na-RUB-18 exchanged with aqueous TMAOH solution",
+      "sda": "Tetramethylammonium",
+      "temperature": 25.0,
+      "duration": "3-7 d",
+      "conditions": "",
+      "comment": "",
+      "reference": {
+        "pk": 48,
+        "title": "Preperation and crystal structure of RUB-18 modified for synthesis of zeolite RWR by topotactic conversion",
+        "year": 2008,
+        "volume": 110,
+        "issue": "2-3",
+        "pages": "488-500",
+        "doi": "https://doi.org/10.1016/j.micromeso.2007.06.038",
+        "pdf": "",
+        "journal": {
+          "pk": 1,
+          "name": "Microporous and Mesoporous Materials"
+        },
+        "authors": [
+          {
+            "pk": 1,
+            "first_name": "Takuji",
+            "last_name": "Ikeda",
+            "display_name": "Takuji Ikeda"
+          },
+          {
+            "pk": 116,
+            "first_name": "Y.",
+            "last_name": "Oumi",
+            "display_name": "Y. Oumi"
+          },
+          {
+            "pk": 3,
+            "first_name": "T.",
+            "last_name": "Takeoka",
+            "display_name": "T. Takeoka"
+          },
+          {
+            "pk": 4,
+            "first_name": "T.",
+            "last_name": "Yokoyama",
+            "display_name": "T. Yokoyama"
+          },
+          {
+            "pk": 5,
+            "first_name": "T.",
+            "last_name": "Sano",
+            "display_name": "T. Sano"
+          },
+          {
+            "pk": 6,
+            "first_name": "T.",
+            "last_name": "Hanaoka",
+            "display_name": "T. Hanaoka"
+          }
+        ],
+        "from_db": true
+      }
+    }
+  ],
+  "crystal_structure": [
+    {
+      "pk": 48,
+      "space_group": {
+        "pk": 137,
+        "symbol_short": "P4(2)/nmc"
+      },
+      "crystal_system": "tetragonal",
+      "chemical_composition": "[N(CH<sub>3</sub>)<sub>4</sub>OH]<sub>4</sub>[Si<sub>16</sub>O<sub>32</sub>(OH)<sub>4</sub>] ∙ 7 H<sub>2</sub>O",
+      "stacking_direction": "c",
+      "a": 7.4121,
+      "b": 7.4121,
+      "c": 22.615,
+      "alpha": 90.0,
+      "beta": 90.0,
+      "gamma": 90.0,
+      "comment": "",
+      "reference": {
+        "pk": 48,
+        "title": "Preperation and crystal structure of RUB-18 modified for synthesis of zeolite RWR by topotactic conversion",
+        "year": 2008,
+        "volume": 110,
+        "issue": "2-3",
+        "pages": "488-500",
+        "doi": "https://doi.org/10.1016/j.micromeso.2007.06.038",
+        "pdf": "",
+        "journal": {
+          "pk": 1,
+          "name": "Microporous and Mesoporous Materials"
+        },
+        "authors": [
+          {
+            "pk": 1,
+            "first_name": "Takuji",
+            "last_name": "Ikeda",
+            "display_name": "Takuji Ikeda"
+          },
+          {
+            "pk": 116,
+            "first_name": "Y.",
+            "last_name": "Oumi",
+            "display_name": "Y. Oumi"
+          },
+          {
+            "pk": 3,
+            "first_name": "T.",
+            "last_name": "Takeoka",
+            "display_name": "T. Takeoka"
+          },
+          {
+            "pk": 4,
+            "first_name": "T.",
+            "last_name": "Yokoyama",
+            "display_name": "T. Yokoyama"
+          },
+          {
+            "pk": 5,
+            "first_name": "T.",
+            "last_name": "Sano",
+            "display_name": "T. Sano"
+          },
+          {
+            "pk": 6,
+            "first_name": "T.",
+            "last_name": "Hanaoka",
+            "display_name": "T. Hanaoka"
+          }
+        ],
+        "from_db": true
+      },
+      "lp_2d_cell": [
+        "a = 7.41 Å",
+        "b = 7.41 Å",
+        "γ = 90.00 °"
+      ],
+      "lp_stacking_direction": [
+        "c = 22.62 Å",
+        "α = 90.00 °",
+        "β = 90.00 °"
+      ]
+    }
+  ],
+  "properties": [
+    {
+      "pk": 48,
+      "density_calculated": 1.839,
+      "condensation_product": "RUB-24 (zeolite framework type: RWR)",
+      "comment": ""
+    }
+  ],
+  "peaks": [
+    {
+      "HLS": 55,
+      "two_theta": "7.812000000",
+      "intensity": "100.0",
+      "pk": 141
+    },
+    {
+      "HLS": 55,
+      "two_theta": "14.276000000",
+      "intensity": "18.3",
+      "pk": 142
+    },
+    {
+      "HLS": 55,
+      "two_theta": "16.903000000",
+      "intensity": "10.9",
+      "pk": 143
+    },
+    {
+      "HLS": 55,
+      "two_theta": "23.017000000",
+      "intensity": "27.8",
+      "pk": 144
+    },
+    {
+      "HLS": 55,
+      "two_theta": "24.318000000",
+      "intensity": "19.2",
+      "pk": 145
+    },
+    {
+      "HLS": 55,
+      "two_theta": "25.269000000",
+      "intensity": "24.2",
+      "pk": 146
+    },
+    {
+      "HLS": 55,
+      "two_theta": "26.784000000",
+      "intensity": "15.7",
+      "pk": 147
+    }
+  ],
+  "reflections": [
+    {
+      "HLS": 55,
+      "h": 0,
+      "k": 0,
+      "l": 2,
+      "m": 2,
+      "two_theta": "7.812",
+      "intensity_calculated": "100.0",
+      "d_hkl": "11.075000",
+      "represents": 1,
+      "pk": 1918
+    },
+    {
+      "HLS": 55,
+      "h": 1,
+      "k": 0,
+      "l": 1,
+      "m": 8,
+      "two_theta": "12.557",
+      "intensity_calculated": "0.0",
+      "d_hkl": "7.043000",
+      "represents": null,
+      "pk": 1919
+    },
+    {
+      "HLS": 55,
+      "h": 1,
+      "k": 0,
+      "l": 2,
+      "m": 8,
+      "two_theta": "14.276",
+      "intensity_calculated": "18.3",
+      "d_hkl": "6.199000",
+      "represents": null,
+      "pk": 1920
+    },
+    {
+      "HLS": 55,
+      "h": 0,
+      "k": 0,
+      "l": 4,
+      "m": 2,
+      "two_theta": "15.661",
+      "intensity_calculated": "0.3",
+      "d_hkl": "5.654000",
+      "represents": null,
+      "pk": 1921
+    },
+    {
+      "HLS": 55,
+      "h": 1,
+      "k": 0,
+      "l": 3,
+      "m": 8,
+      "two_theta": "16.761",
+      "intensity_calculated": "1.0",
+      "d_hkl": "5.285000",
+      "represents": null,
+      "pk": 1922
+    },
+    {
+      "HLS": 55,
+      "h": 1,
+      "k": 1,
+      "l": 0,
+      "m": 4,
+      "two_theta": "16.903",
+      "intensity_calculated": "10.9",
+      "d_hkl": "5.241000",
+      "represents": 0,
+      "pk": 1923
+    },
+    {
+      "HLS": 55,
+      "h": 1,
+      "k": 1,
+      "l": 2,
+      "m": 8,
+      "two_theta": "18.645",
+      "intensity_calculated": "0.0",
+      "d_hkl": "4.755000",
+      "represents": null,
+      "pk": 1924
+    },
+    {
+      "HLS": 55,
+      "h": 1,
+      "k": 0,
+      "l": 4,
+      "m": 8,
+      "two_theta": "19.733",
+      "intensity_calculated": "0.2",
+      "d_hkl": "4.492000",
+      "represents": null,
+      "pk": 1925
+    },
+    {
+      "HLS": 55,
+      "h": 1,
+      "k": 0,
+      "l": 5,
+      "m": 8,
+      "two_theta": "23.017",
+      "intensity_calculated": "27.8",
+      "d_hkl": "3.861000",
+      "represents": null,
+      "pk": 1926
+    },
+    {
+      "HLS": 55,
+      "h": 1,
+      "k": 1,
+      "l": 4,
+      "m": 8,
+      "two_theta": "23.122",
+      "intensity_calculated": "1.0",
+      "d_hkl": "3.844000",
+      "represents": null,
+      "pk": 1927
+    },
+    {
+      "HLS": 55,
+      "h": 0,
+      "k": 0,
+      "l": 6,
+      "m": 2,
+      "two_theta": "23.585",
+      "intensity_calculated": "0.1",
+      "d_hkl": "3.769000",
+      "represents": null,
+      "pk": 1928
+    },
+    {
+      "HLS": 55,
+      "h": 2,
+      "k": 0,
+      "l": 0,
+      "m": 4,
+      "two_theta": "23.993",
+      "intensity_calculated": "3.4",
+      "d_hkl": "3.706000",
+      "represents": 0,
+      "pk": 1929
+    },
+    {
+      "HLS": 55,
+      "h": 2,
+      "k": 0,
+      "l": 1,
+      "m": 8,
+      "two_theta": "24.318",
+      "intensity_calculated": "19.2",
+      "d_hkl": "3.657000",
+      "represents": null,
+      "pk": 1930
+    },
+    {
+      "HLS": 55,
+      "h": 2,
+      "k": 0,
+      "l": 2,
+      "m": 8,
+      "two_theta": "25.269",
+      "intensity_calculated": "24.2",
+      "d_hkl": "3.522000",
+      "represents": null,
+      "pk": 1931
+    },
+    {
+      "HLS": 55,
+      "h": 1,
+      "k": 0,
+      "l": 6,
+      "m": 8,
+      "two_theta": "26.509",
+      "intensity_calculated": "1.3",
+      "d_hkl": "3.360000",
+      "represents": null,
+      "pk": 1932
+    },
+    {
+      "HLS": 55,
+      "h": 2,
+      "k": 0,
+      "l": 3,
+      "m": 8,
+      "two_theta": "26.784",
+      "intensity_calculated": "15.7",
+      "d_hkl": "3.326000",
+      "represents": null,
+      "pk": 1933
+    },
+    {
+      "HLS": 55,
+      "h": 2,
+      "k": 1,
+      "l": 1,
+      "m": 16,
+      "two_theta": "27.167",
+      "intensity_calculated": "0.0",
+      "d_hkl": "3.280000",
+      "represents": null,
+      "pk": 1934
+    },
+    {
+      "HLS": 55,
+      "h": 2,
+      "k": 1,
+      "l": 2,
+      "m": 16,
+      "two_theta": "28.028",
+      "intensity_calculated": "2.3",
+      "d_hkl": "3.181000",
+      "represents": null,
+      "pk": 1935
+    },
+    {
+      "HLS": 55,
+      "h": 2,
+      "k": 0,
+      "l": 4,
+      "m": 8,
+      "two_theta": "28.780",
+      "intensity_calculated": "10.3",
+      "d_hkl": "3.099000",
+      "represents": null,
+      "pk": 1936
+    },
+    {
+      "HLS": 55,
+      "h": 1,
+      "k": 1,
+      "l": 6,
+      "m": 8,
+      "two_theta": "29.160",
+      "intensity_calculated": "0.1",
+      "d_hkl": "3.060000",
+      "represents": null,
+      "pk": 1937
+    },
+    {
+      "HLS": 55,
+      "h": 2,
+      "k": 1,
+      "l": 3,
+      "m": 16,
+      "two_theta": "29.412",
+      "intensity_calculated": "4.0",
+      "d_hkl": "3.034000",
+      "represents": null,
+      "pk": 1938
+    },
+    {
+      "HLS": 55,
+      "h": 1,
+      "k": 0,
+      "l": 7,
+      "m": 8,
+      "two_theta": "30.151",
+      "intensity_calculated": "1.7",
+      "d_hkl": "2.961000",
+      "represents": null,
+      "pk": 1939
+    },
+    {
+      "HLS": 55,
+      "h": 2,
+      "k": 0,
+      "l": 5,
+      "m": 8,
+      "two_theta": "31.175",
+      "intensity_calculated": "0.6",
+      "d_hkl": "2.867000",
+      "represents": null,
+      "pk": 1940
+    },
+    {
+      "HLS": 55,
+      "h": 2,
+      "k": 1,
+      "l": 4,
+      "m": 16,
+      "two_theta": "31.255",
+      "intensity_calculated": "1.8",
+      "d_hkl": "2.860000",
+      "represents": null,
+      "pk": 1941
+    },
+    {
+      "HLS": 55,
+      "h": 0,
+      "k": 0,
+      "l": 8,
+      "m": 2,
+      "two_theta": "31.625",
+      "intensity_calculated": "1.0",
+      "d_hkl": "2.827000",
+      "represents": null,
+      "pk": 1942
+    },
+    {
+      "HLS": 55,
+      "h": 2,
+      "k": 1,
+      "l": 5,
+      "m": 16,
+      "two_theta": "33.489",
+      "intensity_calculated": "1.7",
+      "d_hkl": "2.674000",
+      "represents": null,
+      "pk": 1943
+    },
+    {
+      "HLS": 55,
+      "h": 2,
+      "k": 0,
+      "l": 6,
+      "m": 8,
+      "two_theta": "33.895",
+      "intensity_calculated": "0.0",
+      "d_hkl": "2.643000",
+      "represents": null,
+      "pk": 1944
+    },
+    {
+      "HLS": 55,
+      "h": 1,
+      "k": 0,
+      "l": 8,
+      "m": 8,
+      "two_theta": "33.912",
+      "intensity_calculated": "0.0",
+      "d_hkl": "2.641000",
+      "represents": null,
+      "pk": 1945
+    },
+    {
+      "HLS": 55,
+      "h": 2,
+      "k": 2,
+      "l": 0,
+      "m": 4,
+      "two_theta": "34.188",
+      "intensity_calculated": "0.2",
+      "d_hkl": "2.621000",
+      "represents": null,
+      "pk": 1946
+    },
+    {
+      "HLS": 55,
+      "h": 2,
+      "k": 2,
+      "l": 2,
+      "m": 8,
+      "two_theta": "35.124",
+      "intensity_calculated": "0.6",
+      "d_hkl": "2.553000",
+      "represents": null,
+      "pk": 1947
+    },
+    {
+      "HLS": 55,
+      "h": 2,
+      "k": 1,
+      "l": 6,
+      "m": 16,
+      "two_theta": "36.054",
+      "intensity_calculated": "0.3",
+      "d_hkl": "2.489000",
+      "represents": null,
+      "pk": 1948
+    },
+    {
+      "HLS": 55,
+      "h": 1,
+      "k": 1,
+      "l": 8,
+      "m": 8,
+      "two_theta": "36.070",
+      "intensity_calculated": "0.1",
+      "d_hkl": "2.488000",
+      "represents": null,
+      "pk": 1949
+    },
+    {
+      "HLS": 55,
+      "h": 3,
+      "k": 0,
+      "l": 1,
+      "m": 8,
+      "two_theta": "36.556",
+      "intensity_calculated": "0.7",
+      "d_hkl": "2.456000",
+      "represents": null,
+      "pk": 1950
+    },
+    {
+      "HLS": 55,
+      "h": 2,
+      "k": 0,
+      "l": 7,
+      "m": 8,
+      "two_theta": "36.880",
+      "intensity_calculated": "0.8",
+      "d_hkl": "2.435000",
+      "represents": null,
+      "pk": 1951
+    }
+  ],
+  "reflection_layer_cell": [
+    {
+      "HLS": 55,
+      "h": 1,
+      "k": 1,
+      "l": 0,
+      "m": 4,
+      "two_theta": "16.903",
+      "intensity_calculated": "10.9",
+      "d_hkl": "5.241000",
+      "represents": 0,
+      "pk": 1923
+    },
+    {
+      "HLS": 55,
+      "h": 2,
+      "k": 0,
+      "l": 0,
+      "m": 4,
+      "two_theta": "23.993",
+      "intensity_calculated": "3.4",
+      "d_hkl": "3.706000",
+      "represents": 0,
+      "pk": 1929
+    }
+  ],
+  "reflection_layer_layer": [
+    {
+      "HLS": 55,
+      "h": 0,
+      "k": 0,
+      "l": 2,
+      "m": 2,
+      "two_theta": "7.812",
+      "intensity_calculated": "100.0",
+      "d_hkl": "11.075000",
+      "represents": 1,
+      "pk": 1918
+    }
+  ],
+  "fractional_atomic_coordinates": [
+    {
+      "HLS": 55,
+      "atom": "Si1",
+      "x": "0.2500",
+      "y": "0.9609",
+      "z": "0.6524",
+      "b_iso": "1.24",
+      "occupy": "1.000",
+      "pk": 707
+    },
+    {
+      "HLS": 55,
+      "atom": "Si2",
+      "x": "0.5446",
+      "y": "-0.5446",
+      "z": "0.7500",
+      "b_iso": "1.24",
+      "occupy": "1.000",
+      "pk": 708
+    },
+    {
+      "HLS": 55,
+      "atom": "O1",
+      "x": "0.4212",
+      "y": "0.9959",
+      "z": "0.6886",
+      "b_iso": "1.37",
+      "occupy": "1.000",
+      "pk": 709
+    },
+    {
+      "HLS": 55,
+      "atom": "O2",
+      "x": "0.2500",
+      "y": "0.0889",
+      "z": "0.5991",
+      "b_iso": "1.37",
+      "occupy": "1.000",
+      "pk": 710
+    },
+    {
+      "HLS": 55,
+      "atom": "O3",
+      "x": "0.2500",
+      "y": "0.9882",
+      "z": "0.2719",
+      "b_iso": "1.37",
+      "occupy": "1.000",
+      "pk": 711
+    },
+    {
+      "HLS": 55,
+      "atom": "O4",
+      "x": "0.2500",
+      "y": "0.7500",
+      "z": "0.6235",
+      "b_iso": "1.37",
+      "occupy": "1.000",
+      "pk": 712
+    },
+    {
+      "HLS": 55,
+      "atom": "N1",
+      "x": "0.2500",
+      "y": "0.7500",
+      "z": "0.4270",
+      "b_iso": "27.00",
+      "occupy": "1.000",
+      "pk": 713
+    },
+    {
+      "HLS": 55,
+      "atom": "C1",
+      "x": "0.3400",
+      "y": "0.6600",
+      "z": "0.4570",
+      "b_iso": "27.00",
+      "occupy": "0.500",
+      "pk": 714
+    },
+    {
+      "HLS": 55,
+      "atom": "C2",
+      "x": "0.3460",
+      "y": "0.6540",
+      "z": "0.3960",
+      "b_iso": "27.00",
+      "occupy": "0.500",
+      "pk": 715
+    },
+    {
+      "HLS": 55,
+      "atom": "OH",
+      "x": "0.2500",
+      "y": "0.5160",
+      "z": "0.3604",
+      "b_iso": "3.50",
+      "occupy": "0.500",
+      "pk": 716
+    },
+    {
+      "HLS": 55,
+      "atom": "W",
+      "x": "0.7500",
+      "y": "0.5430",
+      "z": "0.5169",
+      "b_iso": "4.60",
+      "occupy": "0.904",
+      "pk": 717
+    }
+  ],
+  "has_powder_pattern": true,
+  "has_atr_ir_spectrum": true
+}

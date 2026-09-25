@@ -1,0 +1,52 @@
+#======================================================================
+
+# CRYSTAL DATA      EU-19
+
+#----------------------------------------------------------------------
+
+data_VESTA_phase_1
+
+
+_chemical_name_common                  ''
+_cell_length_a                         13.570(3)
+_cell_length_b                         4.900(3)
+_cell_length_c                         22.460(1)
+_cell_angle_alpha                      90
+_cell_angle_beta                       91.67(3)
+_cell_angle_gamma                      90
+_space_group_name_H-M_alt              'C 2/c'
+_space_group_IT_number                 15
+
+loop_
+_space_group_symop_operation_xyz
+   'x, y, z'
+   '-x, -y, -z'
+   '-x, y, -z+1/2'
+   'x, -y, z+1/2'
+   'x+1/2, y+1/2, z'
+   '-x+1/2, -y+1/2, -z'
+   '-x+1/2, y+1/2, -z+1/2'
+   'x+1/2, -y+1/2, z+1/2'
+
+loop_
+   _atom_site_label
+   _atom_site_occupancy
+   _atom_site_fract_x
+   _atom_site_fract_y
+   _atom_site_fract_z
+   _atom_site_adp_type
+   _atom_site_U_iso_or_equiv
+   _atom_site_type_symbol
+   Si1        1.0000  0.467810      0.332900      0.683500     Uiso  0.020000 Si
+   Si2        1.0000  0.562700     -0.167700      0.633500     Uiso  0.020000 Si
+   Si3        1.0000  0.254300      0.245700      0.711000     Uiso  0.020000 Si
+   O1         1.0000  0.351500      0.280500      0.676200     Uiso  0.040000 O
+   O2         1.0000  0.524700      0.141900      0.640700     Uiso  0.040000 O
+   O3         1.0000  0.487800      0.636700      0.665500     Uiso  0.040000 O
+   O4         1.0000  0.500000      0.250000      0.750000     Uiso  0.040000 O
+   O5         1.0000  0.573300     -0.221700      0.565300     Uiso  0.040000 O
+   O6         1.0000  0.166000      0.307900      0.666400     Uiso  0.040000 O
+   O7         1.0000  0.253500      0.446400      0.766800     Uiso  0.040000 O
+   N1         1.0000  0.662100      0.352600      0.526300     Uiso  0.050000 N
+   C1         1.0000  0.688500      0.409300      0.465100     Uiso  0.050000 C
+   C2         1.0000  0.753700      0.310500      0.562500     Uiso  0.050000 C

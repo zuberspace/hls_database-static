@@ -1,0 +1,27 @@
+{
+  "pk": 11,
+  "name": "lev",
+  "slug": "lev",
+  "ratio_q3q4": 1.0,
+  "composition_si": 32.0,
+  "composition_o": 72.0,
+  "ratio_sio": "2.25",
+  "thickness": 8.9,
+  "layer_charge": 0.037,
+  "d_oh_oh": 2.4,
+  "plot": "layer_types/lev_top.png",
+  "materials": [
+    {
+      "pk": 15,
+      "name": "ITQ-8",
+      "slug": "itq-8",
+      "is_related_material": false
+    },
+    {
+      "pk": 53,
+      "name": "RUB-56",
+      "slug": "rub-56",
+      "is_related_material": false
+    }
+  ]
+}

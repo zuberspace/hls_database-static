@@ -1,0 +1,27 @@
+{
+  "pk": 17,
+  "name": "six",
+  "slug": "six",
+  "ratio_q3q4": 4.0,
+  "composition_si": 40.0,
+  "composition_o": 84.0,
+  "ratio_sio": "2.10",
+  "thickness": 15.9,
+  "layer_charge": 0.037,
+  "d_oh_oh": 2.4,
+  "plot": "layer_types/six-layer_für_Database.jpg",
+  "materials": [
+    {
+      "pk": 50,
+      "name": "Kenyaite",
+      "slug": "kenyaite",
+      "is_related_material": false
+    },
+    {
+      "pk": 52,
+      "name": "RUB-6",
+      "slug": "rub-6",
+      "is_related_material": false
+    }
+  ]
+}

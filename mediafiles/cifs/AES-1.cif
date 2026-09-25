@@ -1,0 +1,580 @@
+###############################################################################
+### CIF submission form for results of Rietveld refinements (IUCr journals) ###
+###                                                Version 10 February 2005 ###
+###############################################################################
+
+# This is an electronic "form" for submitting the results of a Rietveld
+# refinement of a model against powder diffraction data to an IUCr journal
+# as a Crystallographic Information File (CIF). Full details of the CIF
+# format are given in the paper "The Crystallographic Information File
+# (CIF): a New Standard Archive File for Crystallography" by S. R. Hall,
+# F. H. Allen and I. D. Brown [Acta Crystallogr., Sect. A, 47 (1991) 655-685].
+#
+# The current version of the powder CIF dictionary, which contains definitions
+
+# http://www.iucr.org/iucr-top/cif/pd/index.html. Other terms are defined in
+# the core CIF dictionary at http://www.iucr.org/iucr-top/cif/core/index.html.
+#
+# Note that all fields should be numeric or character type EXCEPT those which
+# are flagged as 'text' - free-form text of any length may be included in
+# these latter fields provided the text block begins and ends with a semicolon
+# as the first character of a new line.  Note also that the query marks '?'
+# are significant as placeholders, and should not be deleted where a data
+# item is not given, UNLESS the accompanying data name is also deleted.
+# Lines should not exceed 80 characters in length.  The comments following a
+# hash symbol '#' may be deleted if wished.
+
+#==============================================================================
+data_global
+#==============================================================================
+
+# 1. GLOBAL DATA
+
+loop_
+  _audit_conform.dict_name
+  _audit_conform.dict_version
+  _audit_conform.dict_location
+     cif_core.dic .  ftp://ftp.iucr.org/pub/cif_core.dic
+     cif_pd.dic . ftp://ftp.iucr.org/pub/cif_pd.dic
+
+_audit_creation_method
+; from .lst and *.dst using lst2cif (Dilanian and Izumi, 2011)
+;
+_audit_creation_date               2011-06-24
+_audit_author_name                 '?'
+_audit_update_record
+; ?
+;
+
+# SUBMISSION DETAILS
+_publ_contact_author_name          '?'
+_publ_contact_author_address
+; ?
+;
+_publ_contact_author_email         ?
+_publ_contact_author_fax           ?
+_publ_contact_author_phone         ?
+_publ_contact_letter
+; ?
+;
+_publ_requested_journal            '?'
+_publ_requested_coeditor_name      '?'
+_publ_requested_category           ?
+
+#==============================================================================
+
+# 2. PROCESSING SUMMARY (IUCr Office Use Only)
+
+_journal_data_validation_number      ?
+
+_journal_date_recd_electronic        ?
+_journal_date_to_coeditor            ?
+_journal_date_from_coeditor          ?
+_journal_date_accepted               ?
+_journal_date_printers_first         ?
+_journal_date_printers_final         ?
+_journal_date_proofs_out             ?
+_journal_date_proofs_in              ?
+_journal_coeditor_name               ?
+_journal_coeditor_code               ?
+_journal_coeditor_notes
+; ?
+;
+_journal_techeditor_code             ?
+_journal_techeditor_notes
+; ?
+;
+_journal_coden_ASTM                  ?
+_journal_name_full                   ?
+_journal_year                        ?
+_journal_volume                      ?
+_journal_issue                       ?
+_journal_page_first                  ?
+_journal_page_last                   ?
+_journal_paper_category              ?
+_journal_suppl_publ_number           ?
+_journal_suppl_publ_pages            ?
+
+#==============================================================================
+
+# 3. TITLE AND AUTHOR LIST
+
+_publ_section_title
+; ?
+;
+_publ_section_title_footnote
+; ?
+;
+
+# The loop structure below should contain the names and addresses of all
+# authors, in the required order of publication. Repeat as necessary.
+
+loop_
+   _publ_author_name
+   _publ_author_footnote
+   _publ_author_address
+ ?                                   #<--'Last name, first name'
+; ?
+;
+; ?
+;
+
+#==============================================================================
+
+# 4. TEXT
+
+_publ_section_synopsis
+; ?
+;
+_publ_section_abstract
+; ?
+;
+_publ_section_comment
+; ?
+;
+_publ_section_exptl_prep      # Details of the preparation of the sample(s)
+                              # should be given here.
+; ?
+;
+_publ_section_exptl_refinement
+; ?
+;
+_publ_section_references
+; ?
+;
+_publ_section_figure_captions
+; ?
+;
+_publ_section_acknowledgements
+; ?
+;
+
+#==============================================================================
+
+# If more than one structure is reported, sections 5-10 should be completed
+# per structure. For each data set, replace the '?' in the data_? line below
+# by a unique identifier.
+
+#==============================================================================
+
+data_single_phase
+
+# 5. CHEMICAL DATA
+
+_chemical_name_systematic
+; ?
+;
+_chemical_name_common                  '?'
+# Get _chemical_formula_moiety using checkCIF
+_chemical_formula_moiety               '?'
+_chemical_formula_structural           '?'
+_chemical_formula_analytical           '?'
+_chemical_formula_sum                  'Ca2 K2 OH4 O17 Si8 WO2'
+_chemical_formula_weight               759.086
+_chemical_melting_point                ?
+_chemical_compound_source              ?     # for minerals and
+                                             # natural products
+
+loop_
+   _atom_type_symbol
+   _atom_type_description
+   _atom_type_scat_dispersion_real
+   _atom_type_scat_dispersion_imag
+   _atom_type_scat_source
+Ca  Ca     0.3641  1.2855  'International Tables for Crystallography, Vol. C'
+O   O      0.0492  0.0322  'International Tables for Crystallography, Vol. C'
+Si  Si     0.2541  0.3302  'International Tables for Crystallography, Vol. C'
+K   K      0.3868  1.0657  'International Tables for Crystallography, Vol. C'
+H   H      0.0000  0.0000  'International Tables for Crystallography, Vol. C'
+
+#==============================================================================
+
+# 6. POWDER SPECIMEN AND CRYSTAL DATA
+
+_symmetry_cell_setting                 monoclinic
+_symmetry_space_group_name_H-M         'C m'
+_symmetry_space_group_name_Hall        'C -2y'
+_symmetry_Int_Tables_number            8
+
+loop_
+   _symmetry_equiv_pos_site_id
+   _symmetry_equiv_pos_as_xyz
+  1   x,y,z
+  2   x,-y,z
+  3   x+1/2,y+1/2,z
+  4   x+1/2,-y+1/2,z
+
+_cell_length_a                         24.1931(3)
+_cell_length_b                         7.0229(1)
+_cell_length_c                         6.49076(8)
+_cell_angle_alpha                      90
+_cell_angle_beta                       95.141(1)
+_cell_angle_gamma                      90
+_cell_volume                           1098.37(3)
+# If checkCIF gives a different Z value, change both
+# _chemical_formula_sum and _chemical_formula_weight.
+_cell_formula_units_Z                  2
+_cell_measurement_temperature          ?
+
+_cell_special_details
+?
+
+_exptl_crystal_density_diffrn          2.2952
+_exptl_crystal_density_meas            ?
+_exptl_crystal_density_method          'not measured'
+_exptl_crystal_F_000                   764.00
+
+# The next three fields give the specimen dimensions in mm.  The equatorial
+# plane contains the incident and diffracted beam.
+
+_pd_spec_size_axial                    ?       # perpendicular to
+                                               # equatorial plane
+
+_pd_spec_size_equat                    ?       # parallel to
+                                               # scattering vector
+                                               # in transmission
+
+_pd_spec_size_thick                    ?       # parallel to
+                                               # scattering vector
+                                               # in reflection
+
+# The next five fields are character fields that describe the specimen.
+
+_pd_spec_mounting                              # This field should be
+                                               # used to give details of the
+                                               # container.
+; ?
+;
+_pd_spec_mount_mode                    transmission
+
+_pd_spec_shape                         cylinder
+
+_pd_char_particle_morphology           ?
+_pd_char_colour                        ?
+
+# The following three fields describe the preparation of the specimen.
+# The cooling rate is in K/min.  The pressure at which the sample was
+# prepared is in kPa.  The temperature of preparation is in K.
+
+_pd_prep_cool_rate                     ?
+_pd_prep_pressure                      ?
+_pd_prep_temperature                   ?
+
+_exptl_absorpt_coefficient_mu          ?
+# The next four fields are normally only needed for transmission experiments.
+_exptl_absorpt_correction_type         ?       # include if applicable
+_exptl_absorpt_process_details         ?       # include if applicable
+_exptl_absorpt_correction_T_min        ?       # include if applicable
+_exptl_absorpt_correction_T_max        ?       # include if applicable
+
+#==============================================================================
+
+# 7. EXPERIMENTAL DATA
+
+_exptl_special_details
+; ?
+;
+
+# The following item is used to identify the equipment used to record
+# the powder pattern when the diffractogram was measured at a laboratory
+# other than the authors' home institution, e.g. when neutron or synchrotron
+# radiation is used.
+
+_pd_instr_location
+; ?
+;
+_pd_calibration_special_details           # description of the method used
+                                          # to calibrate the instrument
+; ?
+;
+
+_diffrn_ambient_temperature           ?
+_diffrn_source                        'X-ray tube'
+_diffrn_source_target                 Cu
+_diffrn_source_type                   ?
+_diffrn_radiation_type                'Cu K\a~1~'
+_diffrn_measurement_device_type       '?'
+_diffrn_detector                      '?'
+_diffrn_detector_type                 ?
+
+_pd_meas_scan_method                  step    # options are 'step', 'cont',
+                                              #' 'tof', 'fixed' or
+                                              # 'disp' (= dispersive)
+_pd_meas_special_details
+; ?
+;
+
+_diffrn_radiation_wavelength          1.540590
+_diffrn_radiation_monochromator       ?
+
+# The following four items give details of the measured (not processed)
+# powder pattern.  Angles are in degrees.
+
+_pd_meas_number_of_points             5532
+_pd_meas_2theta_range_min               4.0000
+_pd_meas_2theta_range_max             100.0613
+_pd_meas_2theta_range_inc               0.0170
+
+# The following three items are used for time-of-flight measurements only.
+
+_pd_instr_dist_src/spec               ?
+_pd_instr_dist_spec/detc              ?
+_pd_meas_2theta_fixed                 ?
+
+#==============================================================================
+
+# 8. REFINEMENT DATA
+
+# Use the next field to give any special details about the fitting of the
+# powder pattern.
+
+_pd_proc_ls_special_details
+; ?
+;
+
+# The next three items are given as text.
+
+_pd_calc_method                     'Rietveld Refinement'
+
+_pd_proc_ls_profile_function        'split pseudo-Voigt function'
+_pd_proc_ls_background_function     'composite background function'
+_pd_proc_ls_pref_orient_corr
+; ?
+;
+# Replace '; ?' with the following four lines for the March-Dollase function:
+#; $P_k = \sum_{j=1}^{m_k} \frac{1}{m_k}
+#\left( r^2 \cos^2 \alpha_j +r^{-1}\ sin^2 \alpha_j \right)^{-3/2}$
+#with a preferred-orientation vector, (hkl),
+#and <i>r</i> = 1.0(0)
+
+_pd_proc_ls_prof_R_factor           0.04694
+_pd_proc_ls_prof_wR_factor          0.06500
+_pd_proc_ls_prof_wR_expected        0.02325
+_refine_ls_R_I_factor               0.02206
+_refine_ls_R_Fsqd_factor            0.01592
+_refine_ls_R_factor_all             0.01614
+
+_refine_special_details
+; ?
+;
+
+_refine_ls_matrix_type              full
+_refine_ls_weighting_scheme         sigma
+_refine_ls_weighting_details        1/<i>y</i>~i~
+# The following line must be commented out in the absence of H atoms.
+#_refine_ls_hydrogen_treatment       ?
+_refine_ls_extinction_method        none
+_refine_ls_extinction_coef          ?
+_refine_ls_number_parameters        76
+_refine_ls_number_restraints        0
+_refine_ls_number_constraints       30
+
+# The following item is the same as CHI, the square root of 'CHI squared'
+_refine_ls_goodness_of_fit_all      2.7960
+
+_refine_ls_restrained_S_all         ?
+# The following item can be obtained by setting NPRINT at 2 in *.ins.
+_refine_ls_shift/su_max             0.0
+_refine_ls_shift/su_mean            ?
+
+_refine_diff_density_max            0.0
+_refine_diff_density_min            0.0
+
+# The following four items apply to angular dispersive measurements.
+# 2theta minimum, maximum and increment (in degrees) are for the
+# intensities used in the refinement.
+
+_pd_proc_2theta_range_min             5.0073
+_pd_proc_2theta_range_max           100.0613
+_pd_proc_2theta_range_inc             0.0170
+_pd_proc_wavelength                 ?
+
+
+# Each refinement must be accompanied by a listing of the powder data
+# in CIF format. Each listing should be sent as a separate file consisting
+# of one data block containing a single powder profile. The value of
+# _pd_block_diffractogram_id is used to associate each refinement with
+# its corresponding powder profile, since it must match the value
+# of _pd_block_id in the file containing the powder data. A template
+# for supplying powder data in CIF format is available by ftp at
+# ftp://ftp.iucr.org/pub/rietdataform.cif and an example is given
+# at ftp://ftp.iucr.org/pub/rietdataxmpl.cif.
+
+_pd_block_diffractogram_id          ?
+
+# Give appropriate details in the next two text fields.
+
+_pd_proc_info_excluded_regions      ?
+_pd_proc_info_data_reduction        ?
+
+# The following items are used to identify the programs used.
+
+_computing_data_collection          ?
+_computing_cell_refinement          'RIETAN-FP (Izumi and Momma, 2007)'
+_computing_data_reduction           ?
+_computing_structure_solution       ?
+_computing_structure_refinement     'RIETAN-FP (Izumi and Momma, 2007)'
+_computing_molecular_graphics       'VESTA (Momma and Izumi, 2008)'
+_computing_publication_material     ?
+
+#==============================================================================
+
+# 9. ATOMIC COORDINATES AND DISPLACEMENT PARAMETERS
+
+loop_
+   _atom_site_label
+   _atom_site_fract_x
+   _atom_site_fract_y
+   _atom_site_fract_z
+   _atom_site_occupancy
+   _atom_site_symmetry_multiplicity
+   _atom_site_Wyckoff_symbol
+   _atom_site_adp_type
+   _atom_site_U_iso_or_equiv
+   _atom_site_type_symbol
+Si1     0.1356(5)   0.284(1)    0.258(2)    1            4 b Uiso  0.0056(5)  Si
+Si2     0.8679(5)   0.718(1)    0.741(2)    1            4 b Uiso  0.0056(5)  Si
+Si3     0.0659(7)   0           0.484(2)    1            2 a Uiso  0.0056(5)  Si
+Si4     0.9330(7)   0           0.503(2)    1            2 a Uiso  0.0056(5)  Si
+Si5     0.1439(6)   0           0.895(2)    1            2 a Uiso  0.0056(5)  Si
+Si6     0.8524(6)   0           0.083(2)    1            2 a Uiso  0.0056(5)  Si
+O1     -0.000(1)    0           0.471(4)    1            2 a Uiso  0.0072(9)  O
+O2      0.116(1)    0.5         0.200(4)    1            2 a Uiso  0.0072(9)  O
+O3      0.880(1)    0.5         0.778(4)    1            2 a Uiso  0.0072(9)  O
+O4      0.1865(6)   0.291(2)    0.432(2)    1            4 b Uiso  0.0072(9)  O
+O5      0.8086(6)   0.755(2)    0.618(2)    1            4 b Uiso  0.0072(9)  O
+O6      0.0849(8)   0.185(3)    0.384(3)    1            4 b Uiso  0.0072(9)  O
+O7      0.9164(8)   0.814(2)    0.627(3)    1            4 b Uiso  0.0072(9)  O
+O8      0.0878(8)   0           0.724(3)    1            2 a Uiso  0.0072(9)  O
+O9      0.8896(8)   0           0.291(3)    1            2 a Uiso  0.0072(9)  O
+O10     0.1431(5)   0.178(2)    0.045(2)    1            4 b Uiso  0.0072(9)  O
+O11     0.8798(5)   0.808(2)    0.969(2)    1            4 b Uiso  0.0072(9)  O
+O12     0.1969(8)   0           0.778(2)    1            2 a Uiso  0.0072(9)  OH
+O13     0.7916(8)   0           0.141(3)    1            2 a Uiso  0.0072(9)  OH
+Ca1     0.24224     0           0.51349     1            2 a Uiso  0.0081(9)  Ca
+Ca2     0.7548(2)   0           0.490(1)    1            2 a Uiso  0.0081(9)  Ca
+K1      0.1108(5)   0.5         0.723(2)    1            2 a Uiso  0.017(1)   K
+K2      0.8820(5)   0.5         0.222(2)    1            2 a Uiso  0.017(1)   K
+WO1     0.008(1)    0.619(3)    0.841(4)    0.5          4 b Uiso  0.11(1)    WO
+WO2    -0.0059(9)   0.535(7)    0.281(3)    0.5          4 b Uiso  0.07(1)    WO
+OH1     0.269(1)    0.057(4)    0.184(4)    0.5          4 b Uiso  0.018(5)   OH
+OH2     0.719(1)    0.927(3)    0.842(3)    0.5          4 b Uiso  0.018(5)   OH
+
+#==============================================================================
+
+#10. GEOMETRICAL PARAMETERS
+
+_geom_special_details             ?
+
+loop_
+   _geom_bond_atom_site_label_1
+   _geom_bond_atom_site_label_2
+   _geom_bond_distance
+   _geom_bond_site_symmetry_1
+   _geom_bond_site_symmetry_2
+   _geom_bond_publ_flag
+Si1        O4          1.59(1)      .   1_555  ?
+Si1        O10         1.59(1)      .   1_555  ?
+Si1        O2          1.62(1)      .   1_555  ?
+Si1        O6          1.68(2)      .   1_555  ?
+Si2        O3          1.57(1)      .   1_555  ?
+Si2        O7          1.59(2)      .   1_555  ?
+Si2        O5          1.60(1)      .   1_555  ?
+Si2        O11         1.60(1)      .   1_555  ?
+Si3        O6          1.54(2)      .   1_555  ?
+Si3        O6          1.54(2)      .   2_555  ?
+Si3        O1          1.59(3)      .   1_555  ?
+Si3        O8          1.60(2)      .   1_555  ?
+Si4        O7          1.61(2)      .   1_545  ?
+Si4        O7          1.61(2)      .   2_565  ?
+Si4        O9          1.65(2)      .   1_555  ?
+Si4        O1          1.65(3)      .   1_655  ?
+Si5        O12         1.55(2)      .   1_555  ?
+Si5        O10         1.58(1)      .   1_556  ?
+Si5        O10         1.58(1)      .   2_556  ?
+Si5        O8          1.68(2)      .   1_555  ?
+Si6        O13         1.55(2)      .   1_555  ?
+Si6        O9          1.55(2)      .   1_555  ?
+Si6        O11         1.70(1)      .   2_564  ?
+Si6        O11         1.70(1)      .   1_544  ?
+O1         Si3         1.59(3)      .   1_555  ?
+O1         Si4         1.65(3)      .   1_455  ?
+O2         Si1         1.62(1)      .   1_555  ?
+O2         Si1         1.62(1)      .   2_565  ?
+O3         Si2         1.57(1)      .   1_555  ?
+O3         Si2         1.57(1)      .   2_565  ?
+O4         Si1         1.59(1)      .   1_555  ?
+O5         Si2         1.60(1)      .   1_555  ?
+O6         Si3         1.54(2)      .   1_555  ?
+O6         Si1         1.68(2)      .   1_555  ?
+O7         Si2         1.59(2)      .   1_555  ?
+O7         Si4         1.61(2)      .   1_565  ?
+O8         Si3         1.60(2)      .   1_555  ?
+O8         Si5         1.68(2)      .   1_555  ?
+O9         Si6         1.55(2)      .   1_555  ?
+O9         Si4         1.65(2)      .   1_555  ?
+O10        Si5         1.58(1)      .   1_554  ?
+O10        Si1         1.59(1)      .   1_555  ?
+O11        Si2         1.60(1)      .   1_555  ?
+O11        Si6         1.70(1)      .   1_566  ?
+O12        Si5         1.55(2)      .   1_555  ?
+O13        Si6         1.55(2)      .   1_555  ?
+WO1        WO1         1.67(4)      .   2_565  ?
+WO2        WO2         0.5(1)       .   2_565  ?
+OH1        OH1         0.80(5)      .   2_555  ?
+
+loop_
+   _geom_angle_atom_site_label_1
+   _geom_angle_atom_site_label_2
+   _geom_angle_atom_site_label_3
+   _geom_angle
+   _geom_angle_site_symmetry_1
+   _geom_angle_site_symmetry_2
+   _geom_angle_site_symmetry_3
+   _geom_angle_publ_flag
+O4         Si1        O10         119.1(9)      1_555  .   1_555  ?
+O4         Si1        O2          109.0(9)      1_555  .   1_555  ?
+O4         Si1        O6          102.6(9)      1_555  .   1_555  ?
+O10        Si1        O2          107(1)        1_555  .   1_555  ?
+O10        Si1        O6          111.9(9)      1_555  .   1_555  ?
+O2         Si1        O6          107(1)        1_555  .   1_555  ?
+O3         Si2        O7          110(1)        1_555  .   1_555  ?
+O3         Si2        O5          112(1)        1_555  .   1_555  ?
+O3         Si2        O11         103(1)        1_555  .   1_555  ?
+O7         Si2        O5          111.4(9)      1_555  .   1_555  ?
+O7         Si2        O11         100.5(9)      1_555  .   1_555  ?
+O5         Si2        O11         118.2(7)      1_555  .   1_555  ?
+O6         Si3        O6          115(2)        1_555  .   2_555  ?
+O6         Si3        O1          108.2(9)      1_555  .   1_555  ?
+O6         Si3        O8          108.9(9)      1_555  .   1_555  ?
+O6         Si3        O1          108.2(9)      2_555  .   1_555  ?
+O6         Si3        O8          108.9(9)      2_555  .   1_555  ?
+O1         Si3        O8          107(1)        1_555  .   1_555  ?
+O7         Si4        O7          109(2)        1_545  .   2_565  ?
+O7         Si4        O9          104.5(9)      1_545  .   1_555  ?
+O7         Si4        O1          110.8(9)      1_545  .   1_655  ?
+O7         Si4        O9          104.5(9)      2_565  .   1_555  ?
+O7         Si4        O1          110.8(9)      2_565  .   1_655  ?
+O9         Si4        O1          117(1)        1_555  .   1_655  ?
+O12        Si5        O10         111.1(8)      1_555  .   1_556  ?
+O12        Si5        O10         111.1(8)      1_555  .   2_556  ?
+O12        Si5        O8          109(1)        1_555  .   1_555  ?
+O10        Si5        O10         104(1)        1_556  .   2_556  ?
+O10        Si5        O8          110.7(8)      1_556  .   1_555  ?
+O10        Si5        O8          110.7(8)      2_556  .   1_555  ?
+O13        Si6        O9          106(1)        1_555  .   1_555  ?
+O13        Si6        O11         121.3(7)      1_555  .   2_564  ?
+O13        Si6        O11         121.3(7)      1_555  .   1_544  ?
+O9         Si6        O11         99.4(8)       1_555  .   2_564  ?
+O9         Si6        O11         99.4(8)       1_555  .   1_544  ?
+O11        Si6        O11         105(1)        2_564  .   1_544  ?
+Si3        O1         Si4         170(2)        1_555  .   1_455  ?
+Si1        O2         Si1         138(2)        1_555  .   2_565  ?
+Si2        O3         Si2         153(2)        1_555  .   2_565  ?
+Si3        O6         Si1         144(1)        1_555  .   1_555  ?
+Si2        O7         Si4         144(1)        1_555  .   1_565  ?
+Si3        O8         Si5         146(1)        1_555  .   1_555  ?
+Si6        O9         Si4         176(1)        1_555  .   1_555  ?
+Si5        O10        Si1         156(1)        1_554  .   1_555  ?
+Si2        O11        Si6         131.8(8)      1_555  .   1_566  ?
+

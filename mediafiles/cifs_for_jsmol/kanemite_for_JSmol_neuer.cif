@@ -1,0 +1,48 @@
+##############################################################################
+###                               Kanemite                                 ###
+###                                                                        ###
+##############################################################################
+ 
+data_VESTA_phase_1
+
+_cell_length_a                     4.946(3)
+_cell_length_b                     20.502(15)
+_cell_length_c                     7.275(3)
+_cell_angle_alpha                  90.
+_cell_angle_beta                   90.
+_cell_angle_gamma                  90.
+_cell_volume                       737.71
+_cell_formula_units_Z              4
+_symmetry_space_group_name_H-M     'P b c n'
+_symmetry_Int_Tables_number        60
+
+
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+  'x, -y, z-1/2'
+  '-x-1/2, y-1/2, z'
+  'x-1/2, y-1/2, -z-1/2'
+  '-x, -y, -z'
+  '-x, y, -z-1/2'
+  'x-1/2, -y-1/2, -z'
+  '-x-1/2, -y-1/2, z-1/2'
+  'x, y, z'
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Si1  Si 8 d 0.0497(2)  0.2925(1)  0.0391(1) 1.0   0.01 
+Na1  K  4 c 0.5000     0.5115(1)  0.75000   1.0   0.02 
+O1   O  4 c 0.0000     0.3128(2)  0.25000   1.0   0.02 
+OH2  F  8 d 0.0042(4)  0.3571(1)  -.0790(2) 1.0   0.02 
+O3   O  8 d 0.8562(4)  0.2326(1)  -.0181(3) 1.0   0.02 
+OW4  S  8 d 0.4876(6)  0.5754(1)  0.0267(4) 1.0   0.02 
+OW5  S  4 c 0.0000     0.5411(3)  0.75000   1.0   0.02 

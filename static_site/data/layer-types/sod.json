@@ -1,0 +1,33 @@
+{
+  "pk": 16,
+  "name": "sod",
+  "slug": "sod",
+  "ratio_q3q4": 0.5,
+  "composition_si": 12.0,
+  "composition_o": 28.0,
+  "ratio_sio": "2.33",
+  "thickness": 6.3,
+  "layer_charge": 0.041,
+  "d_oh_oh": 2.5,
+  "plot": "layer_types/sod_top.png",
+  "materials": [
+    {
+      "pk": 21,
+      "name": "RUB-15",
+      "slug": "rub-15",
+      "is_related_material": false
+    },
+    {
+      "pk": 28,
+      "name": "RUB-51",
+      "slug": "rub-51",
+      "is_related_material": false
+    },
+    {
+      "pk": 57,
+      "name": "ULS-1",
+      "slug": "uls-1",
+      "is_related_material": false
+    }
+  ]
+}

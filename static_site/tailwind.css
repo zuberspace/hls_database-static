@@ -1,0 +1,114 @@
+/* Tailwind v4 source for the HLS database.
+ *
+ * The site was built against Tailwind 1.9.6 loaded from a CDN: 1.88 MB
+ * render-blocking, of which it used 15 %. Compiling it here removes that, but
+ * Tailwind changed its default palette after v1, so a plain version bump would
+ * visibly recolour the whole site. Every colour and the font stack the design
+ * relies on are therefore pinned below to the exact v1.9.6 values, read out of
+ * that release's CSS rather than transcribed.
+ *
+ * Build:  npm run build:css
+ */
+
+@import "tailwindcss";
+
+@source "./app/index.html";
+@source "./app/assets/app.js";
+
+@theme {
+  /* Tailwind 1.9.6 default sans stack */
+  --font-sans: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji",
+    "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+
+  /* Tailwind 1.9.6 palette, limited to the shades the site actually uses */
+  --color-blue-100: #ebf8ff;
+  --color-blue-200: #bee3f8;
+  --color-blue-400: #63b3ed;
+  --color-blue-500: #4299e1;
+  --color-blue-600: #3182ce;
+  --color-blue-700: #2b6cb0;
+  --color-blue-800: #2c5282;
+  --color-gray-100: #f7fafc;
+  --color-gray-200: #edf2f7;
+  --color-gray-300: #e2e8f0;
+  --color-gray-400: #cbd5e0;
+  --color-gray-500: #a0aec0;
+  --color-gray-600: #718096;
+  --color-gray-700: #4a5568;
+  --color-gray-800: #2d3748;
+  --color-gray-900: #1a202c;
+  --color-green-100: #f0fff4;
+  --color-green-200: #c6f6d5;
+  --color-green-400: #68d391;
+  --color-green-500: #48bb78;
+  --color-green-800: #276749;
+  --color-indigo-100: #ebf4ff;
+  --color-indigo-200: #c3dafe;
+  --color-indigo-400: #7f9cf5;
+  --color-indigo-500: #667eea;
+  --color-orange-100: #fffaf0;
+  --color-orange-200: #feebc8;
+  --color-orange-400: #f6ad55;
+  --color-orange-500: #ed8936;
+  --color-pink-500: #ed64a6;
+  --color-purple-100: #faf5ff;
+  --color-purple-200: #e9d8fd;
+  --color-purple-400: #b794f4;
+  --color-purple-500: #9f7aea;
+  --color-red-100: #fff5f5;
+  --color-red-500: #f56565;
+  --color-red-600: #e53e3e;
+  --color-red-800: #9b2c2c;
+  --color-teal-100: #e6fffa;
+  --color-teal-200: #b2f5ea;
+  --color-teal-400: #4fd1c5;
+  --color-teal-500: #38b2ac;
+  --color-teal-700: #2c7a7b;
+  --color-yellow-100: #fffff0;
+  --color-yellow-200: #fefcbf;
+  --color-yellow-400: #f6e05e;
+  --color-yellow-500: #ecc94b;
+
+  /* Tailwind 1.9.6's text-* utilities set font-size only. v4 also emits a
+     line-height, which would shift the vertical rhythm of the panel titles, tab
+     bar and tables. Making the paired line-height inherit restores v1 behaviour. */
+  --text-xs--line-height: inherit;
+  --text-sm--line-height: inherit;
+  --text-base--line-height: inherit;
+  --text-lg--line-height: inherit;
+  --text-xl--line-height: inherit;
+  --text-2xl--line-height: inherit;
+
+  /* Page transition. Declared here so v4 generates it as `animate-page-enter`
+     rather than it being a handwritten class.
+     A pure opacity fade reads as a brightness change, not as arrival, which is
+     why it felt abrupt at any duration — there is no motion for the eye to
+     measure. The small upward travel supplies that, and the curve decelerates,
+     which is the standard for entering elements (ease-in-out wastes its first
+     third on something that is still invisible). */
+  --animate-page-enter: page-enter 250ms cubic-bezier(0.16, 0.84, 0.44, 1) both;
+}
+
+/* View transitions. Deliberately only `root`: naming #app separately made the
+   browser animate that element's size between the two states, and #app is a short
+   list on one route and a very long material page on the next, so the snapshots
+   were stretched between the two sizes — which is what read as stutter. A plain
+   viewport cross-fade has no size to morph and stays on the compositor.
+   Browsers without support fall back to the animate-page-enter keyframes. */
+::view-transition-old(root),
+::view-transition-new(root) {
+  animation-duration: 250ms;
+  animation-timing-function: cubic-bezier(0.16, 0.84, 0.44, 1);
+}
+
+@keyframes page-enter {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}

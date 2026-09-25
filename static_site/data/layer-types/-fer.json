@@ -1,0 +1,27 @@
+{
+  "pk": 6,
+  "name": "-fer",
+  "slug": "-fer",
+  "ratio_q3q4": 2.0,
+  "composition_si": 18.0,
+  "composition_o": 39.0,
+  "ratio_sio": "2.17",
+  "thickness": 5.1,
+  "layer_charge": 0.029,
+  "d_oh_oh": 3.4,
+  "plot": "layer_types/-fer-top.jpg",
+  "materials": [
+    {
+      "pk": 22,
+      "name": "RUB-20",
+      "slug": "rub-20",
+      "is_related_material": false
+    },
+    {
+      "pk": 26,
+      "name": "RUB-40",
+      "slug": "rub-40",
+      "is_related_material": false
+    }
+  ]
+}

@@ -1,0 +1,162 @@
+##############################################################################
+###      FullProf-generated CIF output file  (version: May 2019)           ###
+###      Template of CIF submission form for structure report              ###
+##############################################################################
+ 
+
+#  CHEMICAL DATA
+ 
+
+loop_
+    _atom_type_symbol               
+    _atom_type_scat_Cromer_Mann_a1 
+    _atom_type_scat_Cromer_Mann_b1 
+    _atom_type_scat_Cromer_Mann_a2 
+    _atom_type_scat_Cromer_Mann_b2 
+    _atom_type_scat_Cromer_Mann_a3 
+    _atom_type_scat_Cromer_Mann_b3 
+    _atom_type_scat_Cromer_Mann_a4 
+    _atom_type_scat_Cromer_Mann_b4 
+    _atom_type_scat_Cromer_Mann_c 
+    _atom_type_scat_dispersion_real 
+    _atom_type_scat_dispersion_imag 
+    _atom_type_scat_source          
+si     6.29150   2.43860   3.03530  32.33370   1.98910   0.67850
+       1.54100  81.69370   1.14070   0.24400   0.33000
+ International_Tables_for_Crystallography_Vol.C(1991)_Tables_6.1.1.4_and_6.1.1.5
+o      3.04850  13.27710   2.28680   5.70110   1.54630   0.32390
+       0.86700  32.90890   0.25080   0.04700   0.03200
+ International_Tables_for_Crystallography_Vol.C(1991)_Tables_6.1.1.4_and_6.1.1.5
+na     4.76260   3.28500   3.17360   8.84220   1.26740   0.31360
+       1.11280 129.42400   0.67600   0.12900   0.12400
+ International_Tables_for_Crystallography_Vol.C(1991)_Tables_6.1.1.4_and_6.1.1.5
+ 
+#=============================================================================
+ 
+# POWDER SPECIMEN AND CRYSTAL DATA
+ 
+_symmetry_cell_setting                Orthorhombic
+_symmetry_space_group_name_H-M       'F 2 d d'
+_symmetry_space_group_name_Hall      'F -2d 2'
+ 
+loop_
+    _symmetry_equiv_pos_as_xyz   #<--must include 'x,y,z'
+'x,y,z'
+'x,-y,-z'
+'x+1/4,-y+1/4,z+1/4'
+'x+1/4,y+1/4,-z+1/4'
+'x+1/2,y+1/2,z'
+'x+1/2,-y+1/2,-z'
+'x+3/4,-y+3/4,z+1/4'
+'x+3/4,y+3/4,-z+1/4'
+'x+1/2,y,z+1/2'
+'x+1/2,-y,-z+1/2'
+'x+3/4,-y+1/4,z+3/4'
+'x+3/4,y+1/4,-z+3/4'
+'x,y+1/2,z+1/2'
+'x,-y+1/2,-z+1/2'
+'x+1/4,-y+3/4,z+3/4'
+'x+1/4,y+3/4,-z+3/4'
+ 
+_cell_length_a                       10.5396
+_cell_length_b                       10.1335
+_cell_length_c                       62.0678
+_cell_angle_alpha                    90.0000
+_cell_angle_beta                     90.0000
+_cell_angle_gamma                    90.0000
+_cell_volume                         6629.03
+ 
+#  The following profile R-factors are NOT CORRECTED for background
+#  The sum is extended to all non-excluded points.
+#  These are the current CIF standard
+ 
+_pd_proc_ls_prof_R_factor                3.6864
+_pd_proc_ls_prof_wR_factor               5.0445
+_pd_proc_ls_prof_wR_expected             2.0989
+ 
+#  The following profile R-factors are CORRECTED for background
+#  The sum is extended to all non-excluded points.
+#  These items are not in the current CIF standard, but are defined above
+ 
+_pd_proc_ls_prof_cR_factor                9.9090
+_pd_proc_ls_prof_cwR_factor              10.9063
+_pd_proc_ls_prof_cwR_expected             4.5379
+ 
+#  The following items are not in the CIF standard, but are defined above
+ 
+_pd_proc_ls_prof_chi2                 5.7763
+_pd_proc_ls_prof_echi2                5.9211
+ 
+#  Items related to LS refinement
+ 
+_refine_ls_R_I_factor                 3.0918
+_refine_ls_number_reflns                  1024
+_refine_ls_number_parameters                83
+_refine_ls_number_restraints                90
+ 
+# The following four items apply to angular dispersive measurements.
+# 2theta minimum, maximum and increment (in degrees) are for the 
+# intensities used in the refinement.
+ 
+_pd_proc_2theta_range_min                2.9973
+_pd_proc_2theta_range_max               94.3810
+_pd_proc_2theta_range_inc              0.007754
+_pd_proc_wavelength                    1.540600
+ 
+_pd_block_diffractogram_id        ?  # The id used for the block containing
+                                     # the powder pattern profile (section 11)
+ 
+# Give appropriate details in the next two text fields.
+ 
+_pd_proc_info_excluded_regions    ?
+_pd_proc_info_data_reduction      ?
+ 
+# The following items are used to identify the programs used.
+ 
+_computing_data_collection           ?
+_computing_structure_solution        ?
+_computing_structure_refinement      FULLPROF
+_computing_molecular_graphics        ?
+_computing_publication_material      ?
+ 
+#=============================================================================
+ 
+#  ATOMIC COORDINATES AND DISPLACEMENT PARAMETERS
+ 
+loop_
+    _atom_site_label
+    _atom_site_fract_x
+    _atom_site_fract_y
+    _atom_site_fract_z
+    _atom_site_U_iso_or_equiv
+    _atom_site_occupancy
+    _atom_site_adp_type
+    _atom_site_type_symbol
+ Si1  0.3835(4)  0.2359(4)  0.50051(8)  0.01267  1.00000 Uiso Si    
+ Si2  0.2454(4)  0.3853(4)  0.46496(6)  0.01267  1.00000 Uiso Si    
+ Si3  0.0487(4)  0.6263(4)  0.46387(7)  0.01267  1.00000 Uiso Si    
+ Si4  0.4871(4)  0.5805(4)  0.46440(7)  0.01267  1.00000 Uiso Si    
+ Si5  0.7168(4)  0.3834(4)  0.46473(7)  0.01267  1.00000 Uiso Si    
+ Si6  0.3404(4)  1.0003(5)  0.32078(7)  0.01267  1.00000 Uiso Si    
+ Si7  0.1460(5)  0.2468(5)  0.31978(6)  0.01267  1.00000 Uiso Si    
+ O1  0.1296(9)  0.4914(9)  0.46942(17)  0.02533  1.00000 Uiso O     
+ O2  0.2813(10)  0.3227(12)  0.48739(12)  0.02533  1.00000 Uiso O     
+ O3  0.9491(10)  0.6130(8)  0.44522(14)  0.02533  1.00000 Uiso O     
+ O4  0.3086(10)  0.1307(8)  0.51549(14)  0.02533  1.00000 Uiso O     
+ O5  0.5030(11)  0.3598(11)  0.55925(11)  0.02533  1.00000 Uiso O     
+ O6  0.6129(8)  0.4946(10)  0.47211(15)  0.02533  1.00000 Uiso O     
+ O7  0.4680(9)  0.6760(11)  0.48377(14)  0.02533  1.00000 Uiso O     
+ O8  0.7874(10)  0.4200(12)  0.44331(13)  0.02533  1.00000 Uiso O     
+ O9  0.4764(11)  0.8537(11)  0.51387(13)  0.02533  1.00000 Uiso O     
+ O10  0.2073(8)  0.7015(11)  0.55526(14)  0.02533  1.00000 Uiso O     
+ O11  0.3710(9)  0.4754(12)  0.45949(15)  0.02533  1.00000 Uiso O     
+ O12  0.1384(12)  0.7517(9)  0.45790(14)  0.02533  1.00000 Uiso O     
+ O13  0.2509(11)  0.1300(9)  0.32647(16)  0.02533  1.00000 Uiso O     
+ O14  0.8994(12)  0.4559(13)  0.34412(11)  0.02533  1.00000 Uiso O     
+ O15  0.6055(13)  0.7913(15)  0.34390(10)  0.02533  1.00000 Uiso O     
+ OW2  1.0387(14)  0.8461(11)  0.41414(16)  0.03800  1.25000 Uiso O     
+ OW3  1.0264(10)  0.6189(11)  0.3778(2)  0.03800  1.25000 Uiso O     
+ OW4  0.5198(10)  0.6305(11)  0.3765(3)  0.03800  1.25000 Uiso O     
+ OW1  1.0141(15)  0.8417(15)  0.33497(16)  0.03800  1.25000 Uiso O     
+ Na1  1.0156(9)  0.8740(9)  0.37405(16)  0.03800  0.878(5) Uiso Na    
+ 

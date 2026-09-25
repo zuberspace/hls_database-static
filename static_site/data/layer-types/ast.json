@@ -1,0 +1,33 @@
+{
+  "pk": 2,
+  "name": "ast",
+  "slug": "ast",
+  "ratio_q3q4": 0.25,
+  "composition_si": 20.0,
+  "composition_o": 48.0,
+  "ratio_sio": "2.40",
+  "thickness": 7.2,
+  "layer_charge": 0.051,
+  "d_oh_oh": 2.6,
+  "plot": "layer_types/ast_top.png",
+  "materials": [
+    {
+      "pk": 11,
+      "name": "HUS-1",
+      "slug": "hus-1",
+      "is_related_material": false
+    },
+    {
+      "pk": 10,
+      "name": "Helix-Layered-Silicate",
+      "slug": "helix-layered-silicate",
+      "is_related_material": false
+    },
+    {
+      "pk": 48,
+      "name": "RUB-55",
+      "slug": "rub-55",
+      "is_related_material": false
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+#======================================================================
+
+# CRYSTAL DATA EU-19
+
+#----------------------------------------------------------------------
+
+data_global
+
+_symmetry_cell_setting                 tetragonal
+_symmetry_space_group_name_H-M         'P 4/m n c'
+_symmetry_space_group_name_Hall        '-P 4 2n'
+_symmetry_Int_Tables_number            128
+
+loop_
+   _symmetry_equiv_pos_site_id
+   _symmetry_equiv_pos_as_xyz
+  1   x,y,z
+  2   -x,-y,z
+  3   -y,x,z
+  4   y,-x,z
+  5   -x+1/2,y+1/2,-z+1/2
+  6   x+1/2,-y+1/2,-z+1/2
+  7   y+1/2,x+1/2,-z+1/2
+  8   -y+1/2,-x+1/2,-z+1/2
+  9   -x,-y,-z
+ 10   x,y,-z
+ 11   y,-x,-z
+ 12   -y,x,-z
+ 13   x+1/2,-y+1/2,z+1/2
+ 14   -x+1/2,y+1/2,z+1/2
+ 15   -y+1/2,-x+1/2,z+1/2
+ 16   y+1/2,x+1/2,z+1/2
+
+_cell_length_a                         9.12738(3)
+_cell_length_b                         9.12738(3)
+_cell_length_c                         16.28120(8)
+_cell_angle_alpha                      90
+_cell_angle_beta                       90
+_cell_angle_gamma                      90
+_cell_volume                           1356.372(9)
+
+loop_
+   _atom_site_label
+   _atom_site_fract_x
+   _atom_site_fract_y
+   _atom_site_fract_z
+   _atom_site_occupancy
+   _atom_site_symmetry_multiplicity
+   _atom_site_Wyckoff_symbol
+   _atom_site_adp_type
+   _atom_site_U_iso_or_equiv
+   _atom_site_type_symbol
+Si1     0.7795(2)   0.0936(2)   0.1909(1)   1           16 i Uiso  0.0216(6)  Si
+O1      0.7383(5)   0.1119(6)   0.0970(2)   1           16 i Uiso  0.0218(8)  F
+O2      0           0           0           1            2 a Uiso  0.0218(8)  O
+O3      0.8107(4)   0.9226(5)   0.2162(2)   1           16 i Uiso  0.0218(8)  O
+OW4     0.5369(5)   0.7760(5)   0.9075(2)   1           16 i Uiso  0.023(1)   S
+O5      0.6473(4)   0.1473(4)   0.25        1            8 g Uiso  0.023(1)   O
+Sr1     0.7396(1)   0.8911(1)   0           1            8 h Uiso  0.0260(3)  Sr
+K1      0.5         0.5         0           1            2 b Uiso  0.047(2)   Rb
+

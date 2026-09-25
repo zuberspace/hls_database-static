@@ -1,0 +1,27 @@
+{
+  "pk": 4,
+  "name": "cas",
+  "slug": "cas",
+  "ratio_q3q4": 2.0,
+  "composition_si": 24.0,
+  "composition_o": 52.0,
+  "ratio_sio": "2.17",
+  "thickness": 9.3,
+  "layer_charge": 0.029,
+  "d_oh_oh": 6.0,
+  "plot": "layer_types/cas_top.png",
+  "materials": [
+    {
+      "pk": 5,
+      "name": "EU-19",
+      "slug": "eu-19",
+      "is_related_material": false
+    },
+    {
+      "pk": 19,
+      "name": "Nu-6(1)",
+      "slug": "nu-61",
+      "is_related_material": false
+    }
+  ]
+}

@@ -1,0 +1,485 @@
+{
+  "pk": 8,
+  "name": "H-LDS",
+  "slug": "h-lds",
+  "is_related_material": false,
+  "layer_type": {
+    "pk": 10,
+    "name": "kan",
+    "slug": "kan"
+  },
+  "intercalated_cation": {
+    "pk": 3,
+    "name": "H+",
+    "chemical_formula": "H"
+  },
+  "similar_structure": [
+    "H-Kanemite [55]"
+  ],
+  "similar_chemistry": [],
+  "similar_structure_known": {
+    "H-Kanemite [55]": null
+  },
+  "similar_chemistry_known": {},
+  "files": {
+    "cif": "cifs/H-LDS_only_for_JSmol.cif",
+    "cif_for_jsmol": "cifs_for_jsmol/H-LDS_only_for_JSmol.cif",
+    "powder_pattern_data": "powder_pattern/H-LDS_powder_pattern.csv",
+    "reflections_data": "reflections/H-LDS_Ref.csv",
+    "fractional_atomic_coordinates_data": "facs/H-LDS_Fracs.csv",
+    "structure_plot": "plots/SP_H-LDS_cut.jpg",
+    "atr_ir_spectrum_data": "atr_ir_spectra/H-LDS_ir.csv"
+  },
+  "synthesis": [
+    {
+      "pk": 8,
+      "mixture": "K-LDS leached with 0.5 M aqueous HCl",
+      "sda": "H<sup>+</sup>",
+      "temperature": 25.0,
+      "duration": "30 min",
+      "conditions": "",
+      "comment": "",
+      "reference": {
+        "pk": 10,
+        "title": "Structure Determination of H-LDS: An Acidified Form of the Layered Silicate K-LDS",
+        "year": 2010,
+        "volume": 39,
+        "issue": "8",
+        "pages": "747-749",
+        "doi": "https://doi.org/10.1246/cl.2010.747",
+        "pdf": "",
+        "journal": {
+          "pk": 14,
+          "name": "Chemistry Letters"
+        },
+        "authors": [
+          {
+            "pk": 1,
+            "first_name": "Takuji",
+            "last_name": "Ikeda",
+            "display_name": "Takuji Ikeda"
+          },
+          {
+            "pk": 27,
+            "first_name": "Yoshihiro",
+            "last_name": "Sugi",
+            "display_name": "Yoshihiro Sugi"
+          },
+          {
+            "pk": 52,
+            "first_name": "Uenaka",
+            "last_name": "Manami",
+            "display_name": "Uenaka Manami"
+          },
+          {
+            "pk": 24,
+            "first_name": "Kenichi",
+            "last_name": "Komura",
+            "display_name": "Kenichi Komura"
+          }
+        ],
+        "from_db": true
+      }
+    }
+  ],
+  "crystal_structure": [
+    {
+      "pk": 8,
+      "space_group": {
+        "pk": 56,
+        "symbol_short": "Pccn"
+      },
+      "crystal_system": "orthorhombic",
+      "chemical_composition": "H<sub>8</sub>Si<sub>8</sub>O<sub>20</sub>",
+      "stacking_direction": "b",
+      "a": 4.906,
+      "b": 11.901,
+      "c": 7.482,
+      "alpha": 90.0,
+      "beta": 90.0,
+      "gamma": 90.0,
+      "comment": "",
+      "reference": {
+        "pk": 10,
+        "title": "Structure Determination of H-LDS: An Acidified Form of the Layered Silicate K-LDS",
+        "year": 2010,
+        "volume": 39,
+        "issue": "8",
+        "pages": "747-749",
+        "doi": "https://doi.org/10.1246/cl.2010.747",
+        "pdf": "",
+        "journal": {
+          "pk": 14,
+          "name": "Chemistry Letters"
+        },
+        "authors": [
+          {
+            "pk": 1,
+            "first_name": "Takuji",
+            "last_name": "Ikeda",
+            "display_name": "Takuji Ikeda"
+          },
+          {
+            "pk": 27,
+            "first_name": "Yoshihiro",
+            "last_name": "Sugi",
+            "display_name": "Yoshihiro Sugi"
+          },
+          {
+            "pk": 52,
+            "first_name": "Uenaka",
+            "last_name": "Manami",
+            "display_name": "Uenaka Manami"
+          },
+          {
+            "pk": 24,
+            "first_name": "Kenichi",
+            "last_name": "Komura",
+            "display_name": "Kenichi Komura"
+          }
+        ],
+        "from_db": true
+      },
+      "lp_2d_cell": [
+        "a = 4.91 Å",
+        "c = 7.48 Å",
+        "β = 90.00 °"
+      ],
+      "lp_stacking_direction": [
+        "b = 11.90 Å",
+        "α = 90.00 °",
+        "γ = 90.00 °"
+      ]
+    }
+  ],
+  "properties": [
+    {
+      "pk": 8,
+      "density_calculated": 1.925,
+      "condensation_product": "unknown",
+      "comment": ""
+    }
+  ],
+  "peaks": [
+    {
+      "HLS": 8,
+      "two_theta": "14.875000000",
+      "intensity": "64.1",
+      "pk": 50
+    },
+    {
+      "HLS": 8,
+      "two_theta": "23.483000000",
+      "intensity": "100.0",
+      "pk": 51
+    },
+    {
+      "HLS": 8,
+      "two_theta": "23.767000000",
+      "intensity": "58.4",
+      "pk": 52
+    },
+    {
+      "HLS": 8,
+      "two_theta": "26.366000000",
+      "intensity": "12.6",
+      "pk": 53
+    },
+    {
+      "HLS": 8,
+      "two_theta": "28.154000000",
+      "intensity": "17.3",
+      "pk": 54
+    },
+    {
+      "HLS": 8,
+      "two_theta": "33.657000000",
+      "intensity": "10.2",
+      "pk": 55
+    },
+    {
+      "HLS": 8,
+      "two_theta": "36.605000000",
+      "intensity": "10.9",
+      "pk": 56
+    }
+  ],
+  "reflections": [
+    {
+      "HLS": 8,
+      "h": 0,
+      "k": 0,
+      "l": 2,
+      "m": 2,
+      "two_theta": "14.875",
+      "intensity_calculated": "1710.3",
+      "d_hkl": "5.950699",
+      "represents": 1,
+      "pk": 385
+    },
+    {
+      "HLS": 8,
+      "h": 0,
+      "k": 1,
+      "l": 2,
+      "m": 4,
+      "two_theta": "19.041",
+      "intensity_calculated": "185.9",
+      "d_hkl": "4.657174",
+      "represents": null,
+      "pk": 386
+    },
+    {
+      "HLS": 8,
+      "h": 1,
+      "k": 1,
+      "l": 0,
+      "m": 4,
+      "two_theta": "21.645",
+      "intensity_calculated": "219.3",
+      "d_hkl": "4.102473",
+      "represents": 0,
+      "pk": 387
+    },
+    {
+      "HLS": 8,
+      "h": 1,
+      "k": 1,
+      "l": 1,
+      "m": 8,
+      "two_theta": "22.911",
+      "intensity_calculated": "10.2",
+      "d_hkl": "3.878514",
+      "represents": null,
+      "pk": 388
+    },
+    {
+      "HLS": 8,
+      "h": 1,
+      "k": 0,
+      "l": 2,
+      "m": 4,
+      "two_theta": "23.483",
+      "intensity_calculated": "2667.0",
+      "d_hkl": "3.785304",
+      "represents": null,
+      "pk": 389
+    },
+    {
+      "HLS": 8,
+      "h": 0,
+      "k": 2,
+      "l": 0,
+      "m": 2,
+      "two_theta": "23.767",
+      "intensity_calculated": "1558.4",
+      "d_hkl": "3.740750",
+      "represents": 0,
+      "pk": 390
+    },
+    {
+      "HLS": 8,
+      "h": 1,
+      "k": 1,
+      "l": 2,
+      "m": 8,
+      "two_theta": "26.366",
+      "intensity_calculated": "336.0",
+      "d_hkl": "3.377595",
+      "represents": null,
+      "pk": 391
+    },
+    {
+      "HLS": 8,
+      "h": 0,
+      "k": 2,
+      "l": 2,
+      "m": 4,
+      "two_theta": "28.154",
+      "intensity_calculated": "460.8",
+      "d_hkl": "3.166981",
+      "represents": null,
+      "pk": 392
+    },
+    {
+      "HLS": 8,
+      "h": 0,
+      "k": 0,
+      "l": 4,
+      "m": 2,
+      "two_theta": "30.009",
+      "intensity_calculated": "9.2",
+      "d_hkl": "2.975350",
+      "represents": null,
+      "pk": 393
+    },
+    {
+      "HLS": 8,
+      "h": 1,
+      "k": 2,
+      "l": 1,
+      "m": 8,
+      "two_theta": "30.962",
+      "intensity_calculated": "5.7",
+      "d_hkl": "2.885860",
+      "represents": null,
+      "pk": 394
+    },
+    {
+      "HLS": 8,
+      "h": 1,
+      "k": 1,
+      "l": 3,
+      "m": 8,
+      "two_theta": "31.341",
+      "intensity_calculated": "250.1",
+      "d_hkl": "2.851833",
+      "represents": null,
+      "pk": 395
+    },
+    {
+      "HLS": 8,
+      "h": 0,
+      "k": 1,
+      "l": 4,
+      "m": 4,
+      "two_theta": "32.355",
+      "intensity_calculated": "204.6",
+      "d_hkl": "2.764736",
+      "represents": null,
+      "pk": 396
+    },
+    {
+      "HLS": 8,
+      "h": 1,
+      "k": 2,
+      "l": 2,
+      "m": 8,
+      "two_theta": "33.657",
+      "intensity_calculated": "271.3",
+      "d_hkl": "2.660722",
+      "represents": null,
+      "pk": 397
+    },
+    {
+      "HLS": 8,
+      "h": 1,
+      "k": 0,
+      "l": 4,
+      "m": 4,
+      "two_theta": "35.250",
+      "intensity_calculated": "75.1",
+      "d_hkl": "2.544021",
+      "represents": null,
+      "pk": 398
+    },
+    {
+      "HLS": 8,
+      "h": 2,
+      "k": 0,
+      "l": 0,
+      "m": 2,
+      "two_theta": "36.605",
+      "intensity_calculated": "291.3",
+      "d_hkl": "2.452900",
+      "represents": 0,
+      "pk": 399
+    }
+  ],
+  "reflection_layer_cell": [
+    {
+      "HLS": 8,
+      "h": 1,
+      "k": 1,
+      "l": 0,
+      "m": 4,
+      "two_theta": "21.645",
+      "intensity_calculated": "219.3",
+      "d_hkl": "4.102473",
+      "represents": 0,
+      "pk": 387
+    },
+    {
+      "HLS": 8,
+      "h": 0,
+      "k": 2,
+      "l": 0,
+      "m": 2,
+      "two_theta": "23.767",
+      "intensity_calculated": "1558.4",
+      "d_hkl": "3.740750",
+      "represents": 0,
+      "pk": 390
+    },
+    {
+      "HLS": 8,
+      "h": 2,
+      "k": 0,
+      "l": 0,
+      "m": 2,
+      "two_theta": "36.605",
+      "intensity_calculated": "291.3",
+      "d_hkl": "2.452900",
+      "represents": 0,
+      "pk": 399
+    }
+  ],
+  "reflection_layer_layer": [
+    {
+      "HLS": 8,
+      "h": 0,
+      "k": 0,
+      "l": 2,
+      "m": 2,
+      "two_theta": "14.875",
+      "intensity_calculated": "1710.3",
+      "d_hkl": "5.950699",
+      "represents": 1,
+      "pk": 385
+    }
+  ],
+  "fractional_atomic_coordinates": [
+    {
+      "HLS": 8,
+      "atom": "Si1",
+      "x": "0.2726",
+      "y": "0.0466",
+      "z": "0.1804",
+      "b_iso": "1.58",
+      "occupy": "1.000",
+      "pk": 113
+    },
+    {
+      "HLS": 8,
+      "atom": "O1",
+      "x": "0.0792",
+      "y": "0.0117",
+      "z": "0.2805",
+      "b_iso": "2.05",
+      "occupy": "1.000",
+      "pk": 114
+    },
+    {
+      "HLS": 8,
+      "atom": "O2",
+      "x": "0.3130",
+      "y": "0.5634",
+      "z": "0.0755",
+      "b_iso": "2.92",
+      "occupy": "1.000",
+      "pk": 115
+    },
+    {
+      "HLS": 8,
+      "atom": "O3",
+      "x": "0.2500",
+      "y": "0.2500",
+      "z": "0.1457",
+      "b_iso": "3.08",
+      "occupy": "1.000",
+      "pk": 116
+    }
+  ],
+  "has_powder_pattern": true,
+  "has_atr_ir_spectrum": true
+}

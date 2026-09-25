@@ -1,0 +1,21 @@
+{
+  "pk": 3,
+  "name": "car",
+  "slug": "car",
+  "ratio_q3q4": 1.0,
+  "composition_si": 32.0,
+  "composition_o": 72.0,
+  "ratio_sio": "2.25",
+  "thickness": 9.2,
+  "layer_charge": 0.041,
+  "d_oh_oh": 4.4,
+  "plot": "layer_types/car_top_new.png",
+  "materials": [
+    {
+      "pk": 7,
+      "name": "H-Carletonite",
+      "slug": "h-carletonite",
+      "is_related_material": false
+    }
+  ]
+}

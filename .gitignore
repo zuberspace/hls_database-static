@@ -1,0 +1,9 @@
+# CSS toolchain
+node_modules/
+
+# Build output (produced by CI / local build)
+static_site/site/
+
+# Python
+__pycache__/
+*.pyc

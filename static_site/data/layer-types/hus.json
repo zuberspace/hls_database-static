@@ -1,0 +1,51 @@
+{
+  "pk": 9,
+  "name": "hus",
+  "slug": "hus",
+  "ratio_q3q4": 1.5,
+  "composition_si": 10.0,
+  "composition_o": 22.0,
+  "ratio_sio": "2.20",
+  "thickness": 7.7,
+  "layer_charge": 0.032,
+  "d_oh_oh": 2.5,
+  "plot": "layer_types/r52_top.png",
+  "materials": [
+    {
+      "pk": 12,
+      "name": "HUS-7",
+      "slug": "hus-7",
+      "is_related_material": false
+    },
+    {
+      "pk": 44,
+      "name": "RUB-52 dehydrated",
+      "slug": "rub-52-dehydrated",
+      "is_related_material": false
+    },
+    {
+      "pk": 45,
+      "name": "RUB-52 hydr.",
+      "slug": "rub-52-hydr",
+      "is_related_material": false
+    },
+    {
+      "pk": 46,
+      "name": "RUB-53",
+      "slug": "rub-53",
+      "is_related_material": false
+    },
+    {
+      "pk": 47,
+      "name": "RUB-54",
+      "slug": "rub-54",
+      "is_related_material": false
+    },
+    {
+      "pk": 49,
+      "name": "SSA-1",
+      "slug": "ssa-1",
+      "is_related_material": false
+    }
+  ]
+}
