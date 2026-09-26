@@ -13,12 +13,9 @@
   <!-- Everything is served from this origin: no third party sees a visitor's IP,
        and there are no extra DNS/TLS round trips. Icons are inline SVG, so Font
        Awesome is gone entirely; jQuery is the copy JSmol already ships with.
-       All three are deferred — only material pages need them, and none of them
-       may block the first render. -->
-  <script defer src="./assets/chart.min.js?rev=__BUILD__"></script>
-  <script defer src="./assets/chartjs-plugin-zoom.min.js?rev=__BUILD__"></script>
-  <script defer src="./staticfiles/database/jsmol/jquery/jquery.min.js"></script>
-  <script defer src="./staticfiles/database/jsmol/JSmol.min.js"></script>
+       Chart.js, its zoom plugin, jQuery and JSmol are ~189 kB gzipped together
+       and only a material or table page needs them, so they are loaded on demand
+       from app.js (loadChartLibs / loadJSmol) instead of on every route. -->
 </head>
 <body class="bg-gray-300 font-sans leading-normal tracking-normal overflow-y-scroll">
   <nav class="bg-gray-800 flex items-center justify-between flex-wrap lg:pt-0 px-2 fixed w-full top-0 z-30 shadow">

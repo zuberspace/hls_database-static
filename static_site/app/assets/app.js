@@ -113,9 +113,9 @@ const HELP = {
     "This summarizes some relevant information concerning the Hydrous Layer Silicate and is subdivided into three parts: Synthesis, Crystal Structure and Properties.",
   ],
   pp: [
-    "The powder patterns were recorded with monochromatized CuKa1 radiation from capillary samples to avoid preferred orientation of the plate-like crystals. The patterns are limited to a diffraction angle of 37 °2theta since usually only little information can be deduced from higher angle reflections.",
+    "The powder patterns were recorded with monochromatized Cu Kα1 radiation from capillary samples to avoid preferred orientation of the plate-like crystals. The patterns are limited to a diffraction angle of 37 °2theta since usually only little information can be deduced from higher angle reflections.",
     "Because HLSs often show characteristic anisotropic peak broadening, this database presents for better comparison predominantly experimental XRD powder patterns and not the calculated ones. Only in those cases where no material was available the XRD patterns were calculated based on the structure data and assuming CuKa1 radiation.",
-    "The fact that the powder XRD patterns of the HLSs show anisotropic broadening of the peak halfwidths is mainly due to a certain degree of disorder of the layer stacking and to a much lesser extent to the specific morphology (thin plateletts). Typically, all reflections representing the atomic arrangement within the layer are sharp. These are the HK0-reflections, if we assume that the stacking direction is parallel to the c axis. Usuallly, all 00L-reflections representing the interlayer distance are moderately sharp (in spite of the very small crystal size along this direction), indicating that the inter-layer distances are about identical. In contrast, all other H0L, 0KL and HKL reflections with H, K, L ≠ 0 are broad. These reflections include also information on the orientation of layers relative to each other which is not perfect because only weak bonding interactions exist between neighboring layers.",
+    "The fact that the powder XRD patterns of the HLSs show anisotropic broadening of the peak halfwidths is mainly due to a certain degree of disorder of the layer stacking and to a much lesser extent to the specific morphology (thin platelets). Typically, all reflections representing the atomic arrangement within the layer are sharp. These are the HK0-reflections, if we assume that the stacking direction is parallel to the c axis. Usually, all 00L-reflections representing the interlayer distance are moderately sharp (in spite of the very small crystal size along this direction), indicating that the inter-layer distances are about identical. In contrast, all other H0L, 0KL and HKL reflections with H, K, L ≠ 0 are broad. These reflections include also information on the orientation of layers relative to each other which is not perfect because only weak bonding interactions exist between neighboring layers.",
     "Please note, that H-RUB-18 and MCM-22(p) are highly disordered materials, the listed values for the diffraction angles and intensities are not very reliable.",
   ],
   refs: [
@@ -129,7 +129,7 @@ const HELP = {
     "The silicate layer is displayed with silicon atoms shown as small purple spheres, bridging oxygen atoms as red spheres and terminal oxygen atoms (OH- or O-- groups) as blue spheres. Si-O bonds are drawn as black lines, and hydrogen bridges as light blue lines. The inter-layer region may contain water molecules (light blue spheres), carbon atoms as white spheres, nitrogen atoms as small green spheres, sodium ions as yellow spheres. TMA cations are displayed as large green spheres since these cations are typically rotationally disordered (only the position of the nitrogen atom is approx. fixed). Hydrogen atoms are not included in the drawings since their position remained unknown in nearly all cases. White lines represent N-C and C-C bonds.",
   ],
   ir: [
-    "The FTIR spectra of the HLS are displayed in a range between 400 and 1300 cm<sup>-1</sup>. The spectra were recorded using the ATR technique and were not further corrected. In the given range the FTIR spectra are dominated by the lattice vibrations of the silicate layer. Absorption bands due to vibrations of organic cations are also present but they are usually quite weak. The spectra are included here to serve as a rough “finger print” of the layer-type. Probably because the interactions between silicate layer and “low-charge-density-cation” are weak, the FTIR spectra of different HLSs with the same layer type show similar characteristics.",
+    "The FTIR spectra of the HLS are displayed in a range between 400 and 1300 cm<sup>-1</sup>. The spectra were recorded using the ATR technique and were not further corrected. In the given range the FTIR spectra are dominated by the lattice vibrations of the silicate layer. Absorption bands due to vibrations of organic cations are also present but they are usually quite weak. The spectra are included here to serve as a rough “fingerprint” of the layer-type. Probably because the interactions between silicate layer and “low-charge-density-cation” are weak, the FTIR spectra of different HLSs with the same layer type show similar characteristics.",
   ],
   cif: ["Download of the Crystallographic Information File (CIF)."],
 };
@@ -331,7 +331,7 @@ const LIST_INTRO = "This table lists well characterized Hydrous Layer Silicates 
 
 const LIST_FOOTNOTES = [
   "* Structurally nearly identical materials are such phases which contain the same layer type, possess the same type of layer stacking (e.g. ABAB) and contain the same organic cation between silicate layers (these materials may, however, vary with respect to space group symmetry).",
-  "* Crystal chemically related materials are those materials which contain the same layer type, but different type of layer stacking and and/or other organic cations. This class of material is not very precisely defined but is a collection of materials which might be of interest.",
+  "* Crystal chemically related materials are those materials which contain the same layer type, but different type of layer stacking and/or other organic cations. This class of material is not very precisely defined but is a collection of materials which might be of interest.",
 ];
 
 function renderSimpleList() {
@@ -442,6 +442,9 @@ function loadIdentificationCsv() {
   // CRLF + BOM: both are what spreadsheet software expects from a CSV download.
   downloadText("hls-identification-table.csv", "\ufeff" + [header.join(","), ...body].join("\r\n") + "\r\n");
 }
+// The onclick attribute looks the handler up on window, and a module's top-level
+// bindings are not on window. Without this the button threw a ReferenceError.
+window.loadIdentificationCsv = loadIdentificationCsv;
 
 // Panel colours per page, as in the Django templates: information.html is teal,
 // howtocite.html indigo, table.html purple. references.html and contact.html took
@@ -455,6 +458,21 @@ function renderInformation() {
   getEl("app").innerHTML = renderSection("Information", "teal", content);
 }
 
+// Some DOIs in the imported reference list are not usable as links: a
+// researchgate.net deref wrapper (double-encoded, itself dead) and a retired
+// USPTO pdfpiw link. Unwrap/repair the ones that have a resolvable target, and
+// drop a link when there is none, rather than rendering a DOI that 404s.
+function cleanDoiUrl(value) {
+  const raw = String(value || "").trim();
+  if (!raw) return "";
+  const deref = raw.match(/researchgate\.net\/deref\/(.+)$/i);
+  const candidate = deref ? decodeURIComponent(deref[1]) : raw;
+  if (/researchgate\.net|pdfpiw\.uspto\.gov|patft\.uspto\.gov/i.test(candidate)) return "";
+  const dx = candidate.match(/^https?:\/\/dx\.doi\.org\/(.+)$/i);
+  if (dx) return "https://doi.org/" + dx[1];
+  return /^https?:\/\//i.test(candidate) ? candidate : "";
+}
+
 function formatReference(reference) {
   let authors = "";
   if (Array.isArray(reference.authors)) {
@@ -462,7 +480,8 @@ function formatReference(reference) {
   } else {
     authors = reference.authors || "";
   }
-  const doi = reference.doi ? `<a href="${escapeHtml(reference.doi)}" target="_blank" rel="noreferrer" class="text-blue-600 hover:underline ml-2">DOI</a>` : "";
+  const doiUrl = cleanDoiUrl(reference.doi);
+  const doi = doiUrl ? `<a href="${escapeHtml(doiUrl)}" target="_blank" rel="noreferrer" class="text-blue-600 hover:underline ml-2">DOI</a>` : "";
   
   let pubInfo = "";
   if (reference.from_static && !reference.from_db) {
@@ -590,6 +609,44 @@ function zoomHint(canvasId) {
     ${btn("&#9654;", "Pan right", `chartPanBy('${canvasId}', -80)`)}
     ${btn("Reset", "Reset zoom", `resetChartZoom('${canvasId}')`)}
   </div>`;
+}
+
+// Chart.js, its zoom plugin, jQuery and JSmol are ~189 kB gzipped together and
+// are only needed on a material or table page. They are injected on first use
+// instead of on every route. insertBefore the module script keeps execution
+// order for the two Chart scripts; JSmol and jQuery need no ordering beyond
+// jQuery being present before a Jmol applet is built, which only happens on the
+// plots tab.
+const loadedScripts = {};
+const JSMOL_BASE = "staticfiles/database/jsmol";
+
+function loadScript(src) {
+  if (loadedScripts[src]) return loadedScripts[src];
+  loadedScripts[src] = new Promise((resolve, reject) => {
+    const el = document.createElement("script");
+    el.src = src;
+    el.onload = () => resolve();
+    el.onerror = () => { delete loadedScripts[src]; reject(new Error(`Failed to load ${src}`)); };
+    document.head.appendChild(el);
+  });
+  return loadedScripts[src];
+}
+
+function assetUrl(path) {
+  return `./${path}?rev=${encodeURIComponent(BUILD)}`;
+}
+
+async function loadChartLibs() {
+  if (typeof Chart !== "undefined") return;
+  await loadScript(assetUrl("assets/chart.min.js"));
+  // The plugin is optional: charts still render without it, only zoom is lost.
+  await loadScript(assetUrl("assets/chartjs-plugin-zoom.min.js")).catch(() => {});
+}
+
+async function loadJSmol() {
+  if (typeof Jmol !== "undefined") return;
+  await loadScript(`./${JSMOL_BASE}/jquery/jquery.min.js`);
+  await loadScript(`./${JSMOL_BASE}/JSmol.min.js`);
 }
 
 function lineChart(canvasId, points, opts) {
@@ -779,9 +836,9 @@ window.switchTab = function(tabName, updateUrl = true) {
   MATERIAL_TABS.forEach(t => {
     const btn = getEl(`btn-tab-${t}`); const content = getEl(`tab-${t}`);
     if (!btn || !content) return;
-    if (t === tabName) { content.classList.remove('hidden'); btn.classList.add('bg-blue-500', 'text-white', 'shadow-inner'); btn.classList.remove('text-gray-600', 'hover:bg-gray-100'); if (t === 'plots' && !state.jsmolLoaded) { state.jsmolLoaded = renderJsmol(state.currentMaterial); }
-      if (t === 'pp') ensureSeriesChart('powder_pattern', 'powder-chart', renderPowderChart);
-      if (t === 'ir') ensureSeriesChart('atr_ir_spectrum', 'ir-chart', renderIrChart); }
+    if (t === tabName) { content.classList.remove('hidden'); btn.classList.add('bg-blue-500', 'text-white', 'shadow-inner'); btn.classList.remove('text-gray-600', 'hover:bg-gray-100'); if (t === 'plots' && !state.jsmolLoaded) { state.jsmolLoaded = true; loadJSmol().then(() => { if (getEl("tab-plots")) renderJsmol(state.currentMaterial); }).catch(() => { const root = getEl("jsmol-root"); if (root) root.innerHTML = noData("Could not load the 3D viewer"); }); }
+      if (t === 'pp') { loadChartLibs().then(() => ensureSeriesChart('powder_pattern', 'powder-chart', renderPowderChart)); }
+      if (t === 'ir') { loadChartLibs().then(() => ensureSeriesChart('atr_ir_spectrum', 'ir-chart', renderIrChart)); } }
     else {
       content.classList.add('hidden');
       btn.classList.remove('bg-blue-500', 'text-white', 'shadow-inner');
