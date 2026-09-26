@@ -29,6 +29,33 @@ def safe_iter(values: Iterable[str | None]) -> Iterable[str]:
             yield value
 
 
+# Public origin used in the sitemap. The site is served from the custom domain;
+# the SPA routes are hash-based, so every URL here points at the single index
+# with a fragment, which is what search engines index.
+SITE_ORIGIN = "https://www.hls-database.com"
+
+
+def write_sitemap(output_root: Path, data_root: Path) -> None:
+    index = json.loads((data_root / "index.json").read_text(encoding="utf-8"))
+    routes = [""]  # home
+    for material in index.get("materials", []):
+        kind = "rm" if material.get("is_related_material") else "hls"
+        routes.append(f"{kind}/{material['slug']}")
+    for layer in index.get("layer_types", []):
+        routes.append(f"lt/{layer['slug']}")
+    for path in ("list", "table", "information", "references", "howtocite", "contact"):
+        routes.append(path)
+
+    lines = ['<?xml version="1.0" encoding="UTF-8"?>', '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">']
+    for route in routes:
+        loc = f"{SITE_ORIGIN}/" + (f"#{route}" if route else "")
+        loc = loc.replace("&", "&amp;")
+        lines.append(f"  <url><loc>{loc}</loc></url>")
+    lines.append("</urlset>")
+    (output_root / "sitemap.xml").write_text("\n".join(lines) + "\n", encoding="utf-8")
+    print(f"Sitemap: {len(routes)} URLs")
+
+
 def main() -> None:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--output", default="static_site/site", help="Output directory for publishable site")
@@ -86,9 +113,10 @@ def main() -> None:
     print(f"Build id: {build_id}")
     copy_file(app_root / "404.html", output_root / "404.html")
     # Icons and robots.txt sit in app/ and are copied straight through.
-    for extra in ("favicon.svg", "robots.txt"):
+    for extra in ("favicon.svg", "favicon.ico", "robots.txt"):
         if (app_root / extra).exists():
             copy_file(app_root / extra, output_root / extra)
+    write_sitemap(output_root, data_root)
     shutil.copytree(app_root / "assets", output_root / "assets", dirs_exist_ok=True)
     shutil.copytree(data_root, output_root / "data", dirs_exist_ok=True)
     shutil.copytree(jsmol_root, output_root / "staticfiles" / "database" / "jsmol", dirs_exist_ok=True)
