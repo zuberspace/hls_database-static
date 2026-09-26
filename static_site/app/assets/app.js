@@ -374,12 +374,13 @@ function renderSimpleList() {
       }
       return byName(a, b);
     });
-  // Widths: the two similarity columns carry long headers and comma lists, so
-  // they get a minimum width and are kept on one line while the rest stays auto.
+  // Widths: the two similarity columns carry long headers and comma lists, and
+  // the cation names run to ~42 chars; the rest stays auto. The table scrolls
+  // horizontally when the total exceeds the viewport.
   const cols = [
     { label: "Layer Type" },
     { label: "Type Material" },
-    { label: "Intercalated cation" },
+    { label: "Intercalated cation", cls: "whitespace-nowrap min-w-[18rem]" },
     { label: "Structurally nearly identical materials*", cls: "whitespace-nowrap min-w-[16rem]" },
     { label: "Crystal chemically related materials*", cls: "whitespace-nowrap min-w-[16rem]" },
   ];
