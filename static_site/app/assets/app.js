@@ -374,9 +374,17 @@ function renderSimpleList() {
       }
       return byName(a, b);
     });
-  const head = ["Layer Type", "Type Material", "Intercalated cation", "Structurally nearly identical materials*", "Crystal chemically related materials*"];
+  // Widths: the two similarity columns carry long headers and comma lists, so
+  // they get a minimum width and are kept on one line while the rest stays auto.
+  const cols = [
+    { label: "Layer Type" },
+    { label: "Type Material" },
+    { label: "Intercalated cation" },
+    { label: "Structurally nearly identical materials*", cls: "whitespace-nowrap min-w-[16rem]" },
+    { label: "Crystal chemically related materials*", cls: "whitespace-nowrap min-w-[16rem]" },
+  ];
   const table = rows.length
-    ? `<div class="overflow-x-auto"><table class="w-full text-left text-sm border-collapse"><thead class="bg-green-400 text-gray-800"><tr>${head.map((h) => `<th class="p-2 font-bold">${h}</th>`).join("")}</tr></thead><tbody>${rows.map((m, i) => `<tr class="${i % 2 ? "bg-green-100" : "bg-green-200"} hover:bg-green-400"><td class="p-2">${m.layer_type_slug ? `<a href="#/lt/${m.layer_type_slug}" class="underline">${m.layer_type}</a>` : "-"}</td><td class="p-2"><a href="${getHash(m)}" class="text-blue-700 hover:underline">${m.name}</a></td><td class="p-2">${m.intercalated_cation_name || "-"}</td><td class="p-2">${(m.similar_structure || []).join(", ")}</td><td class="p-2">${(m.similar_chemistry || []).join(", ")}</td></tr>`).join("")}</tbody></table></div>`
+    ? `<div class="overflow-x-auto"><table class="w-full text-left text-sm border-collapse"><thead class="bg-green-400 text-gray-800"><tr>${cols.map((c) => `<th class="p-2 font-bold ${c.cls || ""}">${c.label}</th>`).join("")}</tr></thead><tbody>${rows.map((m, i) => `<tr class="${i % 2 ? "bg-green-100" : "bg-green-200"} hover:bg-green-400"><td class="p-2">${m.layer_type_slug ? `<a href="#/lt/${m.layer_type_slug}" class="underline">${m.layer_type}</a>` : "-"}</td><td class="p-2"><a href="${getHash(m)}" class="text-blue-700 hover:underline">${m.name}</a></td><td class="p-2">${m.intercalated_cation_name || "-"}</td><td class="p-2">${(m.similar_structure || []).join(", ")}</td><td class="p-2">${(m.similar_chemistry || []).join(", ")}</td></tr>`).join("")}</tbody></table></div>`
     : noData("Nothing found");
   const content = `<p class="mb-6 text-sm text-justify text-gray-800">${LIST_INTRO}</p>${table}${LIST_FOOTNOTES.map((p) => `<p class="mt-4 text-xs text-justify text-gray-700">${p}</p>`).join("")}`;
   getEl("app").innerHTML = renderSection("List of Hydrous Layer Silicates", "green", content);
