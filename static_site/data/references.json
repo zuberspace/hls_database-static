@@ -1,0 +1,2781 @@
+[
+  {
+    "display_num": 1,
+    "authors": "Y. Ide, N. Kagawa, M.Sadakane, T. Sano",
+    "title": "Precisely designed layered silicate as an effective and highly selective CO2 adsorbent",
+    "journal_info": "Chem. Commun. 49, 9027-9029, 2013.",
+    "from_static": true,
+    "pk": 52,
+    "doi": ""
+  },
+  {
+    "display_num": 2,
+    "authors": "S. Toriya, S. Kobayashi, T. Takei, M. Fuji, T. Watanabe, M.Chikazawa",
+    "title": "Modification of interlayer space of kanemite with trimethylsilyl groups: structure and adsorption properties",
+    "journal_info": "Colloid Polym. Sci. 281, 1121–1126, 2003.",
+    "from_static": true
+  },
+  {
+    "display_num": 3,
+    "authors": "e.g. F. Kooli, F. Mizukami, Y. Kiyozumi, Y. Akiyama",
+    "title": "Hydrothermal conversion of Na-magadiite to a new silicate layered structure in a TMAOH-water-1,4-dioxane system",
+    "journal_info": "J. Mater. Chem. 11, 1946-1950, 2001.",
+    "from_static": true
+  },
+  {
+    "display_num": 4,
+    "authors": "K. Kuroda",
+    "title": "Silica-Based Mesoporous Molecular Sieves Derived from a Layered Polysilicate Kanemite - A Review",
+    "journal_info": "J. Porous Materials 3, 107-114, 1996.",
+    "from_static": true
+  },
+  {
+    "display_num": 5,
+    "authors": "S. Shimizu, Y. Kiyozumi, K. Maeda, F. Mizukami, G. PalBorbely, R.M. Mihalyi, H.K. Beyer",
+    "title": "Transformation of intercalated layered silicates to zeolites in the solid state",
+    "journal_info": "Adv. Mater. 8, 759–762, 1996.",
+    "from_static": true
+  },
+  {
+    "display_num": 6,
+    "authors": "H. Gies, U. Müller, B. Yilmaz, T. Tatsumi, B. Xie, F. S. Xiao, X. H. Bao, W. P. Zhang and D. de Vos, Interlayer expansion of the layered zeolite precursor RUB-39",
+    "title": "a universal method to synthesize functionalized microporous silicates",
+    "journal_info": "Chem. Mater. 23, 2545-2554, 2011.",
+    "from_static": true
+  },
+  {
+    "display_num": 7,
+    "authors": "",
+    "title": "S. Inagaki, Y. Sakamoto, Y. Fukushima and O. Terasaki, Chem. Mater. 8, 2089, 1996.",
+    "journal_info": "",
+    "from_static": true
+  },
+  {
+    "display_num": 8,
+    "authors": "J.F. Ruan, P. Wu, B. Slater, Z.L. Zhao, L.L. Wu, O. Terasaki",
+    "title": "Structural characterization of inter-layer expanded zeolite prepared from ferrierite lamellar precursor",
+    "journal_info": "Chem. Mater. 21, 2904–2911, 2009.",
+    "from_static": true
+  },
+  {
+    "display_num": 9,
+    "authors": "K.W. Park, J.H. Jung, S.K. Kim, O.Y. Kwon",
+    "title": "Interlamellar silylation of magadiite by octyl triethoxysilane in the presence of dodecylamine",
+    "journal_info": "Appl. Clay Sci. 46, 251–254, 2009.",
+    "from_static": true
+  },
+  {
+    "display_num": 10,
+    "authors": "A. Corma, V. Fornes, J. Martinez-Triguero and S.B. Pergher",
+    "title": "Delaminated zeolites: Combining the benefits of zeolites and mesoporous materials for catalytic uses",
+    "journal_info": "J. Catal. 186, 57-63,1999,",
+    "from_static": true
+  },
+  {
+    "display_num": 11,
+    "authors": "",
+    "title": "A. Corma, U. Diaz, M. E. Domine, V. Fornes, New aluminosilicate and titanosilicate delaminated materials active for acid catalysis, and oxidation reactions using H2O2. J. Am. Chem. Soc. 122, 2804-2809, 2000,",
+    "journal_info": "",
+    "from_static": true
+  },
+  {
+    "display_num": 12,
+    "authors": "A. Corma, V. Fornes, U. Diaz",
+    "title": "ITQ-18 a new delaminated stable zeolite",
+    "journal_info": "Chem. Commun. 2001, 2642-2643, 2001.",
+    "from_static": true
+  },
+  {
+    "display_num": 13,
+    "authors": "A. Corma, U. Diaz, M. E. Domine, V. Fornes",
+    "title": "AlITQ-6 and TiITQ-6: Synthesis, characterization, and catalytic activity",
+    "journal_info": "Angew. Chem. Int. Ed. 39, 1499-1501, 2000",
+    "from_static": true
+  },
+  {
+    "display_num": 14,
+    "authors": "M.E. Leonowicz, J.A. Lawton, S.L. Lawton, M.K. Rubin",
+    "title": "MCM-22 - A Molecular-Sieve with 2 Independent Multidimensional Channel Systems",
+    "journal_info": "Science 264, 1910-1930,1994.",
+    "from_static": true
+  },
+  {
+    "display_num": 15,
+    "authors": "L. Schreyeck, P. Caullet, J. C. Mougenel, J. L. Guth and B. Marler",
+    "title": "PREFER: a new layered (alumino) silicate precursor of FER-type zeolite",
+    "journal_info": "Microporous Mater. 6, 259-271,1996,",
+    "from_static": true,
+    "pk": 16,
+    "doi": "https://doi.org/10.1016/0927-6513(96)00032-6"
+  },
+  {
+    "display_num": 16,
+    "authors": "B. Marler and H. Gies",
+    "title": "Hydrous layer silicates as precursors for zeolites obtained through topotactic condensation",
+    "journal_info": "Eur. J. Mineral 24, 405-428, 2012.",
+    "from_static": true
+  },
+  {
+    "display_num": 17,
+    "authors": "W. Schwieger and G. Lagaly",
+    "title": "Alkali silicates and crystalline silicic acids, in “Handbook of Layered Materials” (S",
+    "journal_info": "M. Auerbach, K. A. Carrado, P. K. Dutta, eds.) Marcel Dekker, New York, 541-629, 2004.",
+    "from_static": true,
+    "pk": 37,
+    "doi": ""
+  },
+  {
+    "display_num": 18,
+    "authors": "F.S.O. Ramos, M.K. de Pietre, H.O. Pastore",
+    "title": "Lamellar zeolites: an oxymoron? RSC Advances, A review 3, 2084-2111, 2013",
+    "journal_info": "",
+    "from_static": true
+  },
+  {
+    "display_num": 19,
+    "authors": "C. Baerlocher, L.B. McCusker, D.H. Olson, (2007)",
+    "title": "a) Atlas of Zeolite Framework Types, Sixth Revised Edition, Elsevier, Amsterdam",
+    "journal_info": "b) Database of Zeolite Structures: http://www.iza-structure.org/databases/",
+    "from_static": true
+  },
+  {
+    "display_num": 20,
+    "authors": "M.M.J. Treacy, J.B. Higgins",
+    "title": "Collection of simulated powder patterns for zeolites, Fifth Revised Edition, Elsevier, Amsterdam (2007)",
+    "journal_info": "",
+    "from_static": true
+  },
+  {
+    "display_num": 21,
+    "authors": "G. Lagaly, K. Beneke, A. Weiss",
+    "title": "Crystalline Silicic Acid H2Si14O29 * 5 H2O with Layer Structure and Capability of Formation of Intercalation Compounds",
+    "journal_info": "Z. Naturforsch. B 28, 234-238, 1973.",
+    "from_static": true
+  },
+  {
+    "display_num": 22,
+    "authors": "G. Lagaly, K. Beneke, H. Kammermeier (1979)",
+    "title": "New Modifications of Silica, Z",
+    "journal_info": "Naturforsch.  Section B 34b, 666-674.",
+    "from_static": true
+  },
+  {
+    "display_num": 23,
+    "authors": "B.M. Micjuk, L.L. Gorogoe´kaja, A.L. Rastrenenka",
+    "title": "Geochimija 1976, 803–814, 1976",
+    "journal_info": "",
+    "from_static": true
+  },
+  {
+    "display_num": 24,
+    "authors": "K. Beneke, G. Lagaly",
+    "title": "Kenyaite-synthesis and properties",
+    "journal_info": "Am. Miner. 68, 818-826, 1983.",
+    "from_static": true,
+    "pk": 45,
+    "doi": "https://pubs.geoscienceworld.org/msa/ammin/article-abstract/68/7-8/818/41531"
+  },
+  {
+    "display_num": 25,
+    "authors": "G. Lagaly, R. Matouschek",
+    "title": "Crystalline Silicic Acids from Apophyllite, Carletonite, Gillespite",
+    "journal_info": "N. Jb. Miner. Abh. 138, 81-93, 1980.",
+    "from_static": true
+  },
+  {
+    "display_num": 26,
+    "authors": "A. Pabst",
+    "title": "The Structure of leached Gillespite",
+    "journal_info": "Am. Miner. 43, 970-980, 1958.",
+    "from_static": true
+  },
+  {
+    "display_num": 27,
+    "authors": "K. Beneke, H.H. Kruse, G. Lagaly",
+    "title": "Crystalline Silicic Acid with distinct intracrystalline reactivity",
+    "journal_info": "Z. anorg. allg. Chem. 518, 65-76, 1984.",
+    "from_static": true
+  },
+  {
+    "display_num": 28,
+    "authors": "A.J. Gude, and A. Schepard",
+    "title": "Silhydrite, 3SiO2*H2O, A new mineral from Trinity County, California, Am",
+    "journal_info": "Miner. 57, 1053-1065, 1972.",
+    "from_static": true
+  },
+  {
+    "display_num": 29,
+    "authors": "A.A. Colville, C.P. Anderson, P.M. Black",
+    "title": "Refinement of the Crystal Structure of Apophyllite: I",
+    "journal_info": "X-ray diffraction and physical properties , Am. Miner. 56, 1222-1233, 1971.",
+    "from_static": true
+  },
+  {
+    "display_num": 30,
+    "authors": "N. Tsunoji, M. Fukuda, K. Yoshida, Y. Sasaki, T. Ikeda, Y. Ide, M. Sadakane, T. Sano",
+    "title": "Characterization of layered silicate HUS-5 and formation of novel nanoporous silica through transformation of HUS-5 ion-exchanged with alkylammonium cations, J",
+    "journal_info": "Mater. Chem. A 1, 9680-9688, 2013.",
+    "from_static": true
+  },
+  {
+    "display_num": 31,
+    "authors": "G.Y. Chao",
+    "title": "Crystal-Structure of Carletonite - KNa4Ca4Si8O18(CO3)4(F,OH) H2O - Double-Sheet Silicate",
+    "journal_info": "Am. Miner. 57, 765-778, 1972.",
+    "from_static": true
+  },
+  {
+    "display_num": 32,
+    "authors": "W. J. Roth, C.T. Kresge",
+    "title": "Intercalation chemistry of NU-6(1), the layered precursor to zeolite NSI, leading to the pillared zeolite MCM-39(Si)",
+    "journal_info": "Microporous Mesoporous Mater. 144, 158-161, 2011.",
+    "from_static": true
+  },
+  {
+    "display_num": 33,
+    "authors": "",
+    "title": "L.D. Rollmann, J.L. Schlenker, J.L., Lawton L., Kennedy C.L., Kennedy G.J. MCM-69, a novel layered analogue of EU-19, Microporous Mesoporous Mater. 53, 179-193, 2002.",
+    "journal_info": "",
+    "from_static": true
+  },
+  {
+    "display_num": 34,
+    "authors": "C. L. Kennedy, G. J. Kennedy, S. L. Lawton, L. D. Rollmann, J. L. Schlenker",
+    "title": "Synthetic crystalline MCM-69, its synthesis and use",
+    "journal_info": "US Patent 6419891 B1.",
+    "from_static": true
+  },
+  {
+    "display_num": 35,
+    "authors": "T. Ikeda, Y. Akiyama, Y. Oumi, A. Kawai, F. Mizukami",
+    "title": "The topotactic conversion of a novel layered silicate into a new framework zeolite",
+    "journal_info": "Angew. Chem. Intern. Ed. 43, 4892-4896 (2004).",
+    "from_static": true
+  },
+  {
+    "display_num": 36,
+    "authors": "F. Kooli Y. Kiyozumi V. Rives, F. Mizukami",
+    "title": "Synthesis and textural characterization of a new microporous silica material",
+    "journal_info": "Langmuir 18, 4103-4110, 2002.",
+    "from_static": true
+  },
+  {
+    "display_num": 37,
+    "authors": "N. Tsunoji, T. Ikeda, Y. Ide, M. Sadakane, T. Sano",
+    "title": "Synthesis and characteristics of novel layered silicates HUS-2 andHUS-3 derived from a SiO2-choline hydroxide-NaOH-H2O system,  J",
+    "journal_info": "Mater. Chem. 22, 13682-13690, 2012.",
+    "from_static": true,
+    "pk": 42,
+    "doi": "https://doi.org/10.1039/C2JM31872E"
+  },
+  {
+    "display_num": 38,
+    "authors": "L.M. Knight, M.A. Miller, S.C. Koster, M.G. Gatter, A.I. Benin, R.R. Willis, G.J. Lewis, R.W.  Broach",
+    "title": "UZM-13, UZM-17, UZM-19 and UZM-25: Synthesis and structure of new layered precursors and a zeolite discovered via combinatorial chemistry techniques",
+    "journal_info": "in ” Studies in Surface Science and Catalysis”, R. Xu, Z. Gao, J. Chen, W. Yan, eds., Elsevier, Amsterdam, 170A, 338-346, 2007.",
+    "from_static": true
+  },
+  {
+    "display_num": 39,
+    "authors": "T. Ikeda, S. Kayamori, F. Mizukami",
+    "title": "Synthesis and crystal structure of layered silicate PLS-3 and PLS-4 as a topotactic zeolite precursor",
+    "journal_info": "J. Mater. Chem. 19, 5518–5525, 2009.",
+    "from_static": true,
+    "pk": 26,
+    "doi": "https://doi.org/10.1039/B905415D"
+  },
+  {
+    "display_num": 40,
+    "authors": "D.L. Dorset and G.J. Kennedy",
+    "title": "Crystal structure of MCM-65: an alternative linkage of ferrierite layers",
+    "journal_info": "J. Phys. Chem. B 108, 15216-15222, 2004.",
+    "from_static": true
+  },
+  {
+    "display_num": 41,
+    "authors": "J.E. Schmidt, D. Xie, M.E. Davis",
+    "title": "High-silica, heulandite-type zeolites prepared by direct synthesis and topotactic condensation",
+    "journal_info": "J. Mater. Chem. A 3, 12890-12897, 2015.",
+    "from_static": true
+  },
+  {
+    "display_num": 42,
+    "authors": "B. Marler, Z. Li, G. Wang, H. Gies",
+    "title": "Synthesis and structure of two new layered silicate hydrates, RUB-52 and RUB-53",
+    "journal_info": "Acta Cryst. A 67, C650 (2011).",
+    "from_static": true,
+    "pk": 41,
+    "doi": "https://www.researchgate.net/deref/http%3A%2F%2Fdx.doi.org%2F10.1107%2FS0108767311083553"
+  },
+  {
+    "display_num": 43,
+    "authors": "A. Carati, C. Rizzo, R. Millini, E. Di Paola, E. Montanari, S. Zanardi",
+    "title": "Synthesis of zeolites using N,N′-tetramethylen-bis-(N-methylpiperidinium) dyhydroxide as directing agent",
+    "journal_info": "Proc. of the 4th Int. FEZA Conference (eds: A. Gedeon, P. Massiani, F. Babonneau) 269-272, 2008.",
+    "from_static": true
+  },
+  {
+    "display_num": 44,
+    "authors": "R. Millini, G. Perego, W.O. Parker, G. Belussi, L. Carluccio",
+    "title": "Layered structure of ERB-1 microporous borosilicate precursor and its intercalation properties towards polar molecules, Microporous Mater",
+    "journal_info": "4, 221-230, 1995.",
+    "from_static": true
+  },
+  {
+    "display_num": 45,
+    "authors": "a) Camblor, M.A., Corma, A., Diaz-Cabanas, M.-J., Baerlocher, C. (1998)",
+    "title": "Synthesis and structural characterization of MWW type zeolite ITQ-1, the pure silica analog of MCM-22 and SSZ-25, J",
+    "journal_info": "Phys. Chem. B, 102, 44-51, b) Camblor, M.A., Corell, C., Corma, A., Diaz-Cabanas, M.-J., Nicolopoulos, S., Gonzalez-Calbet, J.M. and Vallet-Regi, M. (1996): A new microporous polymorph of silica isomorphous to zeolite MCM-22. Chem. Mater., 8, 2415-2417.",
+    "from_static": true
+  },
+  {
+    "display_num": 46,
+    "authors": "L. Puppe and J. Weisser",
+    "title": "Crystalline alumosilicate PSH-3 and its process of preparation",
+    "journal_info": "US Patent 4 439 409, 1984.",
+    "from_static": true
+  },
+  {
+    "display_num": 47,
+    "authors": "S.I. Zones",
+    "title": "New Zeolite SSZ-25, Eur",
+    "journal_info": "Patent EP 0231860 A2, 1987.",
+    "from_static": true
+  },
+  {
+    "display_num": 48,
+    "authors": "A.S. Fung, S.L. Lawton, W.J. Roth",
+    "title": "Synthetic layered MCM-56, its synthesis and use",
+    "journal_info": "U.S. patent 5,362,697, 1994.",
+    "from_static": true
+  },
+  {
+    "display_num": 49,
+    "authors": "W.J.Roth, D.L. Dorset, G.J. Kennedy",
+    "title": "Discovery of new MWW family zeolite EMM-10: Identification of EMM-10P as the missing MWW precursor with disordered layers",
+    "journal_info": "Microporous Mesoporous Mater. 142, 168-177, 2011.",
+    "from_static": true
+  },
+  {
+    "display_num": 50,
+    "authors": "Brenn, U., Ernst, H., Freude, D., Herrmann, R., Jahnig, R., Karge, H.G., Karger, J., Konig, T., Madler, B., Pingel, U.T., Prochnow, D., Schwieger, W. (2000)",
+    "title": "Synthesis and characterization of the layered sodium silicate Ilerite, Microporous Mesoporous Mater",
+    "journal_info": "40, 43-52.",
+    "from_static": true
+  },
+  {
+    "display_num": 51,
+    "authors": "R.K Iler",
+    "title": "Ion exchange properties of a crystalline hydrated silica, J",
+    "journal_info": "Colloid Science 19, 648-657, 1964.",
+    "from_static": true
+  },
+  {
+    "display_num": 52,
+    "authors": "Massueger, L., Baerlocher, C., McCusker, L.B., Zwijnenburg, M.A. (2007)",
+    "title": "Synthesis and structure analysis of the layer silicate DLM-2, Microporous Mesoporous Mater",
+    "journal_info": "105, 75-81",
+    "from_static": true
+  },
+  {
+    "display_num": 53,
+    "authors": "J. Plevert, T. Plevert, T. Tatsumi",
+    "title": "Silicon vacancy ordering in pure silica TMA-Nu-1: opening the pores of a clathrasil, Abstract for the International Symposium on Zeolites and MicroPorous Crystals, P-026, Hiroshima, Japan 2012",
+    "journal_info": "",
+    "from_static": true
+  },
+  {
+    "display_num": 54,
+    "authors": "A. Bhaumik and T. Tatsumi",
+    "title": "Pure silica NU-1 and Na- and Al-free Ti-NU-1 synthesized by the dry gel conversion method, Microporous Mesoporous Mater",
+    "journal_info": "34, 1-7, 2000.",
+    "from_static": true
+  },
+  {
+    "display_num": 55,
+    "authors": "K. Beneke and G. Lagaly",
+    "title": "Kanemite - innercrystalline reactivity and relations to other sodium silicates",
+    "journal_info": "Am. Miner. 62, 763-771, 1977",
+    "from_static": true,
+    "pk": 21,
+    "doi": "https://pubs.geoscienceworld.org/msa/ammin/article-abstract/62/7-8/763/40802"
+  },
+  {
+    "display_num": 56,
+    "authors": "A.J. Blake, K.R. Franklin, B.M. Lowe",
+    "title": "Preparation and properties of piperazine silicate (EU-19) and a silica polymorph (EU-20)",
+    "journal_info": "J. Chem. Soc. Dalton Trans. 1988, 2513-2517, 1988",
+    "from_static": true,
+    "pk": 9,
+    "doi": "https://doi.org/10.1039/DT9880002513"
+  },
+  {
+    "display_num": 57,
+    "authors": "B. Marler, M.A. Camblor, H. Gies",
+    "title": "The disordered structure of silica zeolite EU-20b, obtained by topotactic condensation of the piperazinium containing layer silicate EU-19, Microporous Mesoporous Mater",
+    "journal_info": "90, 87-101, 2006.",
+    "from_static": true
+  },
+  {
+    "display_num": 58,
+    "authors": "M. E. Leonowicz, J. A. Lawton, S. L. Lawton, M. K. Rubin",
+    "title": "MCM-22: A Molecular Sieve with Two Independent Multidimensional Channel Systems",
+    "journal_info": "Science 264, 1910-1913, 1994.",
+    "from_static": true
+  },
+  {
+    "display_num": 59,
+    "authors": "",
+    "title": "Condensation of disilicic acid to cristobalite",
+    "journal_info": "",
+    "from_static": true
+  },
+  {
+    "display_num": 91,
+    "authors": "A. Corma, V.Fornes, J.M. Guil, S. Pergher, T.M.L. Maesen, J.G. Buglass",
+    "title": "Preparation, characterisation and catalytic activity of ITQ-2, a delaminated zeolite",
+    "journal_info": "Microporous Mesoporous Mater. 38, 301-309, 2000.",
+    "from_static": true
+  },
+  {
+    "display_num": 92,
+    "authors": "A. Corma, U. Diaz, M.E. Domine, V. Fornes",
+    "title": "New Aluminosilicate and Titanosilicate Delaminated Materials Active for Acid Catalysis, and Oxidation Reactions Using H2O2",
+    "journal_info": "J. Am. Chem. Soc. 122, 2804–2809, 2000.",
+    "from_static": true
+  },
+  {
+    "display_num": 93,
+    "authors": "H. Gies, U. Müller, B. Yilmaz, M. Feyen, T. Tatsumi, H. Imai, H. Y. Zhang, B. Xie, F. S. Xiao, X. H. Bao, W. P. Zhang, T. De Baerdemaeker, D. De Vos",
+    "title": "Interlayer Expansion of the Hydrous Layer Silicate RUB-36 to a Functionalized, Microporous Framework Silicate: Crystal Structure Analysis and Physical and Chemical Characterization",
+    "journal_info": "Chem. Mater. 24, 1536-1545, 2012.",
+    "from_static": true
+  },
+  {
+    "display_num": 94,
+    "authors": ", P. Chlubná, W.J. Roth, A. Zukal, M. Kubů, J. Pavlatová",
+    "title": "Pillared MWW zeolites MCM-36 prepared by swelling MCM-22P in concentrated surfactant solutions, Catalysis Today 179, 35– 42, 2012",
+    "journal_info": "",
+    "from_static": true
+  },
+  {
+    "display_num": 95,
+    "authors": "A. Corma, U. Díaz, T. Garcıá, G. Sastre, A. Velty",
+    "title": "Multifunctional Hybrid Organic-Inorganic Catalytic Materials with a Hierarchical System of Well-Defined Micro- and Mesopores, J",
+    "journal_info": "Am. Chem. Soc. 132, 15011–15021, 2010.",
+    "from_static": true
+  },
+  {
+    "display_num": 96,
+    "authors": "M. Choi, K. Na, J. Kim, Y. Sakamoto, O. Terasaki, R. Ryoo",
+    "title": "Stable single-unit-cell nanosheets of zeolite MFI as active and long-lived catalysts, Nature 461, 246-250, 2009",
+    "journal_info": "",
+    "from_static": true
+  },
+  {
+    "display_num": 97,
+    "authors": "W.J. Roth, P. Nachtigall, R.E. Morris, J. Cejka",
+    "title": "Two-Dimensional Zeolites: Current Status and Perspectives, Chem",
+    "journal_info": "Reviews 114, 4807-4837, 2014 .",
+    "from_static": true
+  },
+  {
+    "pk": 1,
+    "title": "Preparation and crystal structure of RUB-18 modified for synthesis of zeolite RWR by topotactic conversion",
+    "year": 2008,
+    "volume": 110,
+    "issue": "2-3",
+    "pages": "488-500",
+    "doi": "https://doi.org/10.1016/j.micromeso.2007.06.038",
+    "pdf": "references/ikeda2008.pdf",
+    "journal": {
+      "pk": 1,
+      "name": "Microporous and Mesoporous Materials"
+    },
+    "authors": [
+      {
+        "pk": 1,
+        "first_name": "Takuji",
+        "last_name": "Ikeda",
+        "display_name": "Takuji Ikeda"
+      },
+      {
+        "pk": 2,
+        "first_name": "T.",
+        "last_name": "Oumi",
+        "display_name": "T. Oumi"
+      },
+      {
+        "pk": 3,
+        "first_name": "T.",
+        "last_name": "Takeoka",
+        "display_name": "T. Takeoka"
+      },
+      {
+        "pk": 4,
+        "first_name": "T.",
+        "last_name": "Yokoyama",
+        "display_name": "T. Yokoyama"
+      },
+      {
+        "pk": 5,
+        "first_name": "T.",
+        "last_name": "Sano",
+        "display_name": "T. Sano"
+      },
+      {
+        "pk": 6,
+        "first_name": "T.",
+        "last_name": "Hanaoka",
+        "display_name": "T. Hanaoka"
+      }
+    ],
+    "from_db": true,
+    "display_num": 98,
+    "from_static": false
+  },
+  {
+    "pk": 5,
+    "title": "Synthesis of Heterocoordinated Atom-Containing Zeotypes Utilizing a Mechanochemical Reaction",
+    "year": 2012,
+    "volume": 12,
+    "issue": "1-2",
+    "pages": "1354-1361",
+    "doi": "https://doi.org/10.1021/cg201442u",
+    "pdf": "",
+    "journal": {
+      "pk": 2,
+      "name": "Crystal Growth & Design"
+    },
+    "authors": [
+      {
+        "pk": 8,
+        "first_name": "Katsutoshi",
+        "last_name": "Yamamoto",
+        "display_name": "Katsutoshi Yamamoto"
+      },
+      {
+        "pk": 1,
+        "first_name": "Takuji",
+        "last_name": "Ikeda",
+        "display_name": "Takuji Ikeda"
+      },
+      {
+        "pk": 9,
+        "first_name": "C.",
+        "last_name": "Ideta",
+        "display_name": "C. Ideta"
+      },
+      {
+        "pk": 10,
+        "first_name": "M.",
+        "last_name": "Yasuda",
+        "display_name": "M. Yasuda"
+      }
+    ],
+    "from_db": true,
+    "display_num": 99,
+    "from_static": false
+  },
+  {
+    "pk": 7,
+    "title": "Über Kristallstrukturen zweier Phyllokieselsäuren H<sub>2</sub>Si<sub>2</sub>O<sub>5</sub>",
+    "year": 1964,
+    "volume": 120,
+    "issue": "1-6",
+    "pages": "427-449",
+    "doi": "https://doi.org/10.1524/zkri.1964.120.16.427",
+    "pdf": "",
+    "journal": {
+      "pk": 4,
+      "name": "Zeitschrift für Kristallographie – Crystalline Materials"
+    },
+    "authors": [
+      {
+        "pk": 11,
+        "first_name": "F.",
+        "last_name": "Liebau",
+        "display_name": "F. Liebau"
+      }
+    ],
+    "from_db": true,
+    "display_num": 100,
+    "from_static": false
+  },
+  {
+    "pk": 8,
+    "title": "ERS-12: A new layered tetramethylammonium silicate composed by ferrierite layers",
+    "year": 2004,
+    "volume": 74,
+    "issue": "1-3",
+    "pages": "59-71",
+    "doi": "https://doi.org/10.1016/j.micromeso.2004.06.007",
+    "pdf": "",
+    "journal": {
+      "pk": 1,
+      "name": "Microporous and Mesoporous Materials"
+    },
+    "authors": [
+      {
+        "pk": 12,
+        "first_name": "Roberto",
+        "last_name": "Millini",
+        "display_name": "Roberto Millini"
+      },
+      {
+        "pk": 13,
+        "first_name": "Luciano C.",
+        "last_name": "Carluccio",
+        "display_name": "Luciano C. Carluccio"
+      },
+      {
+        "pk": 14,
+        "first_name": "Angela",
+        "last_name": "Carati",
+        "display_name": "Angela Carati"
+      },
+      {
+        "pk": 15,
+        "first_name": "Giuseppe",
+        "last_name": "Bellussi",
+        "display_name": "Giuseppe Bellussi"
+      },
+      {
+        "pk": 16,
+        "first_name": "Carlo",
+        "last_name": "Perego",
+        "display_name": "Carlo Perego"
+      },
+      {
+        "pk": 17,
+        "first_name": "Giuseppe",
+        "last_name": "Cruciani",
+        "display_name": "Giuseppe Cruciani"
+      },
+      {
+        "pk": 18,
+        "first_name": "Stefano",
+        "last_name": "Zanardi",
+        "display_name": "Stefano Zanardi"
+      }
+    ],
+    "from_db": true,
+    "display_num": 101,
+    "from_static": false
+  },
+  {
+    "pk": 10,
+    "title": "Structure Determination of H-LDS: An Acidified Form of the Layered Silicate K-LDS",
+    "year": 2010,
+    "volume": 39,
+    "issue": "8",
+    "pages": "747-749",
+    "doi": "https://doi.org/10.1246/cl.2010.747",
+    "pdf": "",
+    "journal": {
+      "pk": 14,
+      "name": "Chemistry Letters"
+    },
+    "authors": [
+      {
+        "pk": 1,
+        "first_name": "Takuji",
+        "last_name": "Ikeda",
+        "display_name": "Takuji Ikeda"
+      },
+      {
+        "pk": 27,
+        "first_name": "Yoshihiro",
+        "last_name": "Sugi",
+        "display_name": "Yoshihiro Sugi"
+      },
+      {
+        "pk": 52,
+        "first_name": "Uenaka",
+        "last_name": "Manami",
+        "display_name": "Uenaka Manami"
+      },
+      {
+        "pk": 24,
+        "first_name": "Kenichi",
+        "last_name": "Komura",
+        "display_name": "Kenichi Komura"
+      }
+    ],
+    "from_db": true,
+    "display_num": 102,
+    "from_static": false
+  },
+  {
+    "pk": 11,
+    "title": "The Crystal structure determination of the crystalline layered silicic acid H-RUB-18",
+    "year": 2002,
+    "volume": 217,
+    "issue": "6",
+    "pages": "233-241",
+    "doi": "https://doi.org/10.1524/zkri.217.6.233.22810",
+    "pdf": "",
+    "journal": {
+      "pk": 4,
+      "name": "Zeitschrift für Kristallographie – Crystalline Materials"
+    },
+    "authors": [
+      {
+        "pk": 28,
+        "first_name": "Markus",
+        "last_name": "Borowski",
+        "display_name": "Markus Borowski"
+      },
+      {
+        "pk": 22,
+        "first_name": "Bernd",
+        "last_name": "Marler",
+        "display_name": "Bernd Marler"
+      },
+      {
+        "pk": 29,
+        "first_name": "Hermann",
+        "last_name": "Gies",
+        "display_name": "Hermann Gies"
+      }
+    ],
+    "from_db": true,
+    "display_num": 103,
+    "from_static": false
+  },
+  {
+    "pk": 12,
+    "title": "Synthesis and characterization of new layered silicates in the system SiO2-NaOH-tetramethylammonium hydroxide-1,4-dioxane",
+    "year": 2004,
+    "volume": 86,
+    "issue": "1",
+    "pages": "112-122",
+    "doi": "https://doi.org/10.1016/j.matchemphys.2004.02.016",
+    "pdf": "",
+    "journal": {
+      "pk": 8,
+      "name": "Materials Chemistry and Physics"
+    },
+    "authors": [
+      {
+        "pk": 1,
+        "first_name": "Takuji",
+        "last_name": "Ikeda",
+        "display_name": "Takuji Ikeda"
+      },
+      {
+        "pk": 25,
+        "first_name": "Akiko",
+        "last_name": "Kawai",
+        "display_name": "Akiko Kawai"
+      },
+      {
+        "pk": 30,
+        "first_name": "Y.",
+        "last_name": "Akiyama",
+        "display_name": "Y. Akiyama"
+      },
+      {
+        "pk": 26,
+        "first_name": "Fujio",
+        "last_name": "Mizukami",
+        "display_name": "Fujio Mizukami"
+      }
+    ],
+    "from_db": true,
+    "display_num": 104,
+    "from_static": false
+  },
+  {
+    "pk": 13,
+    "title": "Synthesis and crystal structure of a layered silicate HUS-1 with a halved sodalite-cage topology",
+    "year": 2011,
+    "volume": 50,
+    "issue": "6",
+    "pages": "2294-2301",
+    "doi": "https://doi.org/10.1021/ic1020065",
+    "pdf": "",
+    "journal": {
+      "pk": 9,
+      "name": "Inorganic Chemistry"
+    },
+    "authors": [
+      {
+        "pk": 1,
+        "first_name": "Takuji",
+        "last_name": "Ikeda",
+        "display_name": "Takuji Ikeda"
+      },
+      {
+        "pk": 32,
+        "first_name": "Yasunori",
+        "last_name": "Oumi",
+        "display_name": "Yasunori Oumi"
+      },
+      {
+        "pk": 33,
+        "first_name": "Tsuneji",
+        "last_name": "Sano",
+        "display_name": "Tsuneji Sano"
+      },
+      {
+        "pk": 34,
+        "first_name": "Koichi",
+        "last_name": "Momma",
+        "display_name": "Koichi Momma"
+      },
+      {
+        "pk": 35,
+        "first_name": "Fujio",
+        "last_name": "Izumi",
+        "display_name": "Fujio Izumi"
+      }
+    ],
+    "from_db": true,
+    "display_num": 105,
+    "from_static": false
+  },
+  {
+    "pk": 14,
+    "title": "HPM-2, the Layered Precursor to Zeolite MTF",
+    "year": 2014,
+    "volume": 26,
+    "issue": "2",
+    "pages": "1161-1169",
+    "doi": "https://doi.org/10.1021/cm403527t",
+    "pdf": "",
+    "journal": {
+      "pk": 10,
+      "name": "Chemistry of Materials"
+    },
+    "authors": [
+      {
+        "pk": 36,
+        "first_name": "Alex",
+        "last_name": "Rojas",
+        "display_name": "Alex Rojas"
+      },
+      {
+        "pk": 37,
+        "first_name": "Miguel A.",
+        "last_name": "Camblor",
+        "display_name": "Miguel A. Camblor"
+      }
+    ],
+    "from_db": true,
+    "display_num": 106,
+    "from_static": false
+  },
+  {
+    "pk": 15,
+    "title": "Synthesis and characteristics of novel layered silicate HUS-7 using benzyltrimethylammonium hydroxide and its unique and selective phenol adsorption behavior",
+    "year": 2014,
+    "volume": 2,
+    "issue": "10",
+    "pages": "3372-3380",
+    "doi": "https://doi.org/10.1039/C3TA14848C",
+    "pdf": "",
+    "journal": {
+      "pk": 11,
+      "name": "Journal of Materials Chemistry"
+    },
+    "authors": [
+      {
+        "pk": 38,
+        "first_name": "Nao",
+        "last_name": "Tsunoji",
+        "display_name": "Nao Tsunoji"
+      },
+      {
+        "pk": 1,
+        "first_name": "Takuji",
+        "last_name": "Ikeda",
+        "display_name": "Takuji Ikeda"
+      },
+      {
+        "pk": 39,
+        "first_name": "Masahiro",
+        "last_name": "Sadakane",
+        "display_name": "Masahiro Sadakane"
+      },
+      {
+        "pk": 33,
+        "first_name": "Tsuneji",
+        "last_name": "Sano",
+        "display_name": "Tsuneji Sano"
+      }
+    ],
+    "from_db": true,
+    "display_num": 107,
+    "from_static": false
+  },
+  {
+    "pk": 17,
+    "title": "The structure of PREFER, the layered precursor of silica-ferrierite, in its as-made, (C<sub>9</sub>H<sub>21</sub>N<sub>2</sub>)<sub>4</sub>[Si<sub>36</sub>O<sub>72</sub>(OH)<sub>4</sub>] * 8 H2O, and dehydrated form, (C9H21N2)4[Si36O72(OH)4]",
+    "year": 2019,
+    "volume": 288,
+    "issue": "1 November 2019",
+    "pages": "109597",
+    "doi": "https://doi.org/10.1016/j.micromeso.2019.109597",
+    "pdf": "",
+    "journal": {
+      "pk": 1,
+      "name": "Microporous and Mesoporous Materials"
+    },
+    "authors": [
+      {
+        "pk": 22,
+        "first_name": "Bernd",
+        "last_name": "Marler",
+        "display_name": "Bernd Marler"
+      },
+      {
+        "pk": 45,
+        "first_name": "Melanie",
+        "last_name": "Müller",
+        "display_name": "Melanie Müller"
+      }
+    ],
+    "from_db": true,
+    "display_num": 108,
+    "from_static": false
+  },
+  {
+    "pk": 18,
+    "title": "Piperazine silicate (EU 19): the structure of a very small crystal determined with synchrotron radiation",
+    "year": 1988,
+    "volume": 44,
+    "issue": "1",
+    "pages": "73-77",
+    "doi": "https://doi.org/10.1107/S0108768187009820",
+    "pdf": "",
+    "journal": {
+      "pk": 13,
+      "name": "Acta Crystallographica Section B"
+    },
+    "authors": [
+      {
+        "pk": 46,
+        "first_name": "S. J.",
+        "last_name": "Andrews",
+        "display_name": "S. J. Andrews"
+      },
+      {
+        "pk": 47,
+        "first_name": "M. Z.",
+        "last_name": "Papiz",
+        "display_name": "M. Z. Papiz"
+      },
+      {
+        "pk": 48,
+        "first_name": "R.",
+        "last_name": "McMeeking",
+        "display_name": "R. McMeeking"
+      },
+      {
+        "pk": 19,
+        "first_name": "A. J.",
+        "last_name": "Blake",
+        "display_name": "A. J. Blake"
+      },
+      {
+        "pk": 21,
+        "first_name": "B. M.",
+        "last_name": "Lowe",
+        "display_name": "B. M. Lowe"
+      },
+      {
+        "pk": 49,
+        "first_name": "K. R.",
+        "last_name": "Franklin",
+        "display_name": "K. R. Franklin"
+      },
+      {
+        "pk": 50,
+        "first_name": "J. R.",
+        "last_name": "Helliwell",
+        "display_name": "J. R. Helliwell"
+      },
+      {
+        "pk": 51,
+        "first_name": "M. M.",
+        "last_name": "Harding",
+        "display_name": "M. M. Harding"
+      }
+    ],
+    "from_db": true,
+    "display_num": 109,
+    "from_static": false
+  },
+  {
+    "pk": 19,
+    "title": "Zeolite syntheses using linear diquats of varying length in fluoride media. The synthesis of ITQ-8, ITQ-10, ITQ-14 and high silica Nu-87",
+    "year": 2002,
+    "volume": 12,
+    "issue": "2",
+    "pages": "249-257",
+    "doi": "https://doi.org/10.1039/B105273J",
+    "pdf": "",
+    "journal": {
+      "pk": 11,
+      "name": "Journal of Materials Chemistry"
+    },
+    "authors": [
+      {
+        "pk": 53,
+        "first_name": "M. J.",
+        "last_name": "Diaz-Cabañas",
+        "display_name": "M. J. Diaz-Cabañas"
+      },
+      {
+        "pk": 54,
+        "first_name": "M. A.",
+        "last_name": "Camblor",
+        "display_name": "M. A. Camblor"
+      },
+      {
+        "pk": 55,
+        "first_name": "Z.",
+        "last_name": "Liu",
+        "display_name": "Z. Liu"
+      },
+      {
+        "pk": 56,
+        "first_name": "T.",
+        "last_name": "Ohsuna",
+        "display_name": "T. Ohsuna"
+      },
+      {
+        "pk": 57,
+        "first_name": "O.",
+        "last_name": "Terasaki",
+        "display_name": "O. Terasaki"
+      }
+    ],
+    "from_db": true,
+    "display_num": 110,
+    "from_static": false
+  },
+  {
+    "pk": 20,
+    "title": "Structure and Properties of ITQ-8: A Hydrous Layer Silicate with Microporous Silicate Layers",
+    "year": 2016,
+    "volume": 45,
+    "issue": "25",
+    "pages": "10155-10164",
+    "doi": "https://doi.org/10.1039/C6DT00713A",
+    "pdf": "",
+    "journal": {
+      "pk": 15,
+      "name": "Dalton Transactions"
+    },
+    "authors": [
+      {
+        "pk": 22,
+        "first_name": "Bernd",
+        "last_name": "Marler",
+        "display_name": "Bernd Marler"
+      },
+      {
+        "pk": 45,
+        "first_name": "Melanie",
+        "last_name": "Müller",
+        "display_name": "Melanie Müller"
+      },
+      {
+        "pk": 29,
+        "first_name": "Hermann",
+        "last_name": "Gies",
+        "display_name": "Hermann Gies"
+      }
+    ],
+    "from_db": true,
+    "display_num": 111,
+    "from_static": false
+  },
+  {
+    "pk": 22,
+    "title": "Structure solution from powder data of the hydrous layer silicate kanemite, a precursor of the industrial ion exchange SKS-6",
+    "year": 1999,
+    "volume": 11,
+    "issue": "1",
+    "pages": "125-134",
+    "doi": "https://doi.org/10.1127/ejm/11/1/0125",
+    "pdf": "",
+    "journal": {
+      "pk": 17,
+      "name": "European Journal of Mineralogy"
+    },
+    "authors": [
+      {
+        "pk": 59,
+        "first_name": "Silke",
+        "last_name": "Vortmann",
+        "display_name": "Silke Vortmann"
+      },
+      {
+        "pk": 60,
+        "first_name": "Jordi",
+        "last_name": "Rius",
+        "display_name": "Jordi Rius"
+      },
+      {
+        "pk": 22,
+        "first_name": "Bernd",
+        "last_name": "Marler",
+        "display_name": "Bernd Marler"
+      },
+      {
+        "pk": 29,
+        "first_name": "Hermann",
+        "last_name": "Gies",
+        "display_name": "Hermann Gies"
+      }
+    ],
+    "from_db": true,
+    "display_num": 112,
+    "from_static": false
+  },
+  {
+    "pk": 23,
+    "title": "A highly crystalline silicate composed of hydrogen-bonded ferrierite layers",
+    "year": 2000,
+    "volume": 12,
+    "issue": "10",
+    "pages": "2936-2942",
+    "doi": "https://doi.org/10.1021/cm000243q",
+    "pdf": "",
+    "journal": {
+      "pk": 10,
+      "name": "Chemistry of Materials"
+    },
+    "authors": [
+      {
+        "pk": 61,
+        "first_name": "Allen",
+        "last_name": "Burton",
+        "display_name": "Allen Burton"
+      },
+      {
+        "pk": 62,
+        "first_name": "Robyn J.",
+        "last_name": "Accardi",
+        "display_name": "Robyn J. Accardi"
+      },
+      {
+        "pk": 63,
+        "first_name": "Raul F.",
+        "last_name": "Lobo",
+        "display_name": "Raul F. Lobo"
+      },
+      {
+        "pk": 64,
+        "first_name": "Marco",
+        "last_name": "Falcioni",
+        "display_name": "Marco Falcioni"
+      },
+      {
+        "pk": 65,
+        "first_name": "Michael W.",
+        "last_name": "Deem",
+        "display_name": "Michael W. Deem"
+      }
+    ],
+    "from_db": true,
+    "display_num": 113,
+    "from_static": false
+  },
+  {
+    "pk": 24,
+    "title": "Ab initio structure solution from X-ray powder data at moderate resolution: Crystal structure of a microporous layer silicate",
+    "year": 1997,
+    "volume": 101,
+    "issue": "8",
+    "pages": "1292-1297",
+    "doi": "https://doi.org/10.1021/jp962162g",
+    "pdf": "",
+    "journal": {
+      "pk": 18,
+      "name": "The Journal of Physical Chemistry B"
+    },
+    "authors": [
+      {
+        "pk": 59,
+        "first_name": "Silke",
+        "last_name": "Vortmann",
+        "display_name": "Silke Vortmann"
+      },
+      {
+        "pk": 60,
+        "first_name": "Jordi",
+        "last_name": "Rius",
+        "display_name": "Jordi Rius"
+      },
+      {
+        "pk": 66,
+        "first_name": "Silvester",
+        "last_name": "Siegmann",
+        "display_name": "Silvester Siegmann"
+      },
+      {
+        "pk": 29,
+        "first_name": "Hermann",
+        "last_name": "Gies",
+        "display_name": "Hermann Gies"
+      }
+    ],
+    "from_db": true,
+    "display_num": 114,
+    "from_static": false
+  },
+  {
+    "pk": 25,
+    "title": "Crystal structure determination of zeolite NU-6(2) and its layered precursor NU-6(1)",
+    "year": 2004,
+    "volume": 43,
+    "issue": "37",
+    "pages": "4933-4937",
+    "doi": "https://doi.org/10.1002/anie.200460085",
+    "pdf": "",
+    "journal": {
+      "pk": 19,
+      "name": "Angewandte Chemie"
+    },
+    "authors": [
+      {
+        "pk": 18,
+        "first_name": "Stefano",
+        "last_name": "Zanardi",
+        "display_name": "Stefano Zanardi"
+      },
+      {
+        "pk": 67,
+        "first_name": "Alberto",
+        "last_name": "Alberti",
+        "display_name": "Alberto Alberti"
+      },
+      {
+        "pk": 17,
+        "first_name": "Giuseppe",
+        "last_name": "Cruciani",
+        "display_name": "Giuseppe Cruciani"
+      },
+      {
+        "pk": 68,
+        "first_name": "Avelino",
+        "last_name": "Corma",
+        "display_name": "Avelino Corma"
+      },
+      {
+        "pk": 69,
+        "first_name": "Vicente",
+        "last_name": "Fornés",
+        "display_name": "Vicente Fornés"
+      },
+      {
+        "pk": 70,
+        "first_name": "Michela",
+        "last_name": "Brunelli",
+        "display_name": "Michela Brunelli"
+      }
+    ],
+    "from_db": true,
+    "display_num": 115,
+    "from_static": false
+  },
+  {
+    "pk": 27,
+    "title": "A layer silicate: Synthesis and Structure of Zeolite Precursor RUB-15 - [N(CH<sub>3</sub>)<sub>4</sub>]<sub>8</sub> [Si<sub>24</sub>O<sub>52</sub>(OH)<sub>4</sub>] ∙ 20 H<sub>2</sub>O",
+    "year": 1996,
+    "volume": 35,
+    "issue": "23-24",
+    "pages": "2869-2872",
+    "doi": "https://doi.org/10.1002/anie.199628691",
+    "pdf": "",
+    "journal": {
+      "pk": 19,
+      "name": "Angewandte Chemie"
+    },
+    "authors": [
+      {
+        "pk": 72,
+        "first_name": "Uwe",
+        "last_name": "Oberhagemann",
+        "display_name": "Uwe Oberhagemann"
+      },
+      {
+        "pk": 73,
+        "first_name": "Parwis",
+        "last_name": "Bayat",
+        "display_name": "Parwis Bayat"
+      },
+      {
+        "pk": 29,
+        "first_name": "Hermann",
+        "last_name": "Gies",
+        "display_name": "Hermann Gies"
+      },
+      {
+        "pk": 22,
+        "first_name": "Bernd",
+        "last_name": "Marler",
+        "display_name": "Bernd Marler"
+      },
+      {
+        "pk": 60,
+        "first_name": "Jordi",
+        "last_name": "Rius",
+        "display_name": "Jordi Rius"
+      }
+    ],
+    "from_db": true,
+    "display_num": 116,
+    "from_static": false
+  },
+  {
+    "pk": 28,
+    "title": "Topotactic condensation of layer silicates with Ferrierite-type layers forming porous tectosilicates",
+    "year": 2014,
+    "volume": 43,
+    "issue": "27",
+    "pages": "10396-10416",
+    "doi": "https://doi.org/10.1039/C4DT00262H",
+    "pdf": "",
+    "journal": {
+      "pk": 15,
+      "name": "Dalton Transactions"
+    },
+    "authors": [
+      {
+        "pk": 22,
+        "first_name": "Bernd",
+        "last_name": "Marler",
+        "display_name": "Bernd Marler"
+      },
+      {
+        "pk": 74,
+        "first_name": "Y.",
+        "last_name": "Wang",
+        "display_name": "Y. Wang"
+      },
+      {
+        "pk": 75,
+        "first_name": "J.",
+        "last_name": "Song",
+        "display_name": "J. Song"
+      },
+      {
+        "pk": 29,
+        "first_name": "Hermann",
+        "last_name": "Gies",
+        "display_name": "Hermann Gies"
+      }
+    ],
+    "from_db": true,
+    "display_num": 117,
+    "from_static": false
+  },
+  {
+    "pk": 29,
+    "title": "Layered precursors for new zeolitic materials: Synthesis and characterization of B-RUB-39 and its condensation product B-RUB-41",
+    "year": 2012,
+    "volume": 147,
+    "issue": "1",
+    "pages": "102-109",
+    "doi": "https://doi.org/10.1016/j.micromeso.2011.05.036",
+    "pdf": "",
+    "journal": {
+      "pk": 1,
+      "name": "Microporous and Mesoporous Materials"
+    },
+    "authors": [
+      {
+        "pk": 76,
+        "first_name": "Antje",
+        "last_name": "Grünewald-Lüke",
+        "display_name": "Antje Grünewald-Lüke"
+      },
+      {
+        "pk": 29,
+        "first_name": "Hermann",
+        "last_name": "Gies",
+        "display_name": "Hermann Gies"
+      },
+      {
+        "pk": 77,
+        "first_name": "Ulrich",
+        "last_name": "Müller",
+        "display_name": "Ulrich Müller"
+      },
+      {
+        "pk": 78,
+        "first_name": "Bilge",
+        "last_name": "Yilmaz",
+        "display_name": "Bilge Yilmaz"
+      },
+      {
+        "pk": 79,
+        "first_name": "H.",
+        "last_name": "Imai",
+        "display_name": "H. Imai"
+      },
+      {
+        "pk": 80,
+        "first_name": "Takashi",
+        "last_name": "Tatsumi",
+        "display_name": "Takashi Tatsumi"
+      },
+      {
+        "pk": 81,
+        "first_name": "B.",
+        "last_name": "Xie",
+        "display_name": "B. Xie"
+      },
+      {
+        "pk": 82,
+        "first_name": "Feng-Shou",
+        "last_name": "Xiao",
+        "display_name": "Feng-Shou Xiao"
+      },
+      {
+        "pk": 83,
+        "first_name": "Xinhe",
+        "last_name": "Bao",
+        "display_name": "Xinhe Bao"
+      },
+      {
+        "pk": 84,
+        "first_name": "Weiping",
+        "last_name": "Zhang",
+        "display_name": "Weiping Zhang"
+      },
+      {
+        "pk": 85,
+        "first_name": "Dirk",
+        "last_name": "De Vos",
+        "display_name": "Dirk De Vos"
+      }
+    ],
+    "from_db": true,
+    "display_num": 118,
+    "from_static": false
+  },
+  {
+    "pk": 30,
+    "title": "Crystal structure of the new layer silicate RUB-39 and its topotactic condensation to a microporous zeolite with framework type RRO",
+    "year": 2007,
+    "volume": 19,
+    "issue": "17",
+    "pages": "4181–4188",
+    "doi": "https://doi.org/10.1021/cm0706907",
+    "pdf": "",
+    "journal": {
+      "pk": 10,
+      "name": "Chemistry of Materials"
+    },
+    "authors": [
+      {
+        "pk": 86,
+        "first_name": "Y. X.",
+        "last_name": "Wang",
+        "display_name": "Y. X. Wang"
+      },
+      {
+        "pk": 29,
+        "first_name": "Hermann",
+        "last_name": "Gies",
+        "display_name": "Hermann Gies"
+      },
+      {
+        "pk": 87,
+        "first_name": "J. H.",
+        "last_name": "Lin",
+        "display_name": "J. H. Lin"
+      }
+    ],
+    "from_db": true,
+    "display_num": 119,
+    "from_static": false
+  },
+  {
+    "pk": 31,
+    "title": "A new layered silicate with structural motives of silicate zeolites: Synthesis, crystal structure, and properties",
+    "year": 2008,
+    "volume": 20,
+    "issue": "5",
+    "pages": "1896-1901",
+    "doi": "https://doi.org/10.1021/cm702880p",
+    "pdf": "",
+    "journal": {
+      "pk": 10,
+      "name": "Chemistry of Materials"
+    },
+    "authors": [
+      {
+        "pk": 88,
+        "first_name": "Zhaofei",
+        "last_name": "Li",
+        "display_name": "Zhaofei Li"
+      },
+      {
+        "pk": 22,
+        "first_name": "Bernd",
+        "last_name": "Marler",
+        "display_name": "Bernd Marler"
+      },
+      {
+        "pk": 29,
+        "first_name": "Hermann",
+        "last_name": "Gies",
+        "display_name": "Hermann Gies"
+      }
+    ],
+    "from_db": true,
+    "display_num": 120,
+    "from_static": false
+  },
+  {
+    "pk": 32,
+    "title": "Ab-initio structure determination of novel strontium-containing layered silicate AES-18 synthesized using mechanochemical reaction",
+    "year": 2013,
+    "volume": 228,
+    "issue": "4",
+    "pages": "173-179",
+    "doi": "https://doi.org/10.1524/zkri.2013.1591",
+    "pdf": "",
+    "journal": {
+      "pk": 4,
+      "name": "Zeitschrift für Kristallographie – Crystalline Materials"
+    },
+    "authors": [
+      {
+        "pk": 1,
+        "first_name": "Takuji",
+        "last_name": "Ikeda",
+        "display_name": "Takuji Ikeda"
+      },
+      {
+        "pk": 89,
+        "first_name": "Chiaki",
+        "last_name": "Ideta",
+        "display_name": "Chiaki Ideta"
+      },
+      {
+        "pk": 8,
+        "first_name": "Katsutoshi",
+        "last_name": "Yamamoto",
+        "display_name": "Katsutoshi Yamamoto"
+      }
+    ],
+    "from_db": true,
+    "display_num": 121,
+    "from_static": false
+  },
+  {
+    "pk": 33,
+    "title": "Synthesis and crystal structure analysis of a novel strontosilicate AES-19 having two dimensional eight-membered ring micropores",
+    "year": 2013,
+    "volume": 172,
+    "issue": "13–19",
+    "pages": "",
+    "doi": "https://doi.org/10.1016/j.micromeso.2013.01.004",
+    "pdf": "",
+    "journal": {
+      "pk": 1,
+      "name": "Microporous and Mesoporous Materials"
+    },
+    "authors": [
+      {
+        "pk": 8,
+        "first_name": "Katsutoshi",
+        "last_name": "Yamamoto",
+        "display_name": "Katsutoshi Yamamoto"
+      },
+      {
+        "pk": 1,
+        "first_name": "Takuji",
+        "last_name": "Ikeda",
+        "display_name": "Takuji Ikeda"
+      },
+      {
+        "pk": 89,
+        "first_name": "Chiaki",
+        "last_name": "Ideta",
+        "display_name": "Chiaki Ideta"
+      }
+    ],
+    "from_db": true,
+    "display_num": 122,
+    "from_static": false
+  },
+  {
+    "pk": 34,
+    "title": "Synthesis and crystal structure analysis of a novel microporous barium-containing silicate AES-20",
+    "year": 2017,
+    "volume": 243,
+    "issue": "",
+    "pages": "239–246",
+    "doi": "https://doi.org/10.1016/j.micromeso.2017.02.034",
+    "pdf": "",
+    "journal": {
+      "pk": 1,
+      "name": "Microporous and Mesoporous Materials"
+    },
+    "authors": [
+      {
+        "pk": 8,
+        "first_name": "Katsutoshi",
+        "last_name": "Yamamoto",
+        "display_name": "Katsutoshi Yamamoto"
+      },
+      {
+        "pk": 1,
+        "first_name": "Takuji",
+        "last_name": "Ikeda",
+        "display_name": "Takuji Ikeda"
+      },
+      {
+        "pk": 90,
+        "first_name": "Watanabe",
+        "last_name": "Koji",
+        "display_name": "Watanabe Koji"
+      }
+    ],
+    "from_db": true,
+    "display_num": 123,
+    "from_static": false
+  },
+  {
+    "pk": 35,
+    "title": "Layered silicate by proton exchange and swelling of AMH-3",
+    "year": 2008,
+    "volume": 115,
+    "issue": "1–2",
+    "pages": "75–84",
+    "doi": "https://doi.org/10.1016/j.micromeso.2007.12.041",
+    "pdf": "",
+    "journal": {
+      "pk": 1,
+      "name": "Microporous and Mesoporous Materials"
+    },
+    "authors": [
+      {
+        "pk": 91,
+        "first_name": "S.",
+        "last_name": "Choi",
+        "display_name": "S. Choi"
+      },
+      {
+        "pk": 92,
+        "first_name": "J.",
+        "last_name": "Coronas",
+        "display_name": "J. Coronas"
+      },
+      {
+        "pk": 93,
+        "first_name": "J. A.",
+        "last_name": "Sheffel",
+        "display_name": "J. A. Sheffel"
+      },
+      {
+        "pk": 94,
+        "first_name": "E.",
+        "last_name": "Jordan",
+        "display_name": "E. Jordan"
+      },
+      {
+        "pk": 95,
+        "first_name": "W.",
+        "last_name": "Oh",
+        "display_name": "W. Oh"
+      },
+      {
+        "pk": 96,
+        "first_name": "S.",
+        "last_name": "Nair",
+        "display_name": "S. Nair"
+      },
+      {
+        "pk": 97,
+        "first_name": "D. F.",
+        "last_name": "Shantz",
+        "display_name": "D. F. Shantz"
+      },
+      {
+        "pk": 98,
+        "first_name": "M.",
+        "last_name": "Tsapatsis",
+        "display_name": "M. Tsapatsis"
+      }
+    ],
+    "from_db": true,
+    "display_num": 124,
+    "from_static": false
+  },
+  {
+    "pk": 36,
+    "title": "A highly crystalline layered silicate with three-dimensionally microporous layers",
+    "year": 2003,
+    "volume": 2,
+    "issue": "",
+    "pages": "53-57",
+    "doi": "https://doi.org/10.1038/nmat795",
+    "pdf": "",
+    "journal": {
+      "pk": 20,
+      "name": "Nature Materials"
+    },
+    "authors": [
+      {
+        "pk": 99,
+        "first_name": "H.-K.",
+        "last_name": "Jeong",
+        "display_name": "H.-K. Jeong"
+      },
+      {
+        "pk": 96,
+        "first_name": "S.",
+        "last_name": "Nair",
+        "display_name": "S. Nair"
+      },
+      {
+        "pk": 100,
+        "first_name": "T.",
+        "last_name": "Vogt",
+        "display_name": "T. Vogt"
+      },
+      {
+        "pk": 101,
+        "first_name": "L. C.",
+        "last_name": "Dickinson",
+        "display_name": "L. C. Dickinson"
+      },
+      {
+        "pk": 98,
+        "first_name": "M.",
+        "last_name": "Tsapatsis",
+        "display_name": "M. Tsapatsis"
+      }
+    ],
+    "from_db": true,
+    "display_num": 125,
+    "from_static": false
+  },
+  {
+    "pk": 38,
+    "title": "Synthesis and general characterisation of RUB-22: a new microporous silicate possessing an interrupted framework structure",
+    "year": 2007,
+    "volume": 170,
+    "issue": "Part A",
+    "pages": "199-205",
+    "doi": "https://doi.org/10.1016/S0167-2991(07)80839-1",
+    "pdf": "",
+    "journal": {
+      "pk": 22,
+      "name": "Studies in Surface Science and Catalysis"
+    },
+    "authors": [
+      {
+        "pk": 105,
+        "first_name": "S.",
+        "last_name": "Latzel",
+        "display_name": "S. Latzel"
+      },
+      {
+        "pk": 22,
+        "first_name": "Bernd",
+        "last_name": "Marler",
+        "display_name": "Bernd Marler"
+      },
+      {
+        "pk": 72,
+        "first_name": "Uwe",
+        "last_name": "Oberhagemann",
+        "display_name": "Uwe Oberhagemann"
+      },
+      {
+        "pk": 106,
+        "first_name": "C.",
+        "last_name": "Osterhoff",
+        "display_name": "C. Osterhoff"
+      },
+      {
+        "pk": 29,
+        "first_name": "Hermann",
+        "last_name": "Gies",
+        "display_name": "Hermann Gies"
+      }
+    ],
+    "from_db": true,
+    "display_num": 126,
+    "from_static": false
+  },
+  {
+    "pk": 39,
+    "title": "Crystal structure analyses of two TMA silicates with ordered defects: RUB-20, a layered zeolite precursor, and RUB-22, a microporous framework silicate",
+    "year": 2015,
+    "volume": null,
+    "issue": "(4)",
+    "pages": "243-262",
+    "doi": "https://doi.org/10.1515/zkri-2014-1810",
+    "pdf": "",
+    "journal": {
+      "pk": 4,
+      "name": "Zeitschrift für Kristallographie – Crystalline Materials"
+    },
+    "authors": [
+      {
+        "pk": 22,
+        "first_name": "Bernd",
+        "last_name": "Marler",
+        "display_name": "Bernd Marler"
+      },
+      {
+        "pk": 29,
+        "first_name": "Hermann",
+        "last_name": "Gies",
+        "display_name": "Hermann Gies"
+      }
+    ],
+    "from_db": true,
+    "display_num": 127,
+    "from_static": false
+  },
+  {
+    "pk": 40,
+    "title": "Synthesis and Properties of the Sodium Lithium Silicate Silinaite",
+    "year": 1995,
+    "volume": 34,
+    "issue": "",
+    "pages": "900–907",
+    "doi": "https://doi.org/10.1021/ic00108a022",
+    "pdf": "",
+    "journal": {
+      "pk": 9,
+      "name": "Inorganic Chemistry"
+    },
+    "authors": [
+      {
+        "pk": 58,
+        "first_name": "Klaus",
+        "last_name": "Beneke",
+        "display_name": "Klaus Beneke"
+      },
+      {
+        "pk": 107,
+        "first_name": "Peter",
+        "last_name": "Thiesen",
+        "display_name": "Peter Thiesen"
+      },
+      {
+        "pk": 23,
+        "first_name": "Gerhard",
+        "last_name": "Lagaly",
+        "display_name": "Gerhard Lagaly"
+      }
+    ],
+    "from_db": true,
+    "display_num": 128,
+    "from_static": false
+  },
+  {
+    "pk": 43,
+    "title": "RUB-55, a new hydrous layer silicate with layers known as motives of the sodalite and octadecasil frameworks: Synthesis and crystal structure",
+    "year": 2012,
+    "volume": 227,
+    "issue": "7",
+    "pages": "427–437",
+    "doi": "https://doi.org/10.1524/zkri.2012.1516",
+    "pdf": "",
+    "journal": {
+      "pk": 4,
+      "name": "Zeitschrift für Kristallographie – Crystalline Materials"
+    },
+    "authors": [
+      {
+        "pk": 22,
+        "first_name": "Bernd",
+        "last_name": "Marler",
+        "display_name": "Bernd Marler"
+      },
+      {
+        "pk": 76,
+        "first_name": "Antje",
+        "last_name": "Grünewald-Lüke",
+        "display_name": "Antje Grünewald-Lüke"
+      },
+      {
+        "pk": 111,
+        "first_name": "Sandra",
+        "last_name": "Grabowski",
+        "display_name": "Sandra Grabowski"
+      },
+      {
+        "pk": 29,
+        "first_name": "Hermann",
+        "last_name": "Gies",
+        "display_name": "Hermann Gies"
+      }
+    ],
+    "from_db": true,
+    "display_num": 129,
+    "from_static": false
+  },
+  {
+    "pk": 44,
+    "title": "Synthesis and Crystal Structures of a Novel Layered Silicate SSA-1 and Its Microporous Derivatives by Topotactic Transformation",
+    "year": 2016,
+    "volume": 45,
+    "issue": "41",
+    "pages": "16335-16344",
+    "doi": "https://doi.org/10.1039/C6DT02983C",
+    "pdf": "",
+    "journal": {
+      "pk": 15,
+      "name": "Dalton Transactions"
+    },
+    "authors": [
+      {
+        "pk": 112,
+        "first_name": "S.",
+        "last_name": "Takahashi",
+        "display_name": "S. Takahashi"
+      },
+      {
+        "pk": 113,
+        "first_name": "Y.",
+        "last_name": "Kurita",
+        "display_name": "Y. Kurita"
+      },
+      {
+        "pk": 1,
+        "first_name": "Takuji",
+        "last_name": "Ikeda",
+        "display_name": "Takuji Ikeda"
+      },
+      {
+        "pk": 114,
+        "first_name": "M.",
+        "last_name": "Miyamoto",
+        "display_name": "M. Miyamoto"
+      },
+      {
+        "pk": 115,
+        "first_name": "S.",
+        "last_name": "Uemiya",
+        "display_name": "S. Uemiya"
+      },
+      {
+        "pk": 116,
+        "first_name": "Y.",
+        "last_name": "Oumi",
+        "display_name": "Y. Oumi"
+      }
+    ],
+    "from_db": true,
+    "display_num": 130,
+    "from_static": false
+  },
+  {
+    "pk": 46,
+    "title": "Synthesis of Crystalline Metal Silicate Hydrates of Layer Structure",
+    "year": 1987,
+    "volume": 548,
+    "issue": "5",
+    "pages": "204-216",
+    "doi": "https://doi.org/10.1002/zaac.19875480523",
+    "pdf": "",
+    "journal": {
+      "pk": 24,
+      "name": "Zeitschrift für anorganische und allgemeine Chemie"
+    },
+    "authors": [
+      {
+        "pk": 117,
+        "first_name": "W.",
+        "last_name": "Schwieger",
+        "display_name": "W. Schwieger"
+      },
+      {
+        "pk": 118,
+        "first_name": "W.",
+        "last_name": "Heyer",
+        "display_name": "W. Heyer"
+      },
+      {
+        "pk": 119,
+        "first_name": "F.",
+        "last_name": "Wolf",
+        "display_name": "F. Wolf"
+      },
+      {
+        "pk": 120,
+        "first_name": "K.-H.",
+        "last_name": "Bergk",
+        "display_name": "K.-H. Bergk"
+      }
+    ],
+    "from_db": true,
+    "display_num": 131,
+    "from_static": false
+  },
+  {
+    "pk": 47,
+    "title": "Two New Hydrous Layer Silicates - RUB-56 and RUB-57",
+    "year": 2012,
+    "volume": null,
+    "issue": "",
+    "pages": "139-140",
+    "doi": "",
+    "pdf": "",
+    "journal": {
+      "pk": 25,
+      "name": "Book of Abstracts IV Int. Workshop on Layered Materials"
+    },
+    "authors": [
+      {
+        "pk": 151,
+        "first_name": "Ling",
+        "last_name": "Zhang",
+        "display_name": "Ling Zhang"
+      },
+      {
+        "pk": 76,
+        "first_name": "Antje",
+        "last_name": "Grünewald-Lüke",
+        "display_name": "Antje Grünewald-Lüke"
+      },
+      {
+        "pk": 22,
+        "first_name": "Bernd",
+        "last_name": "Marler",
+        "display_name": "Bernd Marler"
+      },
+      {
+        "pk": 121,
+        "first_name": "Y.",
+        "last_name": "Wei",
+        "display_name": "Y. Wei"
+      },
+      {
+        "pk": 29,
+        "first_name": "Hermann",
+        "last_name": "Gies",
+        "display_name": "Hermann Gies"
+      }
+    ],
+    "from_db": true,
+    "display_num": 132,
+    "from_static": false
+  },
+  {
+    "pk": 48,
+    "title": "Preperation and crystal structure of RUB-18 modified for synthesis of zeolite RWR by topotactic conversion",
+    "year": 2008,
+    "volume": 110,
+    "issue": "2-3",
+    "pages": "488-500",
+    "doi": "https://doi.org/10.1016/j.micromeso.2007.06.038",
+    "pdf": "",
+    "journal": {
+      "pk": 1,
+      "name": "Microporous and Mesoporous Materials"
+    },
+    "authors": [
+      {
+        "pk": 1,
+        "first_name": "Takuji",
+        "last_name": "Ikeda",
+        "display_name": "Takuji Ikeda"
+      },
+      {
+        "pk": 116,
+        "first_name": "Y.",
+        "last_name": "Oumi",
+        "display_name": "Y. Oumi"
+      },
+      {
+        "pk": 3,
+        "first_name": "T.",
+        "last_name": "Takeoka",
+        "display_name": "T. Takeoka"
+      },
+      {
+        "pk": 4,
+        "first_name": "T.",
+        "last_name": "Yokoyama",
+        "display_name": "T. Yokoyama"
+      },
+      {
+        "pk": 5,
+        "first_name": "T.",
+        "last_name": "Sano",
+        "display_name": "T. Sano"
+      },
+      {
+        "pk": 6,
+        "first_name": "T.",
+        "last_name": "Hanaoka",
+        "display_name": "T. Hanaoka"
+      }
+    ],
+    "from_db": true,
+    "display_num": 133,
+    "from_static": false
+  },
+  {
+    "pk": 49,
+    "title": "Synthesis, characterization and structure solution of ULS-1 - |ETMA<sub>8</sub>(H<sub>2</sub>O)<sub>20</sub>| [Si<sub>24</sub>O<sub>48</sub>(OH)<sub>8</sub>], a layered silicate composed of half-sodalite cages",
+    "year": 2015,
+    "volume": 202,
+    "issue": "",
+    "pages": "250-258",
+    "doi": "https://doi.org/10.1016/j.micromeso.2014.10.008",
+    "pdf": "",
+    "journal": {
+      "pk": 1,
+      "name": "Microporous and Mesoporous Materials"
+    },
+    "authors": [
+      {
+        "pk": 122,
+        "first_name": "Mark A.",
+        "last_name": "Miller",
+        "display_name": "Mark A. Miller"
+      },
+      {
+        "pk": 123,
+        "first_name": "Stuart R.",
+        "last_name": "Miller",
+        "display_name": "Stuart R. Miller"
+      },
+      {
+        "pk": 124,
+        "first_name": "Robert W.",
+        "last_name": "Broach",
+        "display_name": "Robert W. Broach"
+      },
+      {
+        "pk": 125,
+        "first_name": "Melissa M.",
+        "last_name": "Galey",
+        "display_name": "Melissa M. Galey"
+      },
+      {
+        "pk": 126,
+        "first_name": "Sesh",
+        "last_name": "Prabhakar",
+        "display_name": "Sesh Prabhakar"
+      },
+      {
+        "pk": 127,
+        "first_name": "Brendon",
+        "last_name": "Lyons",
+        "display_name": "Brendon Lyons"
+      },
+      {
+        "pk": 128,
+        "first_name": "Collette L.",
+        "last_name": "Nicholas",
+        "display_name": "Collette L. Nicholas"
+      },
+      {
+        "pk": 129,
+        "first_name": "Christopher P.",
+        "last_name": "Nicholas",
+        "display_name": "Christopher P. Nicholas"
+      }
+    ],
+    "from_db": true,
+    "display_num": 134,
+    "from_static": false
+  },
+  {
+    "pk": 50,
+    "title": "Composition of synthetic porous crystalline material, its synthesis and use",
+    "year": 1990,
+    "volume": 4,
+    "issue": "Nr. 4,954,325",
+    "pages": "",
+    "doi": "https://pdfpiw.uspto.gov/.piw?PageNum=0&docid=04954325&IDKey=92B29EDBC610%0D%0A&HomeUrl=http%3A%2F%2Fpatft.uspto.gov%2Fnetacgi%2Fnph-Parser%3FSect1%3DPTO2%2526Sect2%3DHITOFF%2526p%3D1%2526u%3D%25252Fn",
+    "pdf": "",
+    "journal": {
+      "pk": 26,
+      "name": "U.S. Patent"
+    },
+    "authors": [
+      {
+        "pk": 130,
+        "first_name": "M. K.",
+        "last_name": "Rubin",
+        "display_name": "M. K. Rubin"
+      },
+      {
+        "pk": 131,
+        "first_name": "P.",
+        "last_name": "Chu",
+        "display_name": "P. Chu"
+      }
+    ],
+    "from_db": true,
+    "display_num": 135,
+    "from_static": false
+  },
+  {
+    "pk": 51,
+    "title": "Two new members of the Silica-X family of materials: RUB-5, a silica zeolite with a very high framework density and RUB-6, a hydrous layer silicate",
+    "year": 2020,
+    "volume": 296,
+    "issue": "",
+    "pages": "No. 109981",
+    "doi": "https://doi.org/10.1016/j.micromeso.2019.109981",
+    "pdf": "",
+    "journal": {
+      "pk": 1,
+      "name": "Microporous and Mesoporous Materials"
+    },
+    "authors": [
+      {
+        "pk": 22,
+        "first_name": "Bernd",
+        "last_name": "Marler",
+        "display_name": "Bernd Marler"
+      },
+      {
+        "pk": 132,
+        "first_name": "Yasar",
+        "last_name": "Krysiak",
+        "display_name": "Yasar Krysiak"
+      },
+      {
+        "pk": 140,
+        "first_name": "Ute",
+        "last_name": "Kolb",
+        "display_name": "Ute Kolb"
+      },
+      {
+        "pk": 163,
+        "first_name": "Christine",
+        "last_name": "Grafweg",
+        "display_name": "Christine Grafweg"
+      },
+      {
+        "pk": 29,
+        "first_name": "Hermann",
+        "last_name": "Gies",
+        "display_name": "Hermann Gies"
+      }
+    ],
+    "from_db": true,
+    "display_num": 136,
+    "from_static": false
+  },
+  {
+    "pk": 54,
+    "title": "The Elusive Structure of Magadiite, Solved by 3D Electron Diffraction and Model Building",
+    "year": 2021,
+    "volume": 33,
+    "issue": "",
+    "pages": "3207-3219",
+    "doi": "https://pubs.acs.org/doi/10.1021/acs.chemmater.1c00107",
+    "pdf": "",
+    "journal": {
+      "pk": 10,
+      "name": "Chemistry of Materials"
+    },
+    "authors": [
+      {
+        "pk": 132,
+        "first_name": "Yasar",
+        "last_name": "Krysiak",
+        "display_name": "Yasar Krysiak"
+      },
+      {
+        "pk": 134,
+        "first_name": "Marcel",
+        "last_name": "Maslyk",
+        "display_name": "Marcel Maslyk"
+      },
+      {
+        "pk": 135,
+        "first_name": "Bruna N.",
+        "last_name": "Silva",
+        "display_name": "Bruna N. Silva"
+      },
+      {
+        "pk": 136,
+        "first_name": "Sergi",
+        "last_name": "Plana-Ruiz",
+        "display_name": "Sergi Plana-Ruiz"
+      },
+      {
+        "pk": 137,
+        "first_name": "Hipassia .",
+        "last_name": "Moura",
+        "display_name": "Hipassia . Moura"
+      },
+      {
+        "pk": 138,
+        "first_name": "Erica O.",
+        "last_name": "Munsingnatti",
+        "display_name": "Erica O. Munsingnatti"
+      },
+      {
+        "pk": 139,
+        "first_name": "Viviane S.",
+        "last_name": "Vaiss",
+        "display_name": "Viviane S. Vaiss"
+      },
+      {
+        "pk": 140,
+        "first_name": "Ute",
+        "last_name": "Kolb",
+        "display_name": "Ute Kolb"
+      },
+      {
+        "pk": 141,
+        "first_name": "Wolfgang",
+        "last_name": "Tremel",
+        "display_name": "Wolfgang Tremel"
+      },
+      {
+        "pk": 142,
+        "first_name": "Lukas",
+        "last_name": "Palatinus",
+        "display_name": "Lukas Palatinus"
+      },
+      {
+        "pk": 143,
+        "first_name": "Alexandra A.",
+        "last_name": "Leitao",
+        "display_name": "Alexandra A. Leitao"
+      },
+      {
+        "pk": 22,
+        "first_name": "Bernd",
+        "last_name": "Marler",
+        "display_name": "Bernd Marler"
+      },
+      {
+        "pk": 144,
+        "first_name": "Heloise O.",
+        "last_name": "Pastore",
+        "display_name": "Heloise O. Pastore"
+      }
+    ],
+    "from_db": true,
+    "display_num": 137,
+    "from_static": false
+  },
+  {
+    "pk": 55,
+    "title": "New zeolite-like RUB-5 and its related hydrous layer silicate RUB-6 structurally characterized by electron microscopy",
+    "year": 2020,
+    "volume": 7,
+    "issue": "",
+    "pages": "522-534",
+    "doi": "https://doi.org/10.1107/S2052252520003991",
+    "pdf": "",
+    "journal": {
+      "pk": 29,
+      "name": "IUCrJ"
+    },
+    "authors": [
+      {
+        "pk": 132,
+        "first_name": "Yasar",
+        "last_name": "Krysiak",
+        "display_name": "Yasar Krysiak"
+      },
+      {
+        "pk": 22,
+        "first_name": "Bernd",
+        "last_name": "Marler",
+        "display_name": "Bernd Marler"
+      },
+      {
+        "pk": 145,
+        "first_name": "Bastian",
+        "last_name": "Barton",
+        "display_name": "Bastian Barton"
+      },
+      {
+        "pk": 136,
+        "first_name": "Sergi",
+        "last_name": "Plana-Ruiz",
+        "display_name": "Sergi Plana-Ruiz"
+      },
+      {
+        "pk": 29,
+        "first_name": "Hermann",
+        "last_name": "Gies",
+        "display_name": "Hermann Gies"
+      },
+      {
+        "pk": 146,
+        "first_name": "Reinhard B.",
+        "last_name": "Neder",
+        "display_name": "Reinhard B. Neder"
+      },
+      {
+        "pk": 140,
+        "first_name": "Ute",
+        "last_name": "Kolb",
+        "display_name": "Ute Kolb"
+      }
+    ],
+    "from_db": true,
+    "display_num": 138,
+    "from_static": false
+  },
+  {
+    "pk": 56,
+    "title": "The crystal structure of synthetic kenyaite, Na<sub>2</sub>Si<sub>20</sub>O<sub>40</sub>(OH)<sub>2</sub> · 8H<sub>2</sub>O",
+    "year": 2021,
+    "volume": 300,
+    "issue": "Article No. 122215",
+    "pages": "",
+    "doi": "https://doi.org/10.1016/j.jssc.2021.122215",
+    "pdf": "",
+    "journal": {
+      "pk": 30,
+      "name": "Journal of Solid State Chemistry"
+    },
+    "authors": [
+      {
+        "pk": 22,
+        "first_name": "Bernd",
+        "last_name": "Marler",
+        "display_name": "Bernd Marler"
+      },
+      {
+        "pk": 147,
+        "first_name": "Isabel",
+        "last_name": "Grosskreuz",
+        "display_name": "Isabel Grosskreuz"
+      },
+      {
+        "pk": 29,
+        "first_name": "Hermann",
+        "last_name": "Gies",
+        "display_name": "Hermann Gies"
+      }
+    ],
+    "from_db": true,
+    "display_num": 139,
+    "from_static": false
+  },
+  {
+    "pk": 57,
+    "title": "Crystal structure of synthetic makatite Na<sub>2</sub>Si<sub>4</sub>O<sub>8</sub>(OH)<sub>2</sub>(H<sub>2</sub>O)<sub>4</sub>",
+    "year": 1982,
+    "volume": 159,
+    "issue": "",
+    "pages": "203-210",
+    "doi": "https://doi.org/10.1524/zkri.1982.159.14.203",
+    "pdf": "",
+    "journal": {
+      "pk": 4,
+      "name": "Zeitschrift für Kristallographie – Crystalline Materials"
+    },
+    "authors": [
+      {
+        "pk": 148,
+        "first_name": "H.",
+        "last_name": "Annehed",
+        "display_name": "H. Annehed"
+      },
+      {
+        "pk": 149,
+        "first_name": "L.",
+        "last_name": "Faelth",
+        "display_name": "L. Faelth"
+      },
+      {
+        "pk": 150,
+        "first_name": "F.J.",
+        "last_name": "Lincoln",
+        "display_name": "F.J. Lincoln"
+      }
+    ],
+    "from_db": true,
+    "display_num": 140,
+    "from_static": false
+  },
+  {
+    "pk": 58,
+    "title": "Electron Diffraction on Flash-Frozen Cowlesite Reveals the Structure of the First Two-Dimensional Natural Zeolite",
+    "year": 2020,
+    "volume": 6,
+    "issue": "",
+    "pages": "1578-1586",
+    "doi": "https://doi.org/10.1021/acscentsci.9b01100",
+    "pdf": "",
+    "journal": {
+      "pk": 31,
+      "name": "ACS Central Science"
+    },
+    "authors": [
+      {
+        "pk": 152,
+        "first_name": "Enrico",
+        "last_name": "Mugnaioli",
+        "display_name": "Enrico Mugnaioli"
+      },
+      {
+        "pk": 153,
+        "first_name": "Arianna E.",
+        "last_name": "Lanza",
+        "display_name": "Arianna E. Lanza"
+      }
+    ],
+    "from_db": true,
+    "display_num": 141,
+    "from_static": false
+  },
+  {
+    "pk": 59,
+    "title": "Cowlesite a new Ca-zeolite.",
+    "year": 1975,
+    "volume": 60,
+    "issue": "11-12",
+    "pages": "951-956",
+    "doi": "",
+    "pdf": "references/AM60_951.pdf",
+    "journal": {
+      "pk": 16,
+      "name": "American Mineralogist"
+    },
+    "authors": [
+      {
+        "pk": 154,
+        "first_name": "William S.",
+        "last_name": "Wise",
+        "display_name": "William S. Wise"
+      },
+      {
+        "pk": 155,
+        "first_name": "R. W.",
+        "last_name": "Tschernich",
+        "display_name": "R. W. Tschernich"
+      }
+    ],
+    "from_db": true,
+    "display_num": 142,
+    "from_static": false
+  },
+  {
+    "pk": 60,
+    "title": "A layer silicate",
+    "year": 2021,
+    "volume": null,
+    "issue": "US-20210101800-A1",
+    "pages": "",
+    "doi": "",
+    "pdf": "",
+    "journal": {
+      "pk": 32,
+      "name": "U.S. Patent application"
+    },
+    "authors": [
+      {
+        "pk": 44,
+        "first_name": "Mathias",
+        "last_name": "Feyen",
+        "display_name": "Mathias Feyen"
+      },
+      {
+        "pk": 77,
+        "first_name": "Ulrich",
+        "last_name": "Müller",
+        "display_name": "Ulrich Müller"
+      },
+      {
+        "pk": 83,
+        "first_name": "Xinhe",
+        "last_name": "Bao",
+        "display_name": "Xinhe Bao"
+      },
+      {
+        "pk": 84,
+        "first_name": "Weiping",
+        "last_name": "Zhang",
+        "display_name": "Weiping Zhang"
+      },
+      {
+        "pk": 85,
+        "first_name": "Dirk",
+        "last_name": "De Vos",
+        "display_name": "Dirk De Vos"
+      },
+      {
+        "pk": 29,
+        "first_name": "Hermann",
+        "last_name": "Gies",
+        "display_name": "Hermann Gies"
+      },
+      {
+        "pk": 82,
+        "first_name": "Feng-Shou",
+        "last_name": "Xiao",
+        "display_name": "Feng-Shou Xiao"
+      },
+      {
+        "pk": 162,
+        "first_name": "Toshiyuki",
+        "last_name": "Yokoi",
+        "display_name": "Toshiyuki Yokoi"
+      },
+      {
+        "pk": 140,
+        "first_name": "Ute",
+        "last_name": "Kolb",
+        "display_name": "Ute Kolb"
+      },
+      {
+        "pk": 22,
+        "first_name": "Bernd",
+        "last_name": "Marler",
+        "display_name": "Bernd Marler"
+      },
+      {
+        "pk": 74,
+        "first_name": "Y.",
+        "last_name": "Wang",
+        "display_name": "Y. Wang"
+      },
+      {
+        "pk": 158,
+        "first_name": "Trees",
+        "last_name": "De Baerdemaeker",
+        "display_name": "Trees De Baerdemaeker"
+      },
+      {
+        "pk": 159,
+        "first_name": "Chuan",
+        "last_name": "Shi",
+        "display_name": "Chuan Shi"
+      },
+      {
+        "pk": 160,
+        "first_name": "Xiulian",
+        "last_name": "Pan",
+        "display_name": "Xiulian Pan"
+      },
+      {
+        "pk": 161,
+        "first_name": "Xiangju",
+        "last_name": "Meng",
+        "display_name": "Xiangju Meng"
+      },
+      {
+        "pk": 76,
+        "first_name": "Antje",
+        "last_name": "Grünewald-Lüke",
+        "display_name": "Antje Grünewald-Lüke"
+      }
+    ],
+    "from_db": true,
+    "display_num": 143,
+    "from_static": false
+  },
+  {
+    "pk": 61,
+    "title": "THE CRYSTAL-STRUCTURE OF SILINAITE, NaLiSi<sub>2</sub>O<sub>5</sub>  2 H<sub>2</sub>O - A MONOPHYLLOSILICATE",
+    "year": 1991,
+    "volume": 29,
+    "issue": "",
+    "pages": "363-367",
+    "doi": "",
+    "pdf": "",
+    "journal": {
+      "pk": 33,
+      "name": "Canadian Mineralogist"
+    },
+    "authors": [
+      {
+        "pk": 164,
+        "first_name": "J.D.",
+        "last_name": "Grice",
+        "display_name": "J.D. Grice"
+      }
+    ],
+    "from_db": true,
+    "display_num": 144,
+    "from_static": false
+  },
+  {
+    "pk": 62,
+    "title": "Synthesis and Crystal Structures of Two Crystalline Silicic Acids: Hydrated H-Apophyllite, H<sub>16</sub>Si<sub>16</sub>O<sub>40</sub> • 8–10 H<sub>2</sub>O and H-Carletonite, H<sub>32</sub>Si<sub>64</sub>O<sub>144</sub>",
+    "year": 2024,
+    "volume": 14,
+    "issue": "",
+    "pages": "No. 326",
+    "doi": "https://doi.org/10.3390/cryst14040326",
+    "pdf": "",
+    "journal": {
+      "pk": 34,
+      "name": "Crystals(MDPI)"
+    },
+    "authors": [
+      {
+        "pk": 22,
+        "first_name": "Bernd",
+        "last_name": "Marler",
+        "display_name": "Bernd Marler"
+      },
+      {
+        "pk": 147,
+        "first_name": "Isabel",
+        "last_name": "Grosskreuz",
+        "display_name": "Isabel Grosskreuz"
+      }
+    ],
+    "from_db": true,
+    "display_num": 145,
+    "from_static": false
+  },
+  {
+    "pk": 63,
+    "title": "The structure of RUB-56, (C6H16N)8 [Si32O64(OH)8]· 32 H2O, a hydrous layer silicate (2D-zeolite) that contains microporous levyne-type silicate layers",
+    "year": 2024,
+    "volume": null,
+    "issue": "aop",
+    "pages": "",
+    "doi": "https://doi.org/10.1515/ncrs-2024-0067",
+    "pdf": "",
+    "journal": {
+      "pk": 35,
+      "name": "Zeitschrift für Kristallographie - New Crystal Structures"
+    },
+    "authors": [
+      {
+        "pk": 22,
+        "first_name": "Bernd",
+        "last_name": "Marler",
+        "display_name": "Bernd Marler"
+      },
+      {
+        "pk": 76,
+        "first_name": "Antje",
+        "last_name": "Grünewald-Lüke",
+        "display_name": "Antje Grünewald-Lüke"
+      },
+      {
+        "pk": 29,
+        "first_name": "Hermann",
+        "last_name": "Gies",
+        "display_name": "Hermann Gies"
+      },
+      {
+        "pk": 158,
+        "first_name": "Trees",
+        "last_name": "De Baerdemaeker",
+        "display_name": "Trees De Baerdemaeker"
+      }
+    ],
+    "from_db": true,
+    "display_num": 146,
+    "from_static": false
+  }
+]

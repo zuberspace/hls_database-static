@@ -1,0 +1,2690 @@
+[
+  {
+    "two_theta": 3.285,
+    "intensity": 88,
+    "name": "MCM-22(p)",
+    "slug": "mcm-22p",
+    "is_related_material": false,
+    "layer_type": "mww"
+  },
+  {
+    "two_theta": 4.454,
+    "intensity": 100,
+    "name": "Kenyaite",
+    "slug": "kenyaite",
+    "is_related_material": false,
+    "layer_type": "six"
+  },
+  {
+    "two_theta": 5.088,
+    "intensity": 100,
+    "name": "RUB-57",
+    "slug": "rub-57",
+    "is_related_material": false,
+    "layer_type": null
+  },
+  {
+    "two_theta": 5.191,
+    "intensity": 100,
+    "name": "ITQ-8",
+    "slug": "itq-8",
+    "is_related_material": false,
+    "layer_type": "lev"
+  },
+  {
+    "two_theta": 5.303,
+    "intensity": 100,
+    "name": "RUB-56",
+    "slug": "rub-56",
+    "is_related_material": false,
+    "layer_type": "lev"
+  },
+  {
+    "two_theta": 5.67,
+    "intensity": 100,
+    "name": "Magadiite",
+    "slug": "magadiite",
+    "is_related_material": false,
+    "layer_type": "mag"
+  },
+  {
+    "two_theta": 5.794,
+    "intensity": 100,
+    "name": "RUB-52 hydr.",
+    "slug": "rub-52-hydr",
+    "is_related_material": false,
+    "layer_type": "hus"
+  },
+  {
+    "two_theta": 5.868,
+    "intensity": 100,
+    "name": "Cowlesite",
+    "slug": "cowlesite",
+    "is_related_material": true,
+    "layer_type": null
+  },
+  {
+    "two_theta": 6.019,
+    "intensity": 100,
+    "name": "TMA-RUB-18 poly-2",
+    "slug": "tma-rub-18-poly-2",
+    "is_related_material": false,
+    "layer_type": "rwr"
+  },
+  {
+    "two_theta": 6.027,
+    "intensity": 100,
+    "name": "RUB-55",
+    "slug": "rub-55",
+    "is_related_material": false,
+    "layer_type": "ast"
+  },
+  {
+    "two_theta": 6.11,
+    "intensity": 100,
+    "name": "ULS-1",
+    "slug": "uls-1",
+    "is_related_material": false,
+    "layer_type": "sod"
+  },
+  {
+    "two_theta": 6.128,
+    "intensity": 100,
+    "name": "RUB-51",
+    "slug": "rub-51",
+    "is_related_material": false,
+    "layer_type": "sod"
+  },
+  {
+    "two_theta": 6.278,
+    "intensity": 100,
+    "name": "RUB-54",
+    "slug": "rub-54",
+    "is_related_material": false,
+    "layer_type": "hus"
+  },
+  {
+    "two_theta": 6.319,
+    "intensity": 100,
+    "name": "RUB-15",
+    "slug": "rub-15",
+    "is_related_material": false,
+    "layer_type": "sod"
+  },
+  {
+    "two_theta": 6.558,
+    "intensity": 100,
+    "name": "Nu-6(1)",
+    "slug": "nu-61",
+    "is_related_material": false,
+    "layer_type": "cas"
+  },
+  {
+    "two_theta": 6.573,
+    "intensity": 88.4,
+    "name": "MCM-22(p)",
+    "slug": "mcm-22p",
+    "is_related_material": false,
+    "layer_type": "mww"
+  },
+  {
+    "two_theta": 6.704,
+    "intensity": 100,
+    "name": "Prefer hydrated",
+    "slug": "prefer-hydrated",
+    "is_related_material": false,
+    "layer_type": "fer"
+  },
+  {
+    "two_theta": 6.72,
+    "intensity": 100,
+    "name": "Prefer dehydrated",
+    "slug": "prefer-dehydrated",
+    "is_related_material": false,
+    "layer_type": "fer"
+  },
+  {
+    "two_theta": 7.172,
+    "intensity": 58.9,
+    "name": "MCM-22(p)",
+    "slug": "mcm-22p",
+    "is_related_material": false,
+    "layer_type": "mww"
+  },
+  {
+    "two_theta": 7.332,
+    "intensity": 59,
+    "name": "AES-1",
+    "slug": "aes-1",
+    "is_related_material": true,
+    "layer_type": null
+  },
+  {
+    "two_theta": 7.522,
+    "intensity": 100,
+    "name": "RUB-53",
+    "slug": "rub-53",
+    "is_related_material": false,
+    "layer_type": "hus"
+  },
+  {
+    "two_theta": 7.526,
+    "intensity": 100,
+    "name": "AES-19",
+    "slug": "aes-19",
+    "is_related_material": true,
+    "layer_type": null
+  },
+  {
+    "two_theta": 7.544,
+    "intensity": 100,
+    "name": "RUB-52 dehydrated",
+    "slug": "rub-52-dehydrated",
+    "is_related_material": false,
+    "layer_type": "hus"
+  },
+  {
+    "two_theta": 7.575,
+    "intensity": 100,
+    "name": "PLS-3",
+    "slug": "pls-3",
+    "is_related_material": false,
+    "layer_type": "fer"
+  },
+  {
+    "two_theta": 7.681,
+    "intensity": 20.5,
+    "name": "Cowlesite",
+    "slug": "cowlesite",
+    "is_related_material": true,
+    "layer_type": null
+  },
+  {
+    "two_theta": 7.736,
+    "intensity": 100,
+    "name": "EU-19",
+    "slug": "eu-19",
+    "is_related_material": false,
+    "layer_type": "cas"
+  },
+  {
+    "two_theta": 7.738,
+    "intensity": 100,
+    "name": "Helix-Layered-Silicate",
+    "slug": "helix-layered-silicate",
+    "is_related_material": false,
+    "layer_type": "ast"
+  },
+  {
+    "two_theta": 7.763,
+    "intensity": 64.7,
+    "name": "AMH-3",
+    "slug": "amh-3",
+    "is_related_material": true,
+    "layer_type": null
+  },
+  {
+    "two_theta": 7.812,
+    "intensity": 100,
+    "name": "TMA-RUB-18 poly-1",
+    "slug": "tma-rub-18-poly-1",
+    "is_related_material": false,
+    "layer_type": "rwr"
+  },
+  {
+    "two_theta": 7.832,
+    "intensity": 100,
+    "name": "RUB-38",
+    "slug": "rub-38",
+    "is_related_material": false,
+    "layer_type": "fer"
+  },
+  {
+    "two_theta": 7.867,
+    "intensity": 28.7,
+    "name": "Cowlesite",
+    "slug": "cowlesite",
+    "is_related_material": true,
+    "layer_type": null
+  },
+  {
+    "two_theta": 7.868,
+    "intensity": 100,
+    "name": "MCM-47",
+    "slug": "mcm-47",
+    "is_related_material": false,
+    "layer_type": "fer"
+  },
+  {
+    "two_theta": 7.93,
+    "intensity": 100,
+    "name": "RUB-48",
+    "slug": "rub-48",
+    "is_related_material": false,
+    "layer_type": "fer"
+  },
+  {
+    "two_theta": 7.961,
+    "intensity": 100,
+    "name": "RUB-36",
+    "slug": "rub-36",
+    "is_related_material": false,
+    "layer_type": "fer"
+  },
+  {
+    "two_theta": 7.968,
+    "intensity": 100,
+    "name": "Na-RUB-18",
+    "slug": "na-rub-18",
+    "is_related_material": false,
+    "layer_type": "rwr"
+  },
+  {
+    "two_theta": 8.246,
+    "intensity": 100,
+    "name": "RUB-39",
+    "slug": "rub-39",
+    "is_related_material": false,
+    "layer_type": "heu"
+  },
+  {
+    "two_theta": 8.448,
+    "intensity": 100,
+    "name": "ERS-12",
+    "slug": "ers-12",
+    "is_related_material": false,
+    "layer_type": "fer"
+  },
+  {
+    "two_theta": 8.499,
+    "intensity": 100,
+    "name": "RUB-20",
+    "slug": "rub-20",
+    "is_related_material": false,
+    "layer_type": "-fer"
+  },
+  {
+    "two_theta": 8.615,
+    "intensity": 100,
+    "name": "Kanemite",
+    "slug": "kanemite",
+    "is_related_material": false,
+    "layer_type": "kan"
+  },
+  {
+    "two_theta": 8.622,
+    "intensity": 7.9,
+    "name": "RUB-56",
+    "slug": "rub-56",
+    "is_related_material": false,
+    "layer_type": "lev"
+  },
+  {
+    "two_theta": 8.684,
+    "intensity": 4.5,
+    "name": "RUB-57",
+    "slug": "rub-57",
+    "is_related_material": false,
+    "layer_type": null
+  },
+  {
+    "two_theta": 8.916,
+    "intensity": 12.5,
+    "name": "Kenyaite",
+    "slug": "kenyaite",
+    "is_related_material": false,
+    "layer_type": "six"
+  },
+  {
+    "two_theta": 9.492,
+    "intensity": 100,
+    "name": "AA-RUB-18",
+    "slug": "aa-rub-18",
+    "is_related_material": false,
+    "layer_type": "rwr"
+  },
+  {
+    "two_theta": 9.591,
+    "intensity": 15.1,
+    "name": "ITQ-8",
+    "slug": "itq-8",
+    "is_related_material": false,
+    "layer_type": "lev"
+  },
+  {
+    "two_theta": 9.734,
+    "intensity": 73.4,
+    "name": "MCM-22(p)",
+    "slug": "mcm-22p",
+    "is_related_material": false,
+    "layer_type": "mww"
+  },
+  {
+    "two_theta": 9.752,
+    "intensity": 67.7,
+    "name": "Makatite",
+    "slug": "makatite",
+    "is_related_material": true,
+    "layer_type": null
+  },
+  {
+    "two_theta": 9.756,
+    "intensity": 9.8,
+    "name": "RUB-57",
+    "slug": "rub-57",
+    "is_related_material": false,
+    "layer_type": null
+  },
+  {
+    "two_theta": 9.798,
+    "intensity": 13.8,
+    "name": "RUB-56",
+    "slug": "rub-56",
+    "is_related_material": false,
+    "layer_type": "lev"
+  },
+  {
+    "two_theta": 10.219,
+    "intensity": 79.5,
+    "name": "AES-20",
+    "slug": "aes-20",
+    "is_related_material": true,
+    "layer_type": null
+  },
+  {
+    "two_theta": 10.48,
+    "intensity": 100,
+    "name": "H-Apophyllite",
+    "slug": "h-apophyllite",
+    "is_related_material": false,
+    "layer_type": "aco"
+  },
+  {
+    "two_theta": 10.48,
+    "intensity": 38.9,
+    "name": "Makatite",
+    "slug": "makatite",
+    "is_related_material": true,
+    "layer_type": null
+  },
+  {
+    "two_theta": 10.483,
+    "intensity": 12.6,
+    "name": "Cowlesite",
+    "slug": "cowlesite",
+    "is_related_material": true,
+    "layer_type": null
+  },
+  {
+    "two_theta": 10.546,
+    "intensity": 5,
+    "name": "RUB-54",
+    "slug": "rub-54",
+    "is_related_material": false,
+    "layer_type": "hus"
+  },
+  {
+    "two_theta": 10.561,
+    "intensity": 5.1,
+    "name": "RUB-52 hydr.",
+    "slug": "rub-52-hydr",
+    "is_related_material": false,
+    "layer_type": "hus"
+  },
+  {
+    "two_theta": 10.742,
+    "intensity": 95.6,
+    "name": "Helix-Layered-Silicate",
+    "slug": "helix-layered-silicate",
+    "is_related_material": false,
+    "layer_type": "ast"
+  },
+  {
+    "two_theta": 10.888,
+    "intensity": 9.6,
+    "name": "Cowlesite",
+    "slug": "cowlesite",
+    "is_related_material": true,
+    "layer_type": null
+  },
+  {
+    "two_theta": 10.889,
+    "intensity": 9.3,
+    "name": "RUB-52 dehydrated",
+    "slug": "rub-52-dehydrated",
+    "is_related_material": false,
+    "layer_type": "hus"
+  },
+  {
+    "two_theta": 10.969,
+    "intensity": 15.4,
+    "name": "RUB-53",
+    "slug": "rub-53",
+    "is_related_material": false,
+    "layer_type": "hus"
+  },
+  {
+    "two_theta": 11.104,
+    "intensity": 100,
+    "name": "AES-18",
+    "slug": "aes-18",
+    "is_related_material": true,
+    "layer_type": null
+  },
+  {
+    "two_theta": 11.483,
+    "intensity": 31.1,
+    "name": "Disilicic Acid",
+    "slug": "disilicic-acid",
+    "is_related_material": false,
+    "layer_type": "cri"
+  },
+  {
+    "two_theta": 11.734,
+    "intensity": 13.9,
+    "name": "RUB-55",
+    "slug": "rub-55",
+    "is_related_material": false,
+    "layer_type": "ast"
+  },
+  {
+    "two_theta": 11.886,
+    "intensity": 82,
+    "name": "H-RUB-18",
+    "slug": "h-rub-18",
+    "is_related_material": false,
+    "layer_type": "rwr"
+  },
+  {
+    "two_theta": 12.071,
+    "intensity": 24,
+    "name": "AA-RUB-18",
+    "slug": "aa-rub-18",
+    "is_related_material": false,
+    "layer_type": "rwr"
+  },
+  {
+    "two_theta": 12.377,
+    "intensity": 9.8,
+    "name": "Prefer dehydrated",
+    "slug": "prefer-dehydrated",
+    "is_related_material": false,
+    "layer_type": "fer"
+  },
+  {
+    "two_theta": 12.386,
+    "intensity": 31.6,
+    "name": "Silinaite",
+    "slug": "silinaite",
+    "is_related_material": true,
+    "layer_type": null
+  },
+  {
+    "two_theta": 12.693,
+    "intensity": 49.3,
+    "name": "AES-19",
+    "slug": "aes-19",
+    "is_related_material": true,
+    "layer_type": null
+  },
+  {
+    "two_theta": 12.731,
+    "intensity": 100,
+    "name": "H-Carletonite",
+    "slug": "h-carletonite",
+    "is_related_material": false,
+    "layer_type": "car"
+  },
+  {
+    "two_theta": 13.04,
+    "intensity": 100,
+    "name": "AMH-3",
+    "slug": "amh-3",
+    "is_related_material": true,
+    "layer_type": null
+  },
+  {
+    "two_theta": 13.139,
+    "intensity": 100,
+    "name": "AES-20",
+    "slug": "aes-20",
+    "is_related_material": true,
+    "layer_type": null
+  },
+  {
+    "two_theta": 13.228,
+    "intensity": 54.4,
+    "name": "AMH-3",
+    "slug": "amh-3",
+    "is_related_material": true,
+    "layer_type": null
+  },
+  {
+    "two_theta": 13.364,
+    "intensity": 68.8,
+    "name": "RUB-22",
+    "slug": "rub-22",
+    "is_related_material": true,
+    "layer_type": null
+  },
+  {
+    "two_theta": 13.39,
+    "intensity": 9,
+    "name": "RUB-39",
+    "slug": "rub-39",
+    "is_related_material": false,
+    "layer_type": "heu"
+  },
+  {
+    "two_theta": 13.475,
+    "intensity": 53.6,
+    "name": "HUS-1",
+    "slug": "hus-1",
+    "is_related_material": false,
+    "layer_type": "ast"
+  },
+  {
+    "two_theta": 13.687,
+    "intensity": 38.8,
+    "name": "AES-1",
+    "slug": "aes-1",
+    "is_related_material": true,
+    "layer_type": null
+  },
+  {
+    "two_theta": 13.816,
+    "intensity": 76.8,
+    "name": "HUS-1",
+    "slug": "hus-1",
+    "is_related_material": false,
+    "layer_type": "ast"
+  },
+  {
+    "two_theta": 14.037,
+    "intensity": 71.9,
+    "name": "RUB-22",
+    "slug": "rub-22",
+    "is_related_material": true,
+    "layer_type": null
+  },
+  {
+    "two_theta": 14.276,
+    "intensity": 18.3,
+    "name": "TMA-RUB-18 poly-1",
+    "slug": "tma-rub-18-poly-1",
+    "is_related_material": false,
+    "layer_type": "rwr"
+  },
+  {
+    "two_theta": 14.38,
+    "intensity": 73.8,
+    "name": "AES-20",
+    "slug": "aes-20",
+    "is_related_material": true,
+    "layer_type": null
+  },
+  {
+    "two_theta": 14.575,
+    "intensity": 8.4,
+    "name": "Cowlesite",
+    "slug": "cowlesite",
+    "is_related_material": true,
+    "layer_type": null
+  },
+  {
+    "two_theta": 14.693,
+    "intensity": 100,
+    "name": "AES-1",
+    "slug": "aes-1",
+    "is_related_material": true,
+    "layer_type": null
+  },
+  {
+    "two_theta": 14.796,
+    "intensity": 65.7,
+    "name": "H-Apophyllite",
+    "slug": "h-apophyllite",
+    "is_related_material": false,
+    "layer_type": "aco"
+  },
+  {
+    "two_theta": 14.875,
+    "intensity": 64.1,
+    "name": "H-LDS",
+    "slug": "h-lds",
+    "is_related_material": false,
+    "layer_type": "kan"
+  },
+  {
+    "two_theta": 15.303,
+    "intensity": 3.9,
+    "name": "RUB-57",
+    "slug": "rub-57",
+    "is_related_material": false,
+    "layer_type": null
+  },
+  {
+    "two_theta": 15.363,
+    "intensity": 59.7,
+    "name": "Helix-Layered-Silicate",
+    "slug": "helix-layered-silicate",
+    "is_related_material": false,
+    "layer_type": "ast"
+  },
+  {
+    "two_theta": 15.568,
+    "intensity": 100,
+    "name": "Disilicic Acid",
+    "slug": "disilicic-acid",
+    "is_related_material": false,
+    "layer_type": "cri"
+  },
+  {
+    "two_theta": 15.616,
+    "intensity": 11.9,
+    "name": "Prefer hydrated",
+    "slug": "prefer-hydrated",
+    "is_related_material": false,
+    "layer_type": "fer"
+  },
+  {
+    "two_theta": 15.955,
+    "intensity": 6.2,
+    "name": "RUB-56",
+    "slug": "rub-56",
+    "is_related_material": false,
+    "layer_type": "lev"
+  },
+  {
+    "two_theta": 15.997,
+    "intensity": 3.8,
+    "name": "RUB-52 hydr.",
+    "slug": "rub-52-hydr",
+    "is_related_material": false,
+    "layer_type": "hus"
+  },
+  {
+    "two_theta": 16.31,
+    "intensity": 35.2,
+    "name": "RUB-51",
+    "slug": "rub-51",
+    "is_related_material": false,
+    "layer_type": "sod"
+  },
+  {
+    "two_theta": 16.493,
+    "intensity": 8.5,
+    "name": "ULS-1",
+    "slug": "uls-1",
+    "is_related_material": false,
+    "layer_type": "sod"
+  },
+  {
+    "two_theta": 16.612,
+    "intensity": 14.1,
+    "name": "RUB-15",
+    "slug": "rub-15",
+    "is_related_material": false,
+    "layer_type": "sod"
+  },
+  {
+    "two_theta": 16.903,
+    "intensity": 10.9,
+    "name": "TMA-RUB-18 poly-1",
+    "slug": "tma-rub-18-poly-1",
+    "is_related_material": false,
+    "layer_type": "rwr"
+  },
+  {
+    "two_theta": 17.293,
+    "intensity": 8.3,
+    "name": "RUB-56",
+    "slug": "rub-56",
+    "is_related_material": false,
+    "layer_type": "lev"
+  },
+  {
+    "two_theta": 17.316,
+    "intensity": 50.6,
+    "name": "H-Carletonite",
+    "slug": "h-carletonite",
+    "is_related_material": false,
+    "layer_type": "car"
+  },
+  {
+    "two_theta": 17.338,
+    "intensity": 9.3,
+    "name": "ITQ-8",
+    "slug": "itq-8",
+    "is_related_material": false,
+    "layer_type": "lev"
+  },
+  {
+    "two_theta": 17.366,
+    "intensity": 100,
+    "name": "Makatite",
+    "slug": "makatite",
+    "is_related_material": true,
+    "layer_type": null
+  },
+  {
+    "two_theta": 17.418,
+    "intensity": 3.8,
+    "name": "RUB-57",
+    "slug": "rub-57",
+    "is_related_material": false,
+    "layer_type": null
+  },
+  {
+    "two_theta": 17.453,
+    "intensity": 8.1,
+    "name": "RUB-52 dehydrated",
+    "slug": "rub-52-dehydrated",
+    "is_related_material": false,
+    "layer_type": "hus"
+  },
+  {
+    "two_theta": 17.892,
+    "intensity": 23.5,
+    "name": "RUB-51",
+    "slug": "rub-51",
+    "is_related_material": false,
+    "layer_type": "sod"
+  },
+  {
+    "two_theta": 17.915,
+    "intensity": 14.2,
+    "name": "ULS-1",
+    "slug": "uls-1",
+    "is_related_material": false,
+    "layer_type": "sod"
+  },
+  {
+    "two_theta": 18.041,
+    "intensity": 48.5,
+    "name": "H-Carletonite",
+    "slug": "h-carletonite",
+    "is_related_material": false,
+    "layer_type": "car"
+  },
+  {
+    "two_theta": 18.074,
+    "intensity": 4.3,
+    "name": "Cowlesite",
+    "slug": "cowlesite",
+    "is_related_material": true,
+    "layer_type": null
+  },
+  {
+    "two_theta": 18.148,
+    "intensity": 25.2,
+    "name": "RUB-55",
+    "slug": "rub-55",
+    "is_related_material": false,
+    "layer_type": "ast"
+  },
+  {
+    "two_theta": 18.184,
+    "intensity": 21,
+    "name": "RUB-15",
+    "slug": "rub-15",
+    "is_related_material": false,
+    "layer_type": "sod"
+  },
+  {
+    "two_theta": 18.489,
+    "intensity": 13.3,
+    "name": "Prefer dehydrated",
+    "slug": "prefer-dehydrated",
+    "is_related_material": false,
+    "layer_type": "fer"
+  },
+  {
+    "two_theta": 18.495,
+    "intensity": 35.4,
+    "name": "Na-RUB-18",
+    "slug": "na-rub-18",
+    "is_related_material": false,
+    "layer_type": "rwr"
+  },
+  {
+    "two_theta": 18.499,
+    "intensity": 12.4,
+    "name": "Prefer hydrated",
+    "slug": "prefer-hydrated",
+    "is_related_material": false,
+    "layer_type": "fer"
+  },
+  {
+    "two_theta": 18.688,
+    "intensity": 8.8,
+    "name": "ITQ-8",
+    "slug": "itq-8",
+    "is_related_material": false,
+    "layer_type": "lev"
+  },
+  {
+    "two_theta": 18.74,
+    "intensity": 3.7,
+    "name": "RUB-52 hydr.",
+    "slug": "rub-52-hydr",
+    "is_related_material": false,
+    "layer_type": "hus"
+  },
+  {
+    "two_theta": 18.928,
+    "intensity": 9.8,
+    "name": "Kenyaite",
+    "slug": "kenyaite",
+    "is_related_material": false,
+    "layer_type": "six"
+  },
+  {
+    "two_theta": 18.974,
+    "intensity": 78.2,
+    "name": "AES-20",
+    "slug": "aes-20",
+    "is_related_material": true,
+    "layer_type": null
+  },
+  {
+    "two_theta": 19.139,
+    "intensity": 81.5,
+    "name": "H-RUB-18",
+    "slug": "h-rub-18",
+    "is_related_material": false,
+    "layer_type": "rwr"
+  },
+  {
+    "two_theta": 19.304,
+    "intensity": 47.6,
+    "name": "H-Carletonite",
+    "slug": "h-carletonite",
+    "is_related_material": false,
+    "layer_type": "car"
+  },
+  {
+    "two_theta": 19.317,
+    "intensity": 6.3,
+    "name": "TMA-RUB-18 poly-2",
+    "slug": "tma-rub-18-poly-2",
+    "is_related_material": false,
+    "layer_type": "rwr"
+  },
+  {
+    "two_theta": 19.32,
+    "intensity": 6,
+    "name": "RUB-54",
+    "slug": "rub-54",
+    "is_related_material": false,
+    "layer_type": "hus"
+  },
+  {
+    "two_theta": 19.435,
+    "intensity": 34.8,
+    "name": "AES-18",
+    "slug": "aes-18",
+    "is_related_material": true,
+    "layer_type": null
+  },
+  {
+    "two_theta": 19.642,
+    "intensity": 5.5,
+    "name": "ULS-1",
+    "slug": "uls-1",
+    "is_related_material": false,
+    "layer_type": "sod"
+  },
+  {
+    "two_theta": 19.806,
+    "intensity": 62.9,
+    "name": "MCM-22(p)",
+    "slug": "mcm-22p",
+    "is_related_material": false,
+    "layer_type": "mww"
+  },
+  {
+    "two_theta": 19.808,
+    "intensity": 14.5,
+    "name": "PLS-3",
+    "slug": "pls-3",
+    "is_related_material": false,
+    "layer_type": "fer"
+  },
+  {
+    "two_theta": 19.875,
+    "intensity": 19,
+    "name": "RUB-53",
+    "slug": "rub-53",
+    "is_related_material": false,
+    "layer_type": "hus"
+  },
+  {
+    "two_theta": 19.915,
+    "intensity": 75.8,
+    "name": "HUS-1",
+    "slug": "hus-1",
+    "is_related_material": false,
+    "layer_type": "ast"
+  },
+  {
+    "two_theta": 19.917,
+    "intensity": 10.7,
+    "name": "Magadiite",
+    "slug": "magadiite",
+    "is_related_material": false,
+    "layer_type": "mag"
+  },
+  {
+    "two_theta": 19.942,
+    "intensity": 8.2,
+    "name": "RUB-15",
+    "slug": "rub-15",
+    "is_related_material": false,
+    "layer_type": "sod"
+  },
+  {
+    "two_theta": 20.021,
+    "intensity": 16.1,
+    "name": "RUB-39",
+    "slug": "rub-39",
+    "is_related_material": false,
+    "layer_type": "heu"
+  },
+  {
+    "two_theta": 20.026,
+    "intensity": 13.9,
+    "name": "RUB-52 dehydrated",
+    "slug": "rub-52-dehydrated",
+    "is_related_material": false,
+    "layer_type": "hus"
+  },
+  {
+    "two_theta": 20.208,
+    "intensity": 19,
+    "name": "RUB-38",
+    "slug": "rub-38",
+    "is_related_material": false,
+    "layer_type": "fer"
+  },
+  {
+    "two_theta": 20.251,
+    "intensity": 13.1,
+    "name": "MCM-47",
+    "slug": "mcm-47",
+    "is_related_material": false,
+    "layer_type": "fer"
+  },
+  {
+    "two_theta": 20.358,
+    "intensity": 21,
+    "name": "RUB-48",
+    "slug": "rub-48",
+    "is_related_material": false,
+    "layer_type": "fer"
+  },
+  {
+    "two_theta": 20.41,
+    "intensity": 18.7,
+    "name": "RUB-36",
+    "slug": "rub-36",
+    "is_related_material": false,
+    "layer_type": "fer"
+  },
+  {
+    "two_theta": 20.476,
+    "intensity": 34.8,
+    "name": "AA-RUB-18",
+    "slug": "aa-rub-18",
+    "is_related_material": false,
+    "layer_type": "rwr"
+  },
+  {
+    "two_theta": 20.487,
+    "intensity": 39.7,
+    "name": "EU-19",
+    "slug": "eu-19",
+    "is_related_material": false,
+    "layer_type": "cas"
+  },
+  {
+    "two_theta": 20.6,
+    "intensity": 71.6,
+    "name": "RUB-22",
+    "slug": "rub-22",
+    "is_related_material": true,
+    "layer_type": null
+  },
+  {
+    "two_theta": 20.681,
+    "intensity": 30.7,
+    "name": "Nu-6(1)",
+    "slug": "nu-61",
+    "is_related_material": false,
+    "layer_type": "cas"
+  },
+  {
+    "two_theta": 20.798,
+    "intensity": 6,
+    "name": "RUB-56",
+    "slug": "rub-56",
+    "is_related_material": false,
+    "layer_type": "lev"
+  },
+  {
+    "two_theta": 20.849,
+    "intensity": 9.2,
+    "name": "PLS-3",
+    "slug": "pls-3",
+    "is_related_material": false,
+    "layer_type": "fer"
+  },
+  {
+    "two_theta": 20.917,
+    "intensity": 29.7,
+    "name": "H-Apophyllite",
+    "slug": "h-apophyllite",
+    "is_related_material": false,
+    "layer_type": "aco"
+  },
+  {
+    "two_theta": 20.919,
+    "intensity": 34.2,
+    "name": "Silinaite",
+    "slug": "silinaite",
+    "is_related_material": true,
+    "layer_type": null
+  },
+  {
+    "two_theta": 21.095,
+    "intensity": 19.1,
+    "name": "RUB-55",
+    "slug": "rub-55",
+    "is_related_material": false,
+    "layer_type": "ast"
+  },
+  {
+    "two_theta": 21.106,
+    "intensity": 13.4,
+    "name": "RUB-38",
+    "slug": "rub-38",
+    "is_related_material": false,
+    "layer_type": "fer"
+  },
+  {
+    "two_theta": 21.108,
+    "intensity": 8.9,
+    "name": "MCM-47",
+    "slug": "mcm-47",
+    "is_related_material": false,
+    "layer_type": "fer"
+  },
+  {
+    "two_theta": 21.173,
+    "intensity": 9.2,
+    "name": "RUB-48",
+    "slug": "rub-48",
+    "is_related_material": false,
+    "layer_type": "fer"
+  },
+  {
+    "two_theta": 21.2,
+    "intensity": 4,
+    "name": "RUB-54",
+    "slug": "rub-54",
+    "is_related_material": false,
+    "layer_type": "hus"
+  },
+  {
+    "two_theta": 21.208,
+    "intensity": 24,
+    "name": "ERS-12",
+    "slug": "ers-12",
+    "is_related_material": false,
+    "layer_type": "fer"
+  },
+  {
+    "two_theta": 21.208,
+    "intensity": 12.4,
+    "name": "RUB-36",
+    "slug": "rub-36",
+    "is_related_material": false,
+    "layer_type": "fer"
+  },
+  {
+    "two_theta": 21.28,
+    "intensity": 33.9,
+    "name": "RUB-20",
+    "slug": "rub-20",
+    "is_related_material": false,
+    "layer_type": "-fer"
+  },
+  {
+    "two_theta": 21.314,
+    "intensity": 69.9,
+    "name": "RUB-22",
+    "slug": "rub-22",
+    "is_related_material": true,
+    "layer_type": null
+  },
+  {
+    "two_theta": 21.373,
+    "intensity": 9.1,
+    "name": "RUB-52 dehydrated",
+    "slug": "rub-52-dehydrated",
+    "is_related_material": false,
+    "layer_type": "hus"
+  },
+  {
+    "two_theta": 21.475,
+    "intensity": 100,
+    "name": "Silinaite",
+    "slug": "silinaite",
+    "is_related_material": true,
+    "layer_type": null
+  },
+  {
+    "two_theta": 21.551,
+    "intensity": 18.8,
+    "name": "RUB-53",
+    "slug": "rub-53",
+    "is_related_material": false,
+    "layer_type": "hus"
+  },
+  {
+    "two_theta": 21.714,
+    "intensity": 30.7,
+    "name": "Na-RUB-18",
+    "slug": "na-rub-18",
+    "is_related_material": false,
+    "layer_type": "rwr"
+  },
+  {
+    "two_theta": 21.933,
+    "intensity": 70.5,
+    "name": "MCM-22(p)",
+    "slug": "mcm-22p",
+    "is_related_material": false,
+    "layer_type": "mww"
+  },
+  {
+    "two_theta": 21.943,
+    "intensity": 72.5,
+    "name": "RUB-22",
+    "slug": "rub-22",
+    "is_related_material": true,
+    "layer_type": null
+  },
+  {
+    "two_theta": 22.014,
+    "intensity": 10.4,
+    "name": "ITQ-8",
+    "slug": "itq-8",
+    "is_related_material": false,
+    "layer_type": "lev"
+  },
+  {
+    "two_theta": 22.041,
+    "intensity": 15.2,
+    "name": "RUB-53",
+    "slug": "rub-53",
+    "is_related_material": false,
+    "layer_type": "hus"
+  },
+  {
+    "two_theta": 22.047,
+    "intensity": 4.1,
+    "name": "RUB-57",
+    "slug": "rub-57",
+    "is_related_material": false,
+    "layer_type": null
+  },
+  {
+    "two_theta": 22.127,
+    "intensity": 79.4,
+    "name": "EU-19",
+    "slug": "eu-19",
+    "is_related_material": false,
+    "layer_type": "cas"
+  },
+  {
+    "two_theta": 22.133,
+    "intensity": 30.8,
+    "name": "Silinaite",
+    "slug": "silinaite",
+    "is_related_material": true,
+    "layer_type": null
+  },
+  {
+    "two_theta": 22.139,
+    "intensity": 54.3,
+    "name": "Kanemite",
+    "slug": "kanemite",
+    "is_related_material": false,
+    "layer_type": "kan"
+  },
+  {
+    "two_theta": 22.141,
+    "intensity": 4.9,
+    "name": "RUB-57",
+    "slug": "rub-57",
+    "is_related_material": false,
+    "layer_type": null
+  },
+  {
+    "two_theta": 22.164,
+    "intensity": 61.1,
+    "name": "Kanemite",
+    "slug": "kanemite",
+    "is_related_material": false,
+    "layer_type": "kan"
+  },
+  {
+    "two_theta": 22.165,
+    "intensity": 95.8,
+    "name": "Kanemite",
+    "slug": "kanemite",
+    "is_related_material": false,
+    "layer_type": "kan"
+  },
+  {
+    "two_theta": 22.181,
+    "intensity": 100,
+    "name": "RUB-22",
+    "slug": "rub-22",
+    "is_related_material": true,
+    "layer_type": null
+  },
+  {
+    "two_theta": 22.202,
+    "intensity": 12.6,
+    "name": "ITQ-8",
+    "slug": "itq-8",
+    "is_related_material": false,
+    "layer_type": "lev"
+  },
+  {
+    "two_theta": 22.215,
+    "intensity": 13.4,
+    "name": "PLS-3",
+    "slug": "pls-3",
+    "is_related_material": false,
+    "layer_type": "fer"
+  },
+  {
+    "two_theta": 22.229,
+    "intensity": 13.8,
+    "name": "RUB-39",
+    "slug": "rub-39",
+    "is_related_material": false,
+    "layer_type": "heu"
+  },
+  {
+    "two_theta": 22.24,
+    "intensity": 87.3,
+    "name": "RUB-22",
+    "slug": "rub-22",
+    "is_related_material": true,
+    "layer_type": null
+  },
+  {
+    "two_theta": 22.248,
+    "intensity": 48.2,
+    "name": "Nu-6(1)",
+    "slug": "nu-61",
+    "is_related_material": false,
+    "layer_type": "cas"
+  },
+  {
+    "two_theta": 22.28,
+    "intensity": 11.3,
+    "name": "ITQ-8",
+    "slug": "itq-8",
+    "is_related_material": false,
+    "layer_type": "lev"
+  },
+  {
+    "two_theta": 22.304,
+    "intensity": 100,
+    "name": "AES-21",
+    "slug": "aes-21",
+    "is_related_material": true,
+    "layer_type": null
+  },
+  {
+    "two_theta": 22.339,
+    "intensity": 75.9,
+    "name": "AES-20",
+    "slug": "aes-20",
+    "is_related_material": true,
+    "layer_type": null
+  },
+  {
+    "two_theta": 22.437,
+    "intensity": 49.6,
+    "name": "AES-18",
+    "slug": "aes-18",
+    "is_related_material": true,
+    "layer_type": null
+  },
+  {
+    "two_theta": 22.465,
+    "intensity": 3.9,
+    "name": "RUB-54",
+    "slug": "rub-54",
+    "is_related_material": false,
+    "layer_type": "hus"
+  },
+  {
+    "two_theta": 22.571,
+    "intensity": 18.2,
+    "name": "RUB-20",
+    "slug": "rub-20",
+    "is_related_material": false,
+    "layer_type": "-fer"
+  },
+  {
+    "two_theta": 22.59,
+    "intensity": 9.4,
+    "name": "Disilicic Acid",
+    "slug": "disilicic-acid",
+    "is_related_material": false,
+    "layer_type": "cri"
+  },
+  {
+    "two_theta": 22.593,
+    "intensity": 12.8,
+    "name": "ERS-12",
+    "slug": "ers-12",
+    "is_related_material": false,
+    "layer_type": "fer"
+  },
+  {
+    "two_theta": 22.614,
+    "intensity": 10.8,
+    "name": "ULS-1",
+    "slug": "uls-1",
+    "is_related_material": false,
+    "layer_type": "sod"
+  },
+  {
+    "two_theta": 22.621,
+    "intensity": 25.5,
+    "name": "RUB-51",
+    "slug": "rub-51",
+    "is_related_material": false,
+    "layer_type": "sod"
+  },
+  {
+    "two_theta": 22.683,
+    "intensity": 11.9,
+    "name": "RUB-15",
+    "slug": "rub-15",
+    "is_related_material": false,
+    "layer_type": "sod"
+  },
+  {
+    "two_theta": 22.694,
+    "intensity": 5.9,
+    "name": "RUB-56",
+    "slug": "rub-56",
+    "is_related_material": false,
+    "layer_type": "lev"
+  },
+  {
+    "two_theta": 22.762,
+    "intensity": 6.8,
+    "name": "ULS-1",
+    "slug": "uls-1",
+    "is_related_material": false,
+    "layer_type": "sod"
+  },
+  {
+    "two_theta": 22.784,
+    "intensity": 62.9,
+    "name": "Helix-Layered-Silicate",
+    "slug": "helix-layered-silicate",
+    "is_related_material": false,
+    "layer_type": "ast"
+  },
+  {
+    "two_theta": 22.928,
+    "intensity": 94.5,
+    "name": "Helix-Layered-Silicate",
+    "slug": "helix-layered-silicate",
+    "is_related_material": false,
+    "layer_type": "ast"
+  },
+  {
+    "two_theta": 23.017,
+    "intensity": 27.8,
+    "name": "TMA-RUB-18 poly-1",
+    "slug": "tma-rub-18-poly-1",
+    "is_related_material": false,
+    "layer_type": "rwr"
+  },
+  {
+    "two_theta": 23.063,
+    "intensity": 36.7,
+    "name": "Disilicic Acid",
+    "slug": "disilicic-acid",
+    "is_related_material": false,
+    "layer_type": "cri"
+  },
+  {
+    "two_theta": 23.083,
+    "intensity": 7,
+    "name": "Disilicic Acid",
+    "slug": "disilicic-acid",
+    "is_related_material": false,
+    "layer_type": "cri"
+  },
+  {
+    "two_theta": 23.12,
+    "intensity": 16.1,
+    "name": "RUB-15",
+    "slug": "rub-15",
+    "is_related_material": false,
+    "layer_type": "sod"
+  },
+  {
+    "two_theta": 23.138,
+    "intensity": 14.9,
+    "name": "RUB-20",
+    "slug": "rub-20",
+    "is_related_material": false,
+    "layer_type": "-fer"
+  },
+  {
+    "two_theta": 23.166,
+    "intensity": 5.3,
+    "name": "RUB-52 hydr.",
+    "slug": "rub-52-hydr",
+    "is_related_material": false,
+    "layer_type": "hus"
+  },
+  {
+    "two_theta": 23.242,
+    "intensity": 11.3,
+    "name": "ERS-12",
+    "slug": "ers-12",
+    "is_related_material": false,
+    "layer_type": "fer"
+  },
+  {
+    "two_theta": 23.269,
+    "intensity": 14.2,
+    "name": "Kenyaite",
+    "slug": "kenyaite",
+    "is_related_material": false,
+    "layer_type": "six"
+  },
+  {
+    "two_theta": 23.279,
+    "intensity": 10.2,
+    "name": "RUB-54",
+    "slug": "rub-54",
+    "is_related_material": false,
+    "layer_type": "hus"
+  },
+  {
+    "two_theta": 23.329,
+    "intensity": 15.6,
+    "name": "RUB-20",
+    "slug": "rub-20",
+    "is_related_material": false,
+    "layer_type": "-fer"
+  },
+  {
+    "two_theta": 23.343,
+    "intensity": 14.5,
+    "name": "RUB-51",
+    "slug": "rub-51",
+    "is_related_material": false,
+    "layer_type": "sod"
+  },
+  {
+    "two_theta": 23.42,
+    "intensity": 44.2,
+    "name": "RUB-55",
+    "slug": "rub-55",
+    "is_related_material": false,
+    "layer_type": "ast"
+  },
+  {
+    "two_theta": 23.433,
+    "intensity": 38.6,
+    "name": "AMH-3",
+    "slug": "amh-3",
+    "is_related_material": true,
+    "layer_type": null
+  },
+  {
+    "two_theta": 23.448,
+    "intensity": 14.4,
+    "name": "H-Apophyllite",
+    "slug": "h-apophyllite",
+    "is_related_material": false,
+    "layer_type": "aco"
+  },
+  {
+    "two_theta": 23.483,
+    "intensity": 100,
+    "name": "H-LDS",
+    "slug": "h-lds",
+    "is_related_material": false,
+    "layer_type": "kan"
+  },
+  {
+    "two_theta": 23.535,
+    "intensity": 19,
+    "name": "RUB-39",
+    "slug": "rub-39",
+    "is_related_material": false,
+    "layer_type": "heu"
+  },
+  {
+    "two_theta": 23.538,
+    "intensity": 93,
+    "name": "H-Apophyllite",
+    "slug": "h-apophyllite",
+    "is_related_material": false,
+    "layer_type": "aco"
+  },
+  {
+    "two_theta": 23.545,
+    "intensity": 83.1,
+    "name": "HUS-1",
+    "slug": "hus-1",
+    "is_related_material": false,
+    "layer_type": "ast"
+  },
+  {
+    "two_theta": 23.574,
+    "intensity": 77.2,
+    "name": "HUS-1",
+    "slug": "hus-1",
+    "is_related_material": false,
+    "layer_type": "ast"
+  },
+  {
+    "two_theta": 23.659,
+    "intensity": 3.6,
+    "name": "RUB-52 hydr.",
+    "slug": "rub-52-hydr",
+    "is_related_material": false,
+    "layer_type": "hus"
+  },
+  {
+    "two_theta": 23.691,
+    "intensity": 16.8,
+    "name": "RUB-39",
+    "slug": "rub-39",
+    "is_related_material": false,
+    "layer_type": "heu"
+  },
+  {
+    "two_theta": 23.767,
+    "intensity": 58.4,
+    "name": "H-LDS",
+    "slug": "h-lds",
+    "is_related_material": false,
+    "layer_type": "kan"
+  },
+  {
+    "two_theta": 24.013,
+    "intensity": 86.3,
+    "name": "H-Apophyllite",
+    "slug": "h-apophyllite",
+    "is_related_material": false,
+    "layer_type": "aco"
+  },
+  {
+    "two_theta": 24.076,
+    "intensity": 84.7,
+    "name": "Makatite",
+    "slug": "makatite",
+    "is_related_material": true,
+    "layer_type": null
+  },
+  {
+    "two_theta": 24.089,
+    "intensity": 35.7,
+    "name": "H-RUB-18",
+    "slug": "h-rub-18",
+    "is_related_material": false,
+    "layer_type": "rwr"
+  },
+  {
+    "two_theta": 24.137,
+    "intensity": 74.3,
+    "name": "H-RUB-18",
+    "slug": "h-rub-18",
+    "is_related_material": false,
+    "layer_type": "rwr"
+  },
+  {
+    "two_theta": 24.164,
+    "intensity": 14.3,
+    "name": "Nu-6(1)",
+    "slug": "nu-61",
+    "is_related_material": false,
+    "layer_type": "cas"
+  },
+  {
+    "two_theta": 24.278,
+    "intensity": 26.7,
+    "name": "AA-RUB-18",
+    "slug": "aa-rub-18",
+    "is_related_material": false,
+    "layer_type": "rwr"
+  },
+  {
+    "two_theta": 24.3,
+    "intensity": 11.8,
+    "name": "Prefer dehydrated",
+    "slug": "prefer-dehydrated",
+    "is_related_material": false,
+    "layer_type": "fer"
+  },
+  {
+    "two_theta": 24.318,
+    "intensity": 19.2,
+    "name": "TMA-RUB-18 poly-1",
+    "slug": "tma-rub-18-poly-1",
+    "is_related_material": false,
+    "layer_type": "rwr"
+  },
+  {
+    "two_theta": 24.318,
+    "intensity": 6.7,
+    "name": "TMA-RUB-18 poly-2",
+    "slug": "tma-rub-18-poly-2",
+    "is_related_material": false,
+    "layer_type": "rwr"
+  },
+  {
+    "two_theta": 24.329,
+    "intensity": 11.4,
+    "name": "RUB-52 dehydrated",
+    "slug": "rub-52-dehydrated",
+    "is_related_material": false,
+    "layer_type": "hus"
+  },
+  {
+    "two_theta": 24.374,
+    "intensity": 93.9,
+    "name": "AES-18",
+    "slug": "aes-18",
+    "is_related_material": true,
+    "layer_type": null
+  },
+  {
+    "two_theta": 24.409,
+    "intensity": 10.1,
+    "name": "TMA-RUB-18 poly-2",
+    "slug": "tma-rub-18-poly-2",
+    "is_related_material": false,
+    "layer_type": "rwr"
+  },
+  {
+    "two_theta": 24.44,
+    "intensity": 34.7,
+    "name": "Kanemite",
+    "slug": "kanemite",
+    "is_related_material": false,
+    "layer_type": "kan"
+  },
+  {
+    "two_theta": 24.45,
+    "intensity": 100,
+    "name": "HUS-1",
+    "slug": "hus-1",
+    "is_related_material": false,
+    "layer_type": "ast"
+  },
+  {
+    "two_theta": 24.572,
+    "intensity": 24.9,
+    "name": "AA-RUB-18",
+    "slug": "aa-rub-18",
+    "is_related_material": false,
+    "layer_type": "rwr"
+  },
+  {
+    "two_theta": 24.595,
+    "intensity": 18.4,
+    "name": "Na-RUB-18",
+    "slug": "na-rub-18",
+    "is_related_material": false,
+    "layer_type": "rwr"
+  },
+  {
+    "two_theta": 24.751,
+    "intensity": 14.4,
+    "name": "RUB-38",
+    "slug": "rub-38",
+    "is_related_material": false,
+    "layer_type": "fer"
+  },
+  {
+    "two_theta": 24.771,
+    "intensity": 9,
+    "name": "MCM-47",
+    "slug": "mcm-47",
+    "is_related_material": false,
+    "layer_type": "fer"
+  },
+  {
+    "two_theta": 24.83,
+    "intensity": 86,
+    "name": "H-RUB-18",
+    "slug": "h-rub-18",
+    "is_related_material": false,
+    "layer_type": "rwr"
+  },
+  {
+    "two_theta": 24.87,
+    "intensity": 13.5,
+    "name": "RUB-48",
+    "slug": "rub-48",
+    "is_related_material": false,
+    "layer_type": "fer"
+  },
+  {
+    "two_theta": 24.887,
+    "intensity": 7,
+    "name": "TMA-RUB-18 poly-2",
+    "slug": "tma-rub-18-poly-2",
+    "is_related_material": false,
+    "layer_type": "rwr"
+  },
+  {
+    "two_theta": 24.899,
+    "intensity": 17.6,
+    "name": "Prefer hydrated",
+    "slug": "prefer-hydrated",
+    "is_related_material": false,
+    "layer_type": "fer"
+  },
+  {
+    "two_theta": 24.901,
+    "intensity": 13.5,
+    "name": "Prefer dehydrated",
+    "slug": "prefer-dehydrated",
+    "is_related_material": false,
+    "layer_type": "fer"
+  },
+  {
+    "two_theta": 24.915,
+    "intensity": 16.8,
+    "name": "RUB-36",
+    "slug": "rub-36",
+    "is_related_material": false,
+    "layer_type": "fer"
+  },
+  {
+    "two_theta": 24.96,
+    "intensity": 3.1,
+    "name": "RUB-52 hydr.",
+    "slug": "rub-52-hydr",
+    "is_related_material": false,
+    "layer_type": "hus"
+  },
+  {
+    "two_theta": 25.09,
+    "intensity": 8.2,
+    "name": "Magadiite",
+    "slug": "magadiite",
+    "is_related_material": false,
+    "layer_type": "mag"
+  },
+  {
+    "two_theta": 25.137,
+    "intensity": 31.6,
+    "name": "AES-21",
+    "slug": "aes-21",
+    "is_related_material": true,
+    "layer_type": null
+  },
+  {
+    "two_theta": 25.184,
+    "intensity": 19.8,
+    "name": "PLS-3",
+    "slug": "pls-3",
+    "is_related_material": false,
+    "layer_type": "fer"
+  },
+  {
+    "two_theta": 25.269,
+    "intensity": 24.2,
+    "name": "TMA-RUB-18 poly-1",
+    "slug": "tma-rub-18-poly-1",
+    "is_related_material": false,
+    "layer_type": "rwr"
+  },
+  {
+    "two_theta": 25.343,
+    "intensity": 88.1,
+    "name": "Helix-Layered-Silicate",
+    "slug": "helix-layered-silicate",
+    "is_related_material": false,
+    "layer_type": "ast"
+  },
+  {
+    "two_theta": 25.369,
+    "intensity": 17.4,
+    "name": "MCM-47",
+    "slug": "mcm-47",
+    "is_related_material": false,
+    "layer_type": "fer"
+  },
+  {
+    "two_theta": 25.395,
+    "intensity": 13.8,
+    "name": "MCM-47",
+    "slug": "mcm-47",
+    "is_related_material": false,
+    "layer_type": "fer"
+  },
+  {
+    "two_theta": 25.398,
+    "intensity": 10.9,
+    "name": "RUB-48",
+    "slug": "rub-48",
+    "is_related_material": false,
+    "layer_type": "fer"
+  },
+  {
+    "two_theta": 25.409,
+    "intensity": 24.2,
+    "name": "RUB-38",
+    "slug": "rub-38",
+    "is_related_material": false,
+    "layer_type": "fer"
+  },
+  {
+    "two_theta": 25.421,
+    "intensity": 11,
+    "name": "RUB-52 dehydrated",
+    "slug": "rub-52-dehydrated",
+    "is_related_material": false,
+    "layer_type": "hus"
+  },
+  {
+    "two_theta": 25.428,
+    "intensity": 17.8,
+    "name": "RUB-48",
+    "slug": "rub-48",
+    "is_related_material": false,
+    "layer_type": "fer"
+  },
+  {
+    "two_theta": 25.43,
+    "intensity": 12.3,
+    "name": "RUB-36",
+    "slug": "rub-36",
+    "is_related_material": false,
+    "layer_type": "fer"
+  },
+  {
+    "two_theta": 25.435,
+    "intensity": 21.5,
+    "name": "RUB-36",
+    "slug": "rub-36",
+    "is_related_material": false,
+    "layer_type": "fer"
+  },
+  {
+    "two_theta": 25.441,
+    "intensity": 4.1,
+    "name": "RUB-54",
+    "slug": "rub-54",
+    "is_related_material": false,
+    "layer_type": "hus"
+  },
+  {
+    "two_theta": 25.442,
+    "intensity": 20.5,
+    "name": "RUB-38",
+    "slug": "rub-38",
+    "is_related_material": false,
+    "layer_type": "fer"
+  },
+  {
+    "two_theta": 25.451,
+    "intensity": 23.2,
+    "name": "RUB-20",
+    "slug": "rub-20",
+    "is_related_material": false,
+    "layer_type": "-fer"
+  },
+  {
+    "two_theta": 25.452,
+    "intensity": 14.9,
+    "name": "PLS-3",
+    "slug": "pls-3",
+    "is_related_material": false,
+    "layer_type": "fer"
+  },
+  {
+    "two_theta": 25.471,
+    "intensity": 68.7,
+    "name": "Helix-Layered-Silicate",
+    "slug": "helix-layered-silicate",
+    "is_related_material": false,
+    "layer_type": "ast"
+  },
+  {
+    "two_theta": 25.481,
+    "intensity": 11.4,
+    "name": "Prefer hydrated",
+    "slug": "prefer-hydrated",
+    "is_related_material": false,
+    "layer_type": "fer"
+  },
+  {
+    "two_theta": 25.485,
+    "intensity": 17.7,
+    "name": "ERS-12",
+    "slug": "ers-12",
+    "is_related_material": false,
+    "layer_type": "fer"
+  },
+  {
+    "two_theta": 25.505,
+    "intensity": 11.6,
+    "name": "Prefer hydrated",
+    "slug": "prefer-hydrated",
+    "is_related_material": false,
+    "layer_type": "fer"
+  },
+  {
+    "two_theta": 25.531,
+    "intensity": 15.2,
+    "name": "RUB-53",
+    "slug": "rub-53",
+    "is_related_material": false,
+    "layer_type": "hus"
+  },
+  {
+    "two_theta": 25.551,
+    "intensity": 10.4,
+    "name": "Nu-6(1)",
+    "slug": "nu-61",
+    "is_related_material": false,
+    "layer_type": "cas"
+  },
+  {
+    "two_theta": 25.567,
+    "intensity": 66,
+    "name": "HUS-1",
+    "slug": "hus-1",
+    "is_related_material": false,
+    "layer_type": "ast"
+  },
+  {
+    "two_theta": 25.574,
+    "intensity": 33.2,
+    "name": "Na-RUB-18",
+    "slug": "na-rub-18",
+    "is_related_material": false,
+    "layer_type": "rwr"
+  },
+  {
+    "two_theta": 25.595,
+    "intensity": 19.5,
+    "name": "ERS-12",
+    "slug": "ers-12",
+    "is_related_material": false,
+    "layer_type": "fer"
+  },
+  {
+    "two_theta": 25.646,
+    "intensity": 19.6,
+    "name": "RUB-20",
+    "slug": "rub-20",
+    "is_related_material": false,
+    "layer_type": "-fer"
+  },
+  {
+    "two_theta": 25.662,
+    "intensity": 8.1,
+    "name": "RUB-39",
+    "slug": "rub-39",
+    "is_related_material": false,
+    "layer_type": "heu"
+  },
+  {
+    "two_theta": 25.672,
+    "intensity": 45.2,
+    "name": "AA-RUB-18",
+    "slug": "aa-rub-18",
+    "is_related_material": false,
+    "layer_type": "rwr"
+  },
+  {
+    "two_theta": 25.697,
+    "intensity": 17.4,
+    "name": "RUB-53",
+    "slug": "rub-53",
+    "is_related_material": false,
+    "layer_type": "hus"
+  },
+  {
+    "two_theta": 25.706,
+    "intensity": 24.2,
+    "name": "RUB-55",
+    "slug": "rub-55",
+    "is_related_material": false,
+    "layer_type": "ast"
+  },
+  {
+    "two_theta": 25.718,
+    "intensity": 28.7,
+    "name": "H-Apophyllite",
+    "slug": "h-apophyllite",
+    "is_related_material": false,
+    "layer_type": "aco"
+  },
+  {
+    "two_theta": 25.81,
+    "intensity": 7.7,
+    "name": "TMA-RUB-18 poly-2",
+    "slug": "tma-rub-18-poly-2",
+    "is_related_material": false,
+    "layer_type": "rwr"
+  },
+  {
+    "two_theta": 25.879,
+    "intensity": 16.8,
+    "name": "RUB-51",
+    "slug": "rub-51",
+    "is_related_material": false,
+    "layer_type": "sod"
+  },
+  {
+    "two_theta": 25.881,
+    "intensity": 13.6,
+    "name": "EU-19",
+    "slug": "eu-19",
+    "is_related_material": false,
+    "layer_type": "cas"
+  },
+  {
+    "two_theta": 25.893,
+    "intensity": 10.6,
+    "name": "PLS-3",
+    "slug": "pls-3",
+    "is_related_material": false,
+    "layer_type": "fer"
+  },
+  {
+    "two_theta": 25.909,
+    "intensity": 38.2,
+    "name": "Magadiite",
+    "slug": "magadiite",
+    "is_related_material": false,
+    "layer_type": "mag"
+  },
+  {
+    "two_theta": 25.942,
+    "intensity": 41.3,
+    "name": "Kenyaite",
+    "slug": "kenyaite",
+    "is_related_material": false,
+    "layer_type": "six"
+  },
+  {
+    "two_theta": 25.958,
+    "intensity": 57.3,
+    "name": "Kanemite",
+    "slug": "kanemite",
+    "is_related_material": false,
+    "layer_type": "kan"
+  },
+  {
+    "two_theta": 26.031,
+    "intensity": 70.3,
+    "name": "Makatite",
+    "slug": "makatite",
+    "is_related_material": true,
+    "layer_type": null
+  },
+  {
+    "two_theta": 26.109,
+    "intensity": 12.8,
+    "name": "RUB-51",
+    "slug": "rub-51",
+    "is_related_material": false,
+    "layer_type": "sod"
+  },
+  {
+    "two_theta": 26.153,
+    "intensity": 11.2,
+    "name": "ULS-1",
+    "slug": "uls-1",
+    "is_related_material": false,
+    "layer_type": "sod"
+  },
+  {
+    "two_theta": 26.165,
+    "intensity": 10.2,
+    "name": "MCM-47",
+    "slug": "mcm-47",
+    "is_related_material": false,
+    "layer_type": "fer"
+  },
+  {
+    "two_theta": 26.207,
+    "intensity": 15.3,
+    "name": "RUB-38",
+    "slug": "rub-38",
+    "is_related_material": false,
+    "layer_type": "fer"
+  },
+  {
+    "two_theta": 26.239,
+    "intensity": 17.9,
+    "name": "RUB-15",
+    "slug": "rub-15",
+    "is_related_material": false,
+    "layer_type": "sod"
+  },
+  {
+    "two_theta": 26.314,
+    "intensity": 12.8,
+    "name": "Nu-6(1)",
+    "slug": "nu-61",
+    "is_related_material": false,
+    "layer_type": "cas"
+  },
+  {
+    "two_theta": 26.366,
+    "intensity": 12.6,
+    "name": "H-LDS",
+    "slug": "h-lds",
+    "is_related_material": false,
+    "layer_type": "kan"
+  },
+  {
+    "two_theta": 26.513,
+    "intensity": 100,
+    "name": "MCM-22(p)",
+    "slug": "mcm-22p",
+    "is_related_material": false,
+    "layer_type": "mww"
+  },
+  {
+    "two_theta": 26.542,
+    "intensity": 25.6,
+    "name": "H-Carletonite",
+    "slug": "h-carletonite",
+    "is_related_material": false,
+    "layer_type": "car"
+  },
+  {
+    "two_theta": 26.568,
+    "intensity": 11,
+    "name": "EU-19",
+    "slug": "eu-19",
+    "is_related_material": false,
+    "layer_type": "cas"
+  },
+  {
+    "two_theta": 26.588,
+    "intensity": 10.5,
+    "name": "RUB-48",
+    "slug": "rub-48",
+    "is_related_material": false,
+    "layer_type": "fer"
+  },
+  {
+    "two_theta": 26.655,
+    "intensity": 10.1,
+    "name": "RUB-36",
+    "slug": "rub-36",
+    "is_related_material": false,
+    "layer_type": "fer"
+  },
+  {
+    "two_theta": 26.73,
+    "intensity": 24,
+    "name": "AES-21",
+    "slug": "aes-21",
+    "is_related_material": true,
+    "layer_type": null
+  },
+  {
+    "two_theta": 26.758,
+    "intensity": 18.1,
+    "name": "Nu-6(1)",
+    "slug": "nu-61",
+    "is_related_material": false,
+    "layer_type": "cas"
+  },
+  {
+    "two_theta": 26.784,
+    "intensity": 15.7,
+    "name": "TMA-RUB-18 poly-1",
+    "slug": "tma-rub-18-poly-1",
+    "is_related_material": false,
+    "layer_type": "rwr"
+  },
+  {
+    "two_theta": 26.807,
+    "intensity": 11,
+    "name": "ERS-12",
+    "slug": "ers-12",
+    "is_related_material": false,
+    "layer_type": "fer"
+  },
+  {
+    "two_theta": 26.818,
+    "intensity": 19.4,
+    "name": "Kenyaite",
+    "slug": "kenyaite",
+    "is_related_material": false,
+    "layer_type": "six"
+  },
+  {
+    "two_theta": 26.822,
+    "intensity": 7.6,
+    "name": "Prefer dehydrated",
+    "slug": "prefer-dehydrated",
+    "is_related_material": false,
+    "layer_type": "fer"
+  },
+  {
+    "two_theta": 26.941,
+    "intensity": 100,
+    "name": "H-RUB-18",
+    "slug": "h-rub-18",
+    "is_related_material": false,
+    "layer_type": "rwr"
+  },
+  {
+    "two_theta": 27.005,
+    "intensity": 29.1,
+    "name": "Magadiite",
+    "slug": "magadiite",
+    "is_related_material": false,
+    "layer_type": "mag"
+  },
+  {
+    "two_theta": 27.052,
+    "intensity": 8.3,
+    "name": "TMA-RUB-18 poly-2",
+    "slug": "tma-rub-18-poly-2",
+    "is_related_material": false,
+    "layer_type": "rwr"
+  },
+  {
+    "two_theta": 27.131,
+    "intensity": 22.7,
+    "name": "Na-RUB-18",
+    "slug": "na-rub-18",
+    "is_related_material": false,
+    "layer_type": "rwr"
+  },
+  {
+    "two_theta": 27.273,
+    "intensity": 16.3,
+    "name": "EU-19",
+    "slug": "eu-19",
+    "is_related_material": false,
+    "layer_type": "cas"
+  },
+  {
+    "two_theta": 27.347,
+    "intensity": 14.8,
+    "name": "EU-19",
+    "slug": "eu-19",
+    "is_related_material": false,
+    "layer_type": "cas"
+  },
+  {
+    "two_theta": 27.431,
+    "intensity": 36.1,
+    "name": "AMH-3",
+    "slug": "amh-3",
+    "is_related_material": true,
+    "layer_type": null
+  },
+  {
+    "two_theta": 27.559,
+    "intensity": 10.5,
+    "name": "Prefer hydrated",
+    "slug": "prefer-hydrated",
+    "is_related_material": false,
+    "layer_type": "fer"
+  },
+  {
+    "two_theta": 27.573,
+    "intensity": 7.7,
+    "name": "Prefer dehydrated",
+    "slug": "prefer-dehydrated",
+    "is_related_material": false,
+    "layer_type": "fer"
+  },
+  {
+    "two_theta": 27.622,
+    "intensity": 13.1,
+    "name": "AA-RUB-18",
+    "slug": "aa-rub-18",
+    "is_related_material": false,
+    "layer_type": "rwr"
+  },
+  {
+    "two_theta": 27.796,
+    "intensity": 93.2,
+    "name": "AES-19",
+    "slug": "aes-19",
+    "is_related_material": true,
+    "layer_type": null
+  },
+  {
+    "two_theta": 27.826,
+    "intensity": 88.2,
+    "name": "AES-20",
+    "slug": "aes-20",
+    "is_related_material": true,
+    "layer_type": null
+  },
+  {
+    "two_theta": 27.855,
+    "intensity": 29.8,
+    "name": "Kenyaite",
+    "slug": "kenyaite",
+    "is_related_material": false,
+    "layer_type": "six"
+  },
+  {
+    "two_theta": 28.154,
+    "intensity": 17.3,
+    "name": "H-LDS",
+    "slug": "h-lds",
+    "is_related_material": false,
+    "layer_type": "kan"
+  },
+  {
+    "two_theta": 28.212,
+    "intensity": 24.8,
+    "name": "AES-21",
+    "slug": "aes-21",
+    "is_related_material": true,
+    "layer_type": null
+  },
+  {
+    "two_theta": 28.282,
+    "intensity": 17.8,
+    "name": "Magadiite",
+    "slug": "magadiite",
+    "is_related_material": false,
+    "layer_type": "mag"
+  },
+  {
+    "two_theta": 28.388,
+    "intensity": 19.7,
+    "name": "Magadiite",
+    "slug": "magadiite",
+    "is_related_material": false,
+    "layer_type": "mag"
+  },
+  {
+    "two_theta": 28.488,
+    "intensity": 29.7,
+    "name": "AES-21",
+    "slug": "aes-21",
+    "is_related_material": true,
+    "layer_type": null
+  },
+  {
+    "two_theta": 28.507,
+    "intensity": 33.7,
+    "name": "Makatite",
+    "slug": "makatite",
+    "is_related_material": true,
+    "layer_type": null
+  },
+  {
+    "two_theta": 28.707,
+    "intensity": 44.9,
+    "name": "H-Carletonite",
+    "slug": "h-carletonite",
+    "is_related_material": false,
+    "layer_type": "car"
+  },
+  {
+    "two_theta": 28.825,
+    "intensity": 24.9,
+    "name": "AES-21",
+    "slug": "aes-21",
+    "is_related_material": true,
+    "layer_type": null
+  },
+  {
+    "two_theta": 28.829,
+    "intensity": 26.9,
+    "name": "Kanemite",
+    "slug": "kanemite",
+    "is_related_material": false,
+    "layer_type": "kan"
+  },
+  {
+    "two_theta": 29.093,
+    "intensity": 42.8,
+    "name": "AES-18",
+    "slug": "aes-18",
+    "is_related_material": true,
+    "layer_type": null
+  },
+  {
+    "two_theta": 29.183,
+    "intensity": 46.8,
+    "name": "Na-RUB-18",
+    "slug": "na-rub-18",
+    "is_related_material": false,
+    "layer_type": "rwr"
+  },
+  {
+    "two_theta": 29.39,
+    "intensity": 51.2,
+    "name": "AMH-3",
+    "slug": "amh-3",
+    "is_related_material": true,
+    "layer_type": null
+  },
+  {
+    "two_theta": 29.551,
+    "intensity": 93,
+    "name": "AES-1",
+    "slug": "aes-1",
+    "is_related_material": true,
+    "layer_type": null
+  },
+  {
+    "two_theta": 29.616,
+    "intensity": 91,
+    "name": "Silinaite",
+    "slug": "silinaite",
+    "is_related_material": true,
+    "layer_type": null
+  },
+  {
+    "two_theta": 29.782,
+    "intensity": 41.4,
+    "name": "Makatite",
+    "slug": "makatite",
+    "is_related_material": true,
+    "layer_type": null
+  },
+  {
+    "two_theta": 29.809,
+    "intensity": 74,
+    "name": "AES-19",
+    "slug": "aes-19",
+    "is_related_material": true,
+    "layer_type": null
+  },
+  {
+    "two_theta": 30.086,
+    "intensity": 46.8,
+    "name": "AMH-3",
+    "slug": "amh-3",
+    "is_related_material": true,
+    "layer_type": null
+  },
+  {
+    "two_theta": 30.18,
+    "intensity": 58.5,
+    "name": "AES-1",
+    "slug": "aes-1",
+    "is_related_material": true,
+    "layer_type": null
+  },
+  {
+    "two_theta": 30.41,
+    "intensity": 45.7,
+    "name": "AES-19",
+    "slug": "aes-19",
+    "is_related_material": true,
+    "layer_type": null
+  },
+  {
+    "two_theta": 30.485,
+    "intensity": 42,
+    "name": "AES-19",
+    "slug": "aes-19",
+    "is_related_material": true,
+    "layer_type": null
+  },
+  {
+    "two_theta": 30.947,
+    "intensity": 30.4,
+    "name": "H-RUB-18",
+    "slug": "h-rub-18",
+    "is_related_material": false,
+    "layer_type": "rwr"
+  },
+  {
+    "two_theta": 30.954,
+    "intensity": 34.3,
+    "name": "AES-1",
+    "slug": "aes-1",
+    "is_related_material": true,
+    "layer_type": null
+  },
+  {
+    "two_theta": 31.371,
+    "intensity": 49.6,
+    "name": "Silinaite",
+    "slug": "silinaite",
+    "is_related_material": true,
+    "layer_type": null
+  },
+  {
+    "two_theta": 31.433,
+    "intensity": 22.3,
+    "name": "Disilicic Acid",
+    "slug": "disilicic-acid",
+    "is_related_material": false,
+    "layer_type": "cri"
+  },
+  {
+    "two_theta": 31.957,
+    "intensity": 70.4,
+    "name": "AES-20",
+    "slug": "aes-20",
+    "is_related_material": true,
+    "layer_type": null
+  },
+  {
+    "two_theta": 32.518,
+    "intensity": 11.3,
+    "name": "Disilicic Acid",
+    "slug": "disilicic-acid",
+    "is_related_material": false,
+    "layer_type": "cri"
+  },
+  {
+    "two_theta": 32.536,
+    "intensity": 25.6,
+    "name": "AES-21",
+    "slug": "aes-21",
+    "is_related_material": true,
+    "layer_type": null
+  },
+  {
+    "two_theta": 32.696,
+    "intensity": 37.8,
+    "name": "AES-19",
+    "slug": "aes-19",
+    "is_related_material": true,
+    "layer_type": null
+  },
+  {
+    "two_theta": 33.125,
+    "intensity": 35.6,
+    "name": "Silinaite",
+    "slug": "silinaite",
+    "is_related_material": true,
+    "layer_type": null
+  },
+  {
+    "two_theta": 33.657,
+    "intensity": 10.2,
+    "name": "H-LDS",
+    "slug": "h-lds",
+    "is_related_material": false,
+    "layer_type": "kan"
+  },
+  {
+    "two_theta": 33.854,
+    "intensity": 13.4,
+    "name": "H-Carletonite",
+    "slug": "h-carletonite",
+    "is_related_material": false,
+    "layer_type": "car"
+  },
+  {
+    "two_theta": 34.179,
+    "intensity": 11.6,
+    "name": "RUB-55",
+    "slug": "rub-55",
+    "is_related_material": false,
+    "layer_type": "ast"
+  },
+  {
+    "two_theta": 35.188,
+    "intensity": 89,
+    "name": "AES-18",
+    "slug": "aes-18",
+    "is_related_material": true,
+    "layer_type": null
+  },
+  {
+    "two_theta": 35.229,
+    "intensity": 42,
+    "name": "AES-18",
+    "slug": "aes-18",
+    "is_related_material": true,
+    "layer_type": null
+  },
+  {
+    "two_theta": 35.906,
+    "intensity": 31.3,
+    "name": "AES-1",
+    "slug": "aes-1",
+    "is_related_material": true,
+    "layer_type": null
+  },
+  {
+    "two_theta": 36.605,
+    "intensity": 10.9,
+    "name": "H-LDS",
+    "slug": "h-lds",
+    "is_related_material": false,
+    "layer_type": "kan"
+  }
+]

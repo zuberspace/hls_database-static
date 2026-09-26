@@ -182,7 +182,22 @@ async function loadJson(path) {
 function routeDataUrl(first, parts) {
   if ((first === "hls" || first === "rm") && parts[1]) return `${state.dataBase}/materials/${parts[1]}.json`;
   if (first === "lt" && parts[1]) return `${state.dataBase}/layer-types/${parts[1]}.json`;
+  if (first === "references") return `${state.dataBase}/references.json`;
+  if (first === "table") return `${state.dataBase}/peak-table.json`;
   return null;
+}
+
+// The references list and the peak table live in their own files (see
+// tools/split_index.py), so index.json — fetched on every route — stays small.
+// They are preloaded in route() before the view transition and cached here.
+async function loadReferences() {
+  if (!state.references) state.references = await loadJson(`${state.dataBase}/references.json`);
+  return state.references;
+}
+
+async function loadPeakTable() {
+  if (!state.peakTable) state.peakTable = await loadJson(`${state.dataBase}/peak-table.json`);
+  return state.peakTable;
 }
 
 async function loadCoreData() {
@@ -402,10 +417,11 @@ function renderOverview() {
   ].join("");
 }
 
-function renderTable() {
-  // index.json carries a prebuilt peak table; fetching the 52 per-material files
-  // for this cost 51 MB and stalled the page for a table of a few hundred rows.
-  const rows = (state.index.peak_table || []).map((p) => ({
+async function renderTable() {
+  // The prebuilt peak table lives in its own file; fetching the 52 per-material
+  // files instead cost 51 MB and stalled the page for a few hundred rows.
+  await loadPeakTable();
+  const rows = (state.peakTable || []).map((p) => ({
     twoTheta: Number(p.two_theta), intensity: Number(p.intensity),
     name: p.name, slug: p.slug, isRelated: p.is_related_material, layerType: p.layer_type || "",
   }));
@@ -441,7 +457,7 @@ function downloadButton(count, handler) {
 }
 
 function loadIdentificationCsv() {
-  const rows = state.index.peak_table || [];
+  const rows = state.peakTable || [];
   const header = ["2theta", "Intensity (rel.)", "Name", "Layer type"];
   const body = rows.map((p) => [
     p.two_theta,
@@ -508,7 +524,8 @@ function formatReference(reference) {
 }
 
 async function renderReferences() {
-  const refs = state.index.references || [];
+  await loadReferences();
+  const refs = state.references || [];
   const sortedRefs = [...refs].sort((a, b) => a.display_num - b.display_num);
   const content = `<div class="space-y-1">${sortedRefs.map((r) => formatReference(r)).join("")}</div>`;
   const block = menuBlock("References");
@@ -987,10 +1004,10 @@ async function route() {
       else if (first === "rm" && parts[1]) rendered = renderMaterial("rm", parts[1], parts[2], superseded);
       else if (first === "lt" && parts[1]) rendered = renderLayerType(parts[1], superseded);
       else if (first === "list") renderSimpleList();
-      else if (first === "table") renderTable();
+      else if (first === "table") rendered = renderTable();
       else if (first === "overview") renderOverview();
       else if (first === "information") renderInformation();
-      else if (first === "references") renderReferences();
+      else if (first === "references") rendered = renderReferences();
       else if (first === "howtocite") renderHowToCite();
       else if (first === "contact") renderContact();
       else app.innerHTML = "<h1 class='text-2xl font-bold p-4 text-gray-800'>Not Found</h1>";
