@@ -85,6 +85,10 @@ def main() -> None:
     (output_root / "index.html").write_text(index_html, encoding="utf-8")
     print(f"Build id: {build_id}")
     copy_file(app_root / "404.html", output_root / "404.html")
+    # Icons and robots.txt sit in app/ and are copied straight through.
+    for extra in ("favicon.svg", "robots.txt"):
+        if (app_root / extra).exists():
+            copy_file(app_root / extra, output_root / extra)
     shutil.copytree(app_root / "assets", output_root / "assets", dirs_exist_ok=True)
     shutil.copytree(data_root, output_root / "data", dirs_exist_ok=True)
     shutil.copytree(jsmol_root, output_root / "staticfiles" / "database" / "jsmol", dirs_exist_ok=True)
