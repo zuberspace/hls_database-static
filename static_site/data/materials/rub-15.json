@@ -27,15 +27,16 @@
     "powder_pattern_data": "powder_pattern/RUB-15_powder_pattern.csv",
     "reflections_data": "reflections/RUB-15_Ref.csv",
     "fractional_atomic_coordinates_data": "facs/RUB-15_fracs_gPlmTng.csv",
-    "structure_plot": "plots/SP_RUB-15_cut.jpg",
-    "atr_ir_spectrum_data": "atr_ir_spectra/IR_rub15_pur.CSV"
+    "structure_plot": "plots/SP_RUB-15_cut.webp",
+    "atr_ir_spectrum_data": "atr_ir_spectra/IR_rub15_pur.CSV",
+    "structure_plot_original": "plots/SP_RUB-15_cut.jpg"
   },
   "synthesis": [
     {
       "pk": 21,
       "mixture": "1 SiO<sub>2</sub> : 0.75 SDA : 55.52 H<sub>2</sub>O",
       "sda": "Tetramethylammonium hydroxide",
-      "temperature": 120.0,
+      "temperature": 120,
       "duration": "5-28 d",
       "conditions": "",
       "comment": "",
@@ -101,9 +102,9 @@
       "a": 27.905,
       "b": 8.408,
       "c": 11.518,
-      "alpha": 90.0,
-      "beta": 90.0,
-      "gamma": 90.0,
+      "alpha": 90,
+      "beta": 90,
+      "gamma": 90,
       "comment": "The chemical composition as presented in the title of the publication is incorrect, four protons are missing",
       "reference": {
         "pk": 27,

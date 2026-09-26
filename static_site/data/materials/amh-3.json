@@ -23,15 +23,16 @@
     "powder_pattern_data": "powder_pattern/AMH-3_powder_pattern_c9UWMwA.csv",
     "reflections_data": "reflections/AMH-3_Reflections.csv",
     "fractional_atomic_coordinates_data": "facs/AMH-3_Fracs.csv",
-    "structure_plot": "plots/sp_amh-3_cut.jpg",
-    "atr_ir_spectrum_data": "atr_ir_spectra/AMH-3_ir.csv"
+    "structure_plot": "plots/sp_amh-3_cut.webp",
+    "atr_ir_spectrum_data": "atr_ir_spectra/AMH-3_ir.csv",
+    "structure_plot_original": "plots/sp_amh-3_cut.jpg"
   },
   "synthesis": [
     {
       "pk": 33,
       "mixture": "10 SiO<sub>2</sub> : 1 TiO<sub>2</sub> : 14 NaOH : 2 SrCl<sub>2</sub> : 675 H<sub>2</sub>O",
       "sda": "Na<sup>+</sup>, Sr<sup>2+</sup>",
-      "temperature": 200.0,
+      "temperature": 200,
       "duration": "3 d",
       "conditions": "static",
       "comment": "",
@@ -115,9 +116,9 @@
       "a": 6.94,
       "b": 13.581,
       "c": 22.783,
-      "alpha": 90.0,
+      "alpha": 90,
       "beta": 92.594,
-      "gamma": 90.0,
+      "gamma": 90,
       "comment": "",
       "reference": {
         "pk": 36,

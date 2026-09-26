@@ -2,14 +2,14 @@
   "pk": 11,
   "name": "lev",
   "slug": "lev",
-  "ratio_q3q4": 1.0,
-  "composition_si": 32.0,
-  "composition_o": 72.0,
+  "ratio_q3q4": 1,
+  "composition_si": 32,
+  "composition_o": 72,
   "ratio_sio": "2.25",
   "thickness": 8.9,
   "layer_charge": 0.037,
   "d_oh_oh": 2.4,
-  "plot": "layer_types/lev_top.png",
+  "plot": "layer_types/lev_top.webp",
   "materials": [
     {
       "pk": 15,
@@ -23,5 +23,6 @@
       "slug": "rub-56",
       "is_related_material": false
     }
-  ]
+  ],
+  "plot_original": "layer_types/lev_top.png"
 }

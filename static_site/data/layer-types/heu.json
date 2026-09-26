@@ -3,13 +3,13 @@
   "name": "heu",
   "slug": "heu",
   "ratio_q3q4": 3.5,
-  "composition_si": 18.0,
-  "composition_o": 38.0,
+  "composition_si": 18,
+  "composition_o": 38,
   "ratio_sio": "2.11",
   "thickness": 7.8,
   "layer_charge": 0.017,
-  "d_oh_oh": 7.0,
-  "plot": "layer_types/heu_top.png",
+  "d_oh_oh": 7,
+  "plot": "layer_types/heu_top.webp",
   "materials": [
     {
       "pk": 25,
@@ -17,5 +17,6 @@
       "slug": "rub-39",
       "is_related_material": false
     }
-  ]
+  ],
+  "plot_original": "layer_types/heu_top.png"
 }

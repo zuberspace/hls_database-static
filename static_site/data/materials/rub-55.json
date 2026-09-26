@@ -23,15 +23,16 @@
     "powder_pattern_data": "powder_pattern/RUB-55_powder_pattern.csv",
     "reflections_data": "reflections/RUB-55_ref.csv",
     "fractional_atomic_coordinates_data": "facs/RUB-55_fracs.csv",
-    "structure_plot": "plots/SP_RUB-55_cut.jpg",
-    "atr_ir_spectrum_data": "atr_ir_spectra/RuB55_pur.csv"
+    "structure_plot": "plots/SP_RUB-55_cut.webp",
+    "atr_ir_spectrum_data": "atr_ir_spectra/RuB55_pur.csv",
+    "structure_plot_original": "plots/SP_RUB-55_cut.jpg"
   },
   "synthesis": [
     {
       "pk": 41,
       "mixture": "1 SiO<sub>2</sub> : 1 SDA : 15 H<sub>2</sub>O",
       "sda": "Tetramethylammonium",
-      "temperature": 160.0,
+      "temperature": 160,
       "duration": "8 d",
       "conditions": "static",
       "comment": "",
@@ -91,9 +92,9 @@
       "a": 8.787,
       "b": 8.787,
       "c": 14.653,
-      "alpha": 90.0,
-      "beta": 90.0,
-      "gamma": 90.0,
+      "alpha": 90,
+      "beta": 90,
+      "gamma": 90,
       "comment": "",
       "reference": {
         "pk": 43,

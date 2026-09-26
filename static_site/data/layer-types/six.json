@@ -2,14 +2,14 @@
   "pk": 17,
   "name": "six",
   "slug": "six",
-  "ratio_q3q4": 4.0,
-  "composition_si": 40.0,
-  "composition_o": 84.0,
+  "ratio_q3q4": 4,
+  "composition_si": 40,
+  "composition_o": 84,
   "ratio_sio": "2.10",
   "thickness": 15.9,
   "layer_charge": 0.037,
   "d_oh_oh": 2.4,
-  "plot": "layer_types/six-layer_für_Database.jpg",
+  "plot": "layer_types/six-layer_für_Database.webp",
   "materials": [
     {
       "pk": 50,
@@ -23,5 +23,6 @@
       "slug": "rub-6",
       "is_related_material": false
     }
-  ]
+  ],
+  "plot_original": "layer_types/six-layer_für_Database.jpg"
 }

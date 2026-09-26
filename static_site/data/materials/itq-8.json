@@ -27,15 +27,16 @@
     "powder_pattern_data": "powder_pattern/ITQ-8-powder-pattern.csv",
     "reflections_data": "reflections/itq-8_reflexe_neu_qf2xDov.csv",
     "fractional_atomic_coordinates_data": "facs/ITQ-8_Coordinates.csv",
-    "structure_plot": "plots/SP_ITQ-8_cut.jpg",
-    "atr_ir_spectrum_data": "atr_ir_spectra/ITQ-8_Camblo.csv"
+    "structure_plot": "plots/SP_ITQ-8_cut.webp",
+    "atr_ir_spectrum_data": "atr_ir_spectra/ITQ-8_Camblo.csv",
+    "structure_plot_original": "plots/SP_ITQ-8_cut.jpg"
   },
   "synthesis": [
     {
       "pk": 15,
       "mixture": "0.25 SDA : 1 SiO<sub>2</sub> : 0.5 HF : 3.5 H<sub>2</sub>O",
       "sda": "Diquinuclidiniumbutane hydroxide",
-      "temperature": 175.0,
+      "temperature": 175,
       "duration": "2.5 d",
       "conditions": "under rotation",
       "comment": "",
@@ -101,9 +102,9 @@
       "a": 35.509,
       "b": 13.39,
       "c": 16.029,
-      "alpha": 90.0,
+      "alpha": 90,
       "beta": 106.74,
-      "gamma": 90.0,
+      "gamma": 90,
       "comment": "",
       "reference": {
         "pk": 20,

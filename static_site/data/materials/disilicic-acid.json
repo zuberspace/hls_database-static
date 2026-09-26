@@ -23,8 +23,9 @@
     "powder_pattern_data": "powder_pattern/Disilicic_acid_calc.csv",
     "reflections_data": "reflections/disilisic_acid_reflections.csv",
     "fractional_atomic_coordinates_data": "facs/disilisic_acid_facs.csv",
-    "structure_plot": "plots/SP_Disilicic_Acid_cut.jpg",
-    "atr_ir_spectrum_data": null
+    "structure_plot": "plots/SP_Disilicic_Acid_cut.webp",
+    "atr_ir_spectrum_data": null,
+    "structure_plot_original": "plots/SP_Disilicic_Acid_cut.jpg"
   },
   "synthesis": [
     {
@@ -73,9 +74,9 @@
       "a": 6.12,
       "b": 15.4,
       "c": 4.96,
-      "alpha": 90.0,
-      "beta": 90.0,
-      "gamma": 90.0,
+      "alpha": 90,
+      "beta": 90,
+      "gamma": 90,
       "comment": "",
       "reference": {
         "pk": 7,

@@ -33,15 +33,16 @@
     "powder_pattern_data": "powder_pattern/ERS-12_calc.csv",
     "reflections_data": "reflections/ERS-12-Reflections.csv",
     "fractional_atomic_coordinates_data": "facs/ERS-12-Fracs.csv",
-    "structure_plot": "plots/SP_ERS-12_cut.jpg",
-    "atr_ir_spectrum_data": null
+    "structure_plot": "plots/SP_ERS-12_cut.webp",
+    "atr_ir_spectrum_data": null,
+    "structure_plot_original": "plots/SP_ERS-12_cut.jpg"
   },
   "synthesis": [
     {
       "pk": 4,
       "mixture": "0.45 SDA : 1 SiO<sub>2</sub> : 40 H<sub>2</sub>O",
       "sda": "Tetramethylammonium hydroxide",
-      "temperature": 180.0,
+      "temperature": 180,
       "duration": "8 d",
       "conditions": "static",
       "comment": "",
@@ -119,9 +120,9 @@
       "a": 10.5605,
       "b": 13.9694,
       "c": 7.4148,
-      "alpha": 90.0,
+      "alpha": 90,
       "beta": 97.98,
-      "gamma": 90.0,
+      "gamma": 90,
       "comment": "",
       "reference": {
         "pk": 8,

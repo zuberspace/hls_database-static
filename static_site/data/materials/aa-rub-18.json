@@ -23,15 +23,16 @@
     "powder_pattern_data": "powder_pattern/aa-rub-18_powder_pattern_vdLzPg3.csv",
     "reflections_data": "reflections/aa-rub-18_reflections_AdLKcQc.csv",
     "fractional_atomic_coordinates_data": "facs/aa-rub-18_facs_q5ZZJWc.csv",
-    "structure_plot": "plots/SP_AA-RUB-18_cut.jpg",
-    "atr_ir_spectrum_data": "atr_ir_spectra/aa-rub-18_ir_VmIdQEp.csv"
+    "structure_plot": "plots/SP_AA-RUB-18_cut.webp",
+    "atr_ir_spectrum_data": "atr_ir_spectra/aa-rub-18_ir_VmIdQEp.csv",
+    "structure_plot_original": "plots/SP_AA-RUB-18_cut.jpg"
   },
   "synthesis": [
     {
       "pk": 1,
       "mixture": "Na-RUB-18 exchanged with acetic acid",
       "sda": "acetic acid molecules",
-      "temperature": 25.0,
+      "temperature": 25,
       "duration": "1-4 d",
       "conditions": "",
       "comment": "",
@@ -103,9 +104,9 @@
       "a": 7.473,
       "b": 7.472,
       "c": 37.242,
-      "alpha": 90.0,
-      "beta": 90.0,
-      "gamma": 90.0,
+      "alpha": 90,
+      "beta": 90,
+      "gamma": 90,
       "comment": "The powder pattern contains a few weak peaks of an impurity phase",
       "reference": {
         "pk": 1,

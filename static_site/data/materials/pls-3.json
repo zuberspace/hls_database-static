@@ -23,15 +23,16 @@
     "powder_pattern_data": "powder_pattern/PLS-3_powder_pattern.csv",
     "reflections_data": "reflections/PLS-3_Ref.csv",
     "fractional_atomic_coordinates_data": "facs/PLS-3_fracs.csv",
-    "structure_plot": "plots/SP_PLS-3_cut.jpg",
-    "atr_ir_spectrum_data": "atr_ir_spectra/PLS-3_ir.csv"
+    "structure_plot": "plots/SP_PLS-3_cut.webp",
+    "atr_ir_spectrum_data": "atr_ir_spectra/PLS-3_ir.csv",
+    "structure_plot_original": "plots/SP_PLS-3_cut.jpg"
   },
   "synthesis": [
     {
       "pk": 20,
       "mixture": "1 SiO<sub>2</sub> : 0.1-0.3 SDA : 5.3-15.9 H<sub>2</sub>O",
       "sda": "Tetraethylammonium hydroxide",
-      "temperature": 170.0,
+      "temperature": 170,
       "duration": "24-72 h",
       "conditions": "",
       "comment": "",
@@ -85,9 +86,9 @@
       "a": 13.9873,
       "b": 7.4153,
       "c": 23.323,
-      "alpha": 90.0,
-      "beta": 90.0,
-      "gamma": 90.0,
+      "alpha": 90,
+      "beta": 90,
+      "gamma": 90,
       "comment": "",
       "reference": {
         "pk": 26,

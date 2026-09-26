@@ -23,15 +23,16 @@
     "powder_pattern_data": "powder_pattern/RUB-48_m3ip1sb1.csv",
     "reflections_data": "reflections/RUB-48_Ref.csv",
     "fractional_atomic_coordinates_data": "facs/RUB-48_fracs.csv",
-    "structure_plot": "plots/SP_RUB-48_cut.jpg",
-    "atr_ir_spectrum_data": "atr_ir_spectra/IR_RUB-48.CSV"
+    "structure_plot": "plots/SP_RUB-48_cut.webp",
+    "atr_ir_spectrum_data": "atr_ir_spectra/IR_RUB-48.CSV",
+    "structure_plot_original": "plots/SP_RUB-48_cut.jpg"
   },
   "synthesis": [
     {
       "pk": 27,
       "mixture": "0.5 SDA : 1 SiO<sub>2</sub> : 20 H<sub>2</sub>O",
       "sda": "Trimethylisopropylammonium hydroxide",
-      "temperature": 150.0,
+      "temperature": 150,
       "duration": "15 d",
       "conditions": "static",
       "comment": "",
@@ -89,11 +90,11 @@
       "chemical_composition": "[(CH<sub>3</sub>)<sub>3</sub>(C<sub>3</sub>H<sub>7</sub>)N]<sub>4</sub> [Si<sub>36</sub>O<sub>72</sub>(OH)<sub>4</sub>]",
       "stacking_direction": "a",
       "a": 22.281,
-      "b": 14.0,
+      "b": 14,
       "c": 7.383,
-      "alpha": 90.0,
-      "beta": 90.0,
-      "gamma": 90.0,
+      "alpha": 90,
+      "beta": 90,
+      "gamma": 90,
       "comment": "",
       "reference": {
         "pk": 28,

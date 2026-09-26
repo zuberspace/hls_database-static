@@ -27,15 +27,16 @@
     "powder_pattern_data": "powder_pattern/Beta-HLS_powder_pattern.csv",
     "reflections_data": "reflections/Helix-layered-silicate_Reflections.csv",
     "fractional_atomic_coordinates_data": "facs/Helix-layered-silicate_Fracs.csv",
-    "structure_plot": "plots/SP_Helix-layered-silicate_cut.jpg",
-    "atr_ir_spectrum_data": "atr_ir_spectra/Beta-HLS_ir.csv"
+    "structure_plot": "plots/SP_Helix-layered-silicate_cut.webp",
+    "atr_ir_spectrum_data": "atr_ir_spectra/Beta-HLS_ir.csv",
+    "structure_plot_original": "plots/SP_Helix-layered-silicate_cut.jpg"
   },
   "synthesis": [
     {
       "pk": 10,
       "mixture": "4.7 SiO<sub>2</sub> : 0.0036 SDA : 1.67 NaOH : 15.8 (1,4-)dioxane : 75 H<sub>2</sub>O",
       "sda": "Tetramethylammonium hydroxide",
-      "temperature": 150.0,
+      "temperature": 150,
       "duration": "5 d",
       "conditions": "static",
       "comment": "",
@@ -95,9 +96,9 @@
       "a": 22.864,
       "b": 12.539,
       "c": 12.465,
-      "alpha": 90.0,
-      "beta": 90.0,
-      "gamma": 90.0,
+      "alpha": 90,
+      "beta": 90,
+      "gamma": 90,
       "comment": "",
       "reference": {
         "pk": 12,

@@ -23,15 +23,16 @@
     "powder_pattern_data": "powder_pattern/AES-18_powder_pattern.csv",
     "reflections_data": "reflections/AES-18_ref.csv",
     "fractional_atomic_coordinates_data": "facs/AES-18_fracs.csv",
-    "structure_plot": "plots/SP_AES18.png",
-    "atr_ir_spectrum_data": "atr_ir_spectra/AES-18_ir.csv"
+    "structure_plot": "plots/SP_AES18.webp",
+    "atr_ir_spectrum_data": "atr_ir_spectra/AES-18_ir.csv",
+    "structure_plot_original": "plots/SP_AES18.png"
   },
   "synthesis": [
     {
       "pk": 29,
       "mixture": "1 SiO<sub>2</sub> : 0.1 Sr(OH)<sub>2</sub> : 0.35 KOH : 18 H<sub>2</sub>O",
       "sda": "K<sup>+</sup>, Sr<sup>2+</sup>",
-      "temperature": 150.0,
+      "temperature": 150,
       "duration": "7 d",
       "conditions": "static",
       "comment": "",
@@ -85,9 +86,9 @@
       "a": 9.12738,
       "b": 9.12738,
       "c": 16.2812,
-      "alpha": 90.0,
-      "beta": 90.0,
-      "gamma": 90.0,
+      "alpha": 90,
+      "beta": 90,
+      "gamma": 90,
       "comment": "",
       "reference": null,
       "lp_2d_cell": [

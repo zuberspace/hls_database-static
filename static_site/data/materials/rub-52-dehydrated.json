@@ -23,15 +23,16 @@
     "powder_pattern_data": "powder_pattern/RUB-52_dehyd.csv",
     "reflections_data": "reflections/RUB-52-dehyd_ref.csv",
     "fractional_atomic_coordinates_data": "facs/RUB-52_dehydrated_fracs.csv",
-    "structure_plot": "plots/SP_RUB-52_dehydrated_cut.jpg",
-    "atr_ir_spectrum_data": "atr_ir_spectra/RUB-52_dehydrated_64C.csv"
+    "structure_plot": "plots/SP_RUB-52_dehydrated_cut.webp",
+    "atr_ir_spectrum_data": "atr_ir_spectra/RUB-52_dehydrated_64C.csv",
+    "structure_plot_original": "plots/SP_RUB-52_dehydrated_cut.jpg"
   },
   "synthesis": [
     {
       "pk": 37,
       "mixture": "Dehydration of RUB-52",
       "sda": "Diethyldimethylammonium",
-      "temperature": 70.0,
+      "temperature": 70,
       "duration": "2 d",
       "conditions": "in air",
       "comment": "",

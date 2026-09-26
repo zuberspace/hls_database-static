@@ -296,7 +296,7 @@
         "orthorhombic"
       ],
       "a": 24.8,
-      "b": 23.0,
+      "b": 23,
       "c": 30.1,
       "peaks": [
         5.868,
@@ -1435,7 +1435,7 @@
         "orthorhombic"
       ],
       "a": 22.281,
-      "b": 14.0,
+      "b": 14,
       "c": 7.383,
       "peaks": [
         7.93,
@@ -1959,225 +1959,241 @@
       "pk": 1,
       "name": "aco",
       "slug": "aco",
-      "plot": "layer_types/aco_top.png",
+      "plot": "layer_types/aco_top.webp",
       "material_count": 1,
-      "ratio_q3q4": 0.0,
+      "ratio_q3q4": 0,
       "ratio_sio": "2.50",
-      "composition_si": 16.0,
-      "composition_o": 40.0,
-      "thickness": 5.0,
+      "composition_si": 16,
+      "composition_o": 40,
+      "thickness": 5,
       "layer_charge": 0.056,
-      "d_oh_oh": 3.8
+      "d_oh_oh": 3.8,
+      "plot_original": "layer_types/aco_top.png"
     },
     {
       "pk": 2,
       "name": "ast",
       "slug": "ast",
-      "plot": "layer_types/ast_top.png",
+      "plot": "layer_types/ast_top.webp",
       "material_count": 3,
       "ratio_q3q4": 0.25,
       "ratio_sio": "2.40",
-      "composition_si": 20.0,
-      "composition_o": 48.0,
+      "composition_si": 20,
+      "composition_o": 48,
       "thickness": 7.2,
       "layer_charge": 0.051,
-      "d_oh_oh": 2.6
+      "d_oh_oh": 2.6,
+      "plot_original": "layer_types/ast_top.png"
     },
     {
       "pk": 3,
       "name": "car",
       "slug": "car",
-      "plot": "layer_types/car_top_new.png",
+      "plot": "layer_types/car_top_new.webp",
       "material_count": 1,
-      "ratio_q3q4": 1.0,
+      "ratio_q3q4": 1,
       "ratio_sio": "2.25",
-      "composition_si": 32.0,
-      "composition_o": 72.0,
+      "composition_si": 32,
+      "composition_o": 72,
       "thickness": 9.2,
       "layer_charge": 0.041,
-      "d_oh_oh": 4.4
+      "d_oh_oh": 4.4,
+      "plot_original": "layer_types/car_top_new.png"
     },
     {
       "pk": 4,
       "name": "cas",
       "slug": "cas",
-      "plot": "layer_types/cas_top.png",
+      "plot": "layer_types/cas_top.webp",
       "material_count": 2,
-      "ratio_q3q4": 2.0,
+      "ratio_q3q4": 2,
       "ratio_sio": "2.17",
-      "composition_si": 24.0,
-      "composition_o": 52.0,
+      "composition_si": 24,
+      "composition_o": 52,
       "thickness": 9.3,
       "layer_charge": 0.029,
-      "d_oh_oh": 6.0
+      "d_oh_oh": 6,
+      "plot_original": "layer_types/cas_top.png"
     },
     {
       "pk": 5,
       "name": "cri",
       "slug": "cri",
-      "plot": "layer_types/cri_top.png",
+      "plot": "layer_types/cri_top.webp",
       "material_count": 1,
-      "ratio_q3q4": 0.0,
+      "ratio_q3q4": 0,
       "ratio_sio": "2.50",
-      "composition_si": 4.0,
-      "composition_o": 10.0,
+      "composition_si": 4,
+      "composition_o": 10,
       "thickness": 5.1,
       "layer_charge": 0.067,
-      "d_oh_oh": 3.2
+      "d_oh_oh": 3.2,
+      "plot_original": "layer_types/cri_top.png"
     },
     {
       "pk": 6,
       "name": "-fer",
       "slug": "-fer",
-      "plot": "layer_types/-fer-top.jpg",
+      "plot": "layer_types/-fer-top.webp",
       "material_count": 2,
-      "ratio_q3q4": 2.0,
+      "ratio_q3q4": 2,
       "ratio_sio": "2.17",
-      "composition_si": 18.0,
-      "composition_o": 39.0,
+      "composition_si": 18,
+      "composition_o": 39,
       "thickness": 5.1,
       "layer_charge": 0.029,
-      "d_oh_oh": 3.4
+      "d_oh_oh": 3.4,
+      "plot_original": "layer_types/-fer-top.jpg"
     },
     {
       "pk": 7,
       "name": "fer",
       "slug": "fer",
-      "plot": "layer_types/fer_top.png",
+      "plot": "layer_types/fer_top.webp",
       "material_count": 8,
       "ratio_q3q4": 3.5,
       "ratio_sio": "2.11",
-      "composition_si": 18.0,
-      "composition_o": 38.0,
+      "composition_si": 18,
+      "composition_o": 38,
       "thickness": 9.5,
       "layer_charge": 0.019,
-      "d_oh_oh": 5.8
+      "d_oh_oh": 5.8,
+      "plot_original": "layer_types/fer_top.png"
     },
     {
       "pk": 8,
       "name": "heu",
       "slug": "heu",
-      "plot": "layer_types/heu_top.png",
+      "plot": "layer_types/heu_top.webp",
       "material_count": 1,
       "ratio_q3q4": 3.5,
       "ratio_sio": "2.11",
-      "composition_si": 18.0,
-      "composition_o": 38.0,
+      "composition_si": 18,
+      "composition_o": 38,
       "thickness": 7.8,
       "layer_charge": 0.017,
-      "d_oh_oh": 7.0
+      "d_oh_oh": 7,
+      "plot_original": "layer_types/heu_top.png"
     },
     {
       "pk": 9,
       "name": "hus",
       "slug": "hus",
-      "plot": "layer_types/r52_top.png",
+      "plot": "layer_types/r52_top.webp",
       "material_count": 6,
       "ratio_q3q4": 1.5,
       "ratio_sio": "2.20",
-      "composition_si": 10.0,
-      "composition_o": 22.0,
+      "composition_si": 10,
+      "composition_o": 22,
       "thickness": 7.7,
       "layer_charge": 0.032,
-      "d_oh_oh": 2.5
+      "d_oh_oh": 2.5,
+      "plot_original": "layer_types/r52_top.png"
     },
     {
       "pk": 10,
       "name": "kan",
       "slug": "kan",
-      "plot": "layer_types/kan_top.png",
+      "plot": "layer_types/kan_top.webp",
       "material_count": 2,
-      "ratio_q3q4": 0.0,
+      "ratio_q3q4": 0,
       "ratio_sio": "2.50",
-      "composition_si": 8.0,
-      "composition_o": 20.0,
+      "composition_si": 8,
+      "composition_o": 20,
       "thickness": 4.4,
       "layer_charge": 0.056,
-      "d_oh_oh": 2.5
+      "d_oh_oh": 2.5,
+      "plot_original": "layer_types/kan_top.png"
     },
     {
       "pk": 11,
       "name": "lev",
       "slug": "lev",
-      "plot": "layer_types/lev_top.png",
+      "plot": "layer_types/lev_top.webp",
       "material_count": 2,
-      "ratio_q3q4": 1.0,
+      "ratio_q3q4": 1,
       "ratio_sio": "2.25",
-      "composition_si": 32.0,
-      "composition_o": 72.0,
+      "composition_si": 32,
+      "composition_o": 72,
       "thickness": 8.9,
       "layer_charge": 0.037,
-      "d_oh_oh": 2.4
+      "d_oh_oh": 2.4,
+      "plot_original": "layer_types/lev_top.png"
     },
     {
       "pk": 18,
       "name": "mag",
       "slug": "mag",
-      "plot": "layer_types/mag-Schicht_für_Database.jpg",
+      "plot": "layer_types/mag-Schicht_für_Database.webp",
       "material_count": 1,
       "ratio_q3q4": 2.5,
       "ratio_sio": "2.14",
-      "composition_si": 28.0,
-      "composition_o": 60.0,
+      "composition_si": 28,
+      "composition_o": 60,
       "thickness": 11.5,
       "layer_charge": 0.038,
-      "d_oh_oh": 2.5
+      "d_oh_oh": 2.5,
+      "plot_original": "layer_types/mag-Schicht_für_Database.jpg"
     },
     {
       "pk": 13,
       "name": "mww",
       "slug": "mww",
-      "plot": "layer_types/mww_top.png",
+      "plot": "layer_types/mww_top.webp",
       "material_count": 1,
-      "ratio_q3q4": 15.0,
+      "ratio_q3q4": 15,
       "ratio_sio": "2.03",
-      "composition_si": 72.0,
-      "composition_o": 146.0,
+      "composition_si": 72,
+      "composition_o": 146,
       "thickness": 24.9,
       "layer_charge": 0.011,
-      "d_oh_oh": 8.2
+      "d_oh_oh": 8.2,
+      "plot_original": "layer_types/mww_top.png"
     },
     {
       "pk": 15,
       "name": "rwr",
       "slug": "rwr",
-      "plot": "layer_types/rwr_top.png",
+      "plot": "layer_types/rwr_top.webp",
       "material_count": 5,
-      "ratio_q3q4": 1.0,
+      "ratio_q3q4": 1,
       "ratio_sio": "2.25",
-      "composition_si": 8.0,
-      "composition_o": 18.0,
+      "composition_si": 8,
+      "composition_o": 18,
       "thickness": 7.1,
       "layer_charge": 0.037,
-      "d_oh_oh": 2.3
+      "d_oh_oh": 2.3,
+      "plot_original": "layer_types/rwr_top.png"
     },
     {
       "pk": 17,
       "name": "six",
       "slug": "six",
-      "plot": "layer_types/six-layer_für_Database.jpg",
+      "plot": "layer_types/six-layer_für_Database.webp",
       "material_count": 2,
-      "ratio_q3q4": 4.0,
+      "ratio_q3q4": 4,
       "ratio_sio": "2.10",
-      "composition_si": 40.0,
-      "composition_o": 84.0,
+      "composition_si": 40,
+      "composition_o": 84,
       "thickness": 15.9,
       "layer_charge": 0.037,
-      "d_oh_oh": 2.4
+      "d_oh_oh": 2.4,
+      "plot_original": "layer_types/six-layer_für_Database.jpg"
     },
     {
       "pk": 16,
       "name": "sod",
       "slug": "sod",
-      "plot": "layer_types/sod_top.png",
+      "plot": "layer_types/sod_top.webp",
       "material_count": 3,
       "ratio_q3q4": 0.5,
       "ratio_sio": "2.33",
-      "composition_si": 12.0,
-      "composition_o": 28.0,
+      "composition_si": 12,
+      "composition_o": 28,
       "thickness": 6.3,
       "layer_charge": 0.041,
-      "d_oh_oh": 2.5
+      "d_oh_oh": 2.5,
+      "plot_original": "layer_types/sod_top.png"
     }
   ],
   "intercalated_cations": [
@@ -5080,7 +5096,7 @@
   "peak_table": [
     {
       "two_theta": 3.285,
-      "intensity": 88.0,
+      "intensity": 88,
       "name": "MCM-22(p)",
       "slug": "mcm-22p",
       "is_related_material": false,
@@ -5088,7 +5104,7 @@
     },
     {
       "two_theta": 4.454,
-      "intensity": 100.0,
+      "intensity": 100,
       "name": "Kenyaite",
       "slug": "kenyaite",
       "is_related_material": false,
@@ -5096,7 +5112,7 @@
     },
     {
       "two_theta": 5.088,
-      "intensity": 100.0,
+      "intensity": 100,
       "name": "RUB-57",
       "slug": "rub-57",
       "is_related_material": false,
@@ -5104,7 +5120,7 @@
     },
     {
       "two_theta": 5.191,
-      "intensity": 100.0,
+      "intensity": 100,
       "name": "ITQ-8",
       "slug": "itq-8",
       "is_related_material": false,
@@ -5112,7 +5128,7 @@
     },
     {
       "two_theta": 5.303,
-      "intensity": 100.0,
+      "intensity": 100,
       "name": "RUB-56",
       "slug": "rub-56",
       "is_related_material": false,
@@ -5120,7 +5136,7 @@
     },
     {
       "two_theta": 5.67,
-      "intensity": 100.0,
+      "intensity": 100,
       "name": "Magadiite",
       "slug": "magadiite",
       "is_related_material": false,
@@ -5128,7 +5144,7 @@
     },
     {
       "two_theta": 5.794,
-      "intensity": 100.0,
+      "intensity": 100,
       "name": "RUB-52 hydr.",
       "slug": "rub-52-hydr",
       "is_related_material": false,
@@ -5136,7 +5152,7 @@
     },
     {
       "two_theta": 5.868,
-      "intensity": 100.0,
+      "intensity": 100,
       "name": "Cowlesite",
       "slug": "cowlesite",
       "is_related_material": true,
@@ -5144,7 +5160,7 @@
     },
     {
       "two_theta": 6.019,
-      "intensity": 100.0,
+      "intensity": 100,
       "name": "TMA-RUB-18 poly-2",
       "slug": "tma-rub-18-poly-2",
       "is_related_material": false,
@@ -5152,7 +5168,7 @@
     },
     {
       "two_theta": 6.027,
-      "intensity": 100.0,
+      "intensity": 100,
       "name": "RUB-55",
       "slug": "rub-55",
       "is_related_material": false,
@@ -5160,7 +5176,7 @@
     },
     {
       "two_theta": 6.11,
-      "intensity": 100.0,
+      "intensity": 100,
       "name": "ULS-1",
       "slug": "uls-1",
       "is_related_material": false,
@@ -5168,7 +5184,7 @@
     },
     {
       "two_theta": 6.128,
-      "intensity": 100.0,
+      "intensity": 100,
       "name": "RUB-51",
       "slug": "rub-51",
       "is_related_material": false,
@@ -5176,7 +5192,7 @@
     },
     {
       "two_theta": 6.278,
-      "intensity": 100.0,
+      "intensity": 100,
       "name": "RUB-54",
       "slug": "rub-54",
       "is_related_material": false,
@@ -5184,7 +5200,7 @@
     },
     {
       "two_theta": 6.319,
-      "intensity": 100.0,
+      "intensity": 100,
       "name": "RUB-15",
       "slug": "rub-15",
       "is_related_material": false,
@@ -5192,7 +5208,7 @@
     },
     {
       "two_theta": 6.558,
-      "intensity": 100.0,
+      "intensity": 100,
       "name": "Nu-6(1)",
       "slug": "nu-61",
       "is_related_material": false,
@@ -5208,7 +5224,7 @@
     },
     {
       "two_theta": 6.704,
-      "intensity": 100.0,
+      "intensity": 100,
       "name": "Prefer hydrated",
       "slug": "prefer-hydrated",
       "is_related_material": false,
@@ -5216,7 +5232,7 @@
     },
     {
       "two_theta": 6.72,
-      "intensity": 100.0,
+      "intensity": 100,
       "name": "Prefer dehydrated",
       "slug": "prefer-dehydrated",
       "is_related_material": false,
@@ -5232,7 +5248,7 @@
     },
     {
       "two_theta": 7.332,
-      "intensity": 59.0,
+      "intensity": 59,
       "name": "AES-1",
       "slug": "aes-1",
       "is_related_material": true,
@@ -5240,7 +5256,7 @@
     },
     {
       "two_theta": 7.522,
-      "intensity": 100.0,
+      "intensity": 100,
       "name": "RUB-53",
       "slug": "rub-53",
       "is_related_material": false,
@@ -5248,7 +5264,7 @@
     },
     {
       "two_theta": 7.526,
-      "intensity": 100.0,
+      "intensity": 100,
       "name": "AES-19",
       "slug": "aes-19",
       "is_related_material": true,
@@ -5256,7 +5272,7 @@
     },
     {
       "two_theta": 7.544,
-      "intensity": 100.0,
+      "intensity": 100,
       "name": "RUB-52 dehydrated",
       "slug": "rub-52-dehydrated",
       "is_related_material": false,
@@ -5264,7 +5280,7 @@
     },
     {
       "two_theta": 7.575,
-      "intensity": 100.0,
+      "intensity": 100,
       "name": "PLS-3",
       "slug": "pls-3",
       "is_related_material": false,
@@ -5280,7 +5296,7 @@
     },
     {
       "two_theta": 7.736,
-      "intensity": 100.0,
+      "intensity": 100,
       "name": "EU-19",
       "slug": "eu-19",
       "is_related_material": false,
@@ -5288,7 +5304,7 @@
     },
     {
       "two_theta": 7.738,
-      "intensity": 100.0,
+      "intensity": 100,
       "name": "Helix-Layered-Silicate",
       "slug": "helix-layered-silicate",
       "is_related_material": false,
@@ -5304,7 +5320,7 @@
     },
     {
       "two_theta": 7.812,
-      "intensity": 100.0,
+      "intensity": 100,
       "name": "TMA-RUB-18 poly-1",
       "slug": "tma-rub-18-poly-1",
       "is_related_material": false,
@@ -5312,7 +5328,7 @@
     },
     {
       "two_theta": 7.832,
-      "intensity": 100.0,
+      "intensity": 100,
       "name": "RUB-38",
       "slug": "rub-38",
       "is_related_material": false,
@@ -5328,7 +5344,7 @@
     },
     {
       "two_theta": 7.868,
-      "intensity": 100.0,
+      "intensity": 100,
       "name": "MCM-47",
       "slug": "mcm-47",
       "is_related_material": false,
@@ -5336,7 +5352,7 @@
     },
     {
       "two_theta": 7.93,
-      "intensity": 100.0,
+      "intensity": 100,
       "name": "RUB-48",
       "slug": "rub-48",
       "is_related_material": false,
@@ -5344,7 +5360,7 @@
     },
     {
       "two_theta": 7.961,
-      "intensity": 100.0,
+      "intensity": 100,
       "name": "RUB-36",
       "slug": "rub-36",
       "is_related_material": false,
@@ -5352,7 +5368,7 @@
     },
     {
       "two_theta": 7.968,
-      "intensity": 100.0,
+      "intensity": 100,
       "name": "Na-RUB-18",
       "slug": "na-rub-18",
       "is_related_material": false,
@@ -5360,7 +5376,7 @@
     },
     {
       "two_theta": 8.246,
-      "intensity": 100.0,
+      "intensity": 100,
       "name": "RUB-39",
       "slug": "rub-39",
       "is_related_material": false,
@@ -5368,7 +5384,7 @@
     },
     {
       "two_theta": 8.448,
-      "intensity": 100.0,
+      "intensity": 100,
       "name": "ERS-12",
       "slug": "ers-12",
       "is_related_material": false,
@@ -5376,7 +5392,7 @@
     },
     {
       "two_theta": 8.499,
-      "intensity": 100.0,
+      "intensity": 100,
       "name": "RUB-20",
       "slug": "rub-20",
       "is_related_material": false,
@@ -5384,7 +5400,7 @@
     },
     {
       "two_theta": 8.615,
-      "intensity": 100.0,
+      "intensity": 100,
       "name": "Kanemite",
       "slug": "kanemite",
       "is_related_material": false,
@@ -5416,7 +5432,7 @@
     },
     {
       "two_theta": 9.492,
-      "intensity": 100.0,
+      "intensity": 100,
       "name": "AA-RUB-18",
       "slug": "aa-rub-18",
       "is_related_material": false,
@@ -5472,7 +5488,7 @@
     },
     {
       "two_theta": 10.48,
-      "intensity": 100.0,
+      "intensity": 100,
       "name": "H-Apophyllite",
       "slug": "h-apophyllite",
       "is_related_material": false,
@@ -5496,7 +5512,7 @@
     },
     {
       "two_theta": 10.546,
-      "intensity": 5.0,
+      "intensity": 5,
       "name": "RUB-54",
       "slug": "rub-54",
       "is_related_material": false,
@@ -5544,7 +5560,7 @@
     },
     {
       "two_theta": 11.104,
-      "intensity": 100.0,
+      "intensity": 100,
       "name": "AES-18",
       "slug": "aes-18",
       "is_related_material": true,
@@ -5568,7 +5584,7 @@
     },
     {
       "two_theta": 11.886,
-      "intensity": 82.0,
+      "intensity": 82,
       "name": "H-RUB-18",
       "slug": "h-rub-18",
       "is_related_material": false,
@@ -5576,7 +5592,7 @@
     },
     {
       "two_theta": 12.071,
-      "intensity": 24.0,
+      "intensity": 24,
       "name": "AA-RUB-18",
       "slug": "aa-rub-18",
       "is_related_material": false,
@@ -5608,7 +5624,7 @@
     },
     {
       "two_theta": 12.731,
-      "intensity": 100.0,
+      "intensity": 100,
       "name": "H-Carletonite",
       "slug": "h-carletonite",
       "is_related_material": false,
@@ -5616,7 +5632,7 @@
     },
     {
       "two_theta": 13.04,
-      "intensity": 100.0,
+      "intensity": 100,
       "name": "AMH-3",
       "slug": "amh-3",
       "is_related_material": true,
@@ -5624,7 +5640,7 @@
     },
     {
       "two_theta": 13.139,
-      "intensity": 100.0,
+      "intensity": 100,
       "name": "AES-20",
       "slug": "aes-20",
       "is_related_material": true,
@@ -5648,7 +5664,7 @@
     },
     {
       "two_theta": 13.39,
-      "intensity": 9.0,
+      "intensity": 9,
       "name": "RUB-39",
       "slug": "rub-39",
       "is_related_material": false,
@@ -5712,7 +5728,7 @@
     },
     {
       "two_theta": 14.693,
-      "intensity": 100.0,
+      "intensity": 100,
       "name": "AES-1",
       "slug": "aes-1",
       "is_related_material": true,
@@ -5752,7 +5768,7 @@
     },
     {
       "two_theta": 15.568,
-      "intensity": 100.0,
+      "intensity": 100,
       "name": "Disilicic Acid",
       "slug": "disilicic-acid",
       "is_related_material": false,
@@ -5840,7 +5856,7 @@
     },
     {
       "two_theta": 17.366,
-      "intensity": 100.0,
+      "intensity": 100,
       "name": "Makatite",
       "slug": "makatite",
       "is_related_material": true,
@@ -5904,7 +5920,7 @@
     },
     {
       "two_theta": 18.184,
-      "intensity": 21.0,
+      "intensity": 21,
       "name": "RUB-15",
       "slug": "rub-15",
       "is_related_material": false,
@@ -5992,7 +6008,7 @@
     },
     {
       "two_theta": 19.32,
-      "intensity": 6.0,
+      "intensity": 6,
       "name": "RUB-54",
       "slug": "rub-54",
       "is_related_material": false,
@@ -6032,7 +6048,7 @@
     },
     {
       "two_theta": 19.875,
-      "intensity": 19.0,
+      "intensity": 19,
       "name": "RUB-53",
       "slug": "rub-53",
       "is_related_material": false,
@@ -6080,7 +6096,7 @@
     },
     {
       "two_theta": 20.208,
-      "intensity": 19.0,
+      "intensity": 19,
       "name": "RUB-38",
       "slug": "rub-38",
       "is_related_material": false,
@@ -6096,7 +6112,7 @@
     },
     {
       "two_theta": 20.358,
-      "intensity": 21.0,
+      "intensity": 21,
       "name": "RUB-48",
       "slug": "rub-48",
       "is_related_material": false,
@@ -6144,7 +6160,7 @@
     },
     {
       "two_theta": 20.798,
-      "intensity": 6.0,
+      "intensity": 6,
       "name": "RUB-56",
       "slug": "rub-56",
       "is_related_material": false,
@@ -6208,7 +6224,7 @@
     },
     {
       "two_theta": 21.2,
-      "intensity": 4.0,
+      "intensity": 4,
       "name": "RUB-54",
       "slug": "rub-54",
       "is_related_material": false,
@@ -6216,7 +6232,7 @@
     },
     {
       "two_theta": 21.208,
-      "intensity": 24.0,
+      "intensity": 24,
       "name": "ERS-12",
       "slug": "ers-12",
       "is_related_material": false,
@@ -6256,7 +6272,7 @@
     },
     {
       "two_theta": 21.475,
-      "intensity": 100.0,
+      "intensity": 100,
       "name": "Silinaite",
       "slug": "silinaite",
       "is_related_material": true,
@@ -6368,7 +6384,7 @@
     },
     {
       "two_theta": 22.181,
-      "intensity": 100.0,
+      "intensity": 100,
       "name": "RUB-22",
       "slug": "rub-22",
       "is_related_material": true,
@@ -6424,7 +6440,7 @@
     },
     {
       "two_theta": 22.304,
-      "intensity": 100.0,
+      "intensity": 100,
       "name": "AES-21",
       "slug": "aes-21",
       "is_related_material": true,
@@ -6552,7 +6568,7 @@
     },
     {
       "two_theta": 23.083,
-      "intensity": 7.0,
+      "intensity": 7,
       "name": "Disilicic Acid",
       "slug": "disilicic-acid",
       "is_related_material": false,
@@ -6648,7 +6664,7 @@
     },
     {
       "two_theta": 23.483,
-      "intensity": 100.0,
+      "intensity": 100,
       "name": "H-LDS",
       "slug": "h-lds",
       "is_related_material": false,
@@ -6656,7 +6672,7 @@
     },
     {
       "two_theta": 23.535,
-      "intensity": 19.0,
+      "intensity": 19,
       "name": "RUB-39",
       "slug": "rub-39",
       "is_related_material": false,
@@ -6664,7 +6680,7 @@
     },
     {
       "two_theta": 23.538,
-      "intensity": 93.0,
+      "intensity": 93,
       "name": "H-Apophyllite",
       "slug": "h-apophyllite",
       "is_related_material": false,
@@ -6816,7 +6832,7 @@
     },
     {
       "two_theta": 24.45,
-      "intensity": 100.0,
+      "intensity": 100,
       "name": "HUS-1",
       "slug": "hus-1",
       "is_related_material": false,
@@ -6848,7 +6864,7 @@
     },
     {
       "two_theta": 24.771,
-      "intensity": 9.0,
+      "intensity": 9,
       "name": "MCM-47",
       "slug": "mcm-47",
       "is_related_material": false,
@@ -6856,7 +6872,7 @@
     },
     {
       "two_theta": 24.83,
-      "intensity": 86.0,
+      "intensity": 86,
       "name": "H-RUB-18",
       "slug": "h-rub-18",
       "is_related_material": false,
@@ -6872,7 +6888,7 @@
     },
     {
       "two_theta": 24.887,
-      "intensity": 7.0,
+      "intensity": 7,
       "name": "TMA-RUB-18 poly-2",
       "slug": "tma-rub-18-poly-2",
       "is_related_material": false,
@@ -6984,7 +7000,7 @@
     },
     {
       "two_theta": 25.421,
-      "intensity": 11.0,
+      "intensity": 11,
       "name": "RUB-52 dehydrated",
       "slug": "rub-52-dehydrated",
       "is_related_material": false,
@@ -7096,7 +7112,7 @@
     },
     {
       "two_theta": 25.567,
-      "intensity": 66.0,
+      "intensity": 66,
       "name": "HUS-1",
       "slug": "hus-1",
       "is_related_material": false,
@@ -7288,7 +7304,7 @@
     },
     {
       "two_theta": 26.513,
-      "intensity": 100.0,
+      "intensity": 100,
       "name": "MCM-22(p)",
       "slug": "mcm-22p",
       "is_related_material": false,
@@ -7304,7 +7320,7 @@
     },
     {
       "two_theta": 26.568,
-      "intensity": 11.0,
+      "intensity": 11,
       "name": "EU-19",
       "slug": "eu-19",
       "is_related_material": false,
@@ -7328,7 +7344,7 @@
     },
     {
       "two_theta": 26.73,
-      "intensity": 24.0,
+      "intensity": 24,
       "name": "AES-21",
       "slug": "aes-21",
       "is_related_material": true,
@@ -7352,7 +7368,7 @@
     },
     {
       "two_theta": 26.807,
-      "intensity": 11.0,
+      "intensity": 11,
       "name": "ERS-12",
       "slug": "ers-12",
       "is_related_material": false,
@@ -7376,7 +7392,7 @@
     },
     {
       "two_theta": 26.941,
-      "intensity": 100.0,
+      "intensity": 100,
       "name": "H-RUB-18",
       "slug": "h-rub-18",
       "is_related_material": false,
@@ -7576,7 +7592,7 @@
     },
     {
       "two_theta": 29.551,
-      "intensity": 93.0,
+      "intensity": 93,
       "name": "AES-1",
       "slug": "aes-1",
       "is_related_material": true,
@@ -7584,7 +7600,7 @@
     },
     {
       "two_theta": 29.616,
-      "intensity": 91.0,
+      "intensity": 91,
       "name": "Silinaite",
       "slug": "silinaite",
       "is_related_material": true,
@@ -7600,7 +7616,7 @@
     },
     {
       "two_theta": 29.809,
-      "intensity": 74.0,
+      "intensity": 74,
       "name": "AES-19",
       "slug": "aes-19",
       "is_related_material": true,
@@ -7632,7 +7648,7 @@
     },
     {
       "two_theta": 30.485,
-      "intensity": 42.0,
+      "intensity": 42,
       "name": "AES-19",
       "slug": "aes-19",
       "is_related_material": true,
@@ -7736,7 +7752,7 @@
     },
     {
       "two_theta": 35.188,
-      "intensity": 89.0,
+      "intensity": 89,
       "name": "AES-18",
       "slug": "aes-18",
       "is_related_material": true,
@@ -7744,7 +7760,7 @@
     },
     {
       "two_theta": 35.229,
-      "intensity": 42.0,
+      "intensity": 42,
       "name": "AES-18",
       "slug": "aes-18",
       "is_related_material": true,

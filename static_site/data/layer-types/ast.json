@@ -3,13 +3,13 @@
   "name": "ast",
   "slug": "ast",
   "ratio_q3q4": 0.25,
-  "composition_si": 20.0,
-  "composition_o": 48.0,
+  "composition_si": 20,
+  "composition_o": 48,
   "ratio_sio": "2.40",
   "thickness": 7.2,
   "layer_charge": 0.051,
   "d_oh_oh": 2.6,
-  "plot": "layer_types/ast_top.png",
+  "plot": "layer_types/ast_top.webp",
   "materials": [
     {
       "pk": 11,
@@ -29,5 +29,6 @@
       "slug": "rub-55",
       "is_related_material": false
     }
-  ]
+  ],
+  "plot_original": "layer_types/ast_top.png"
 }

@@ -23,15 +23,16 @@
     "powder_pattern_data": "powder_pattern/TMA_RUB-18poly1_powder_pattern.csv",
     "reflections_data": "reflections/TMA-RUB-Poly1_ref.csv",
     "fractional_atomic_coordinates_data": "facs/TMA-RUB-18_poly1_fracs.csv",
-    "structure_plot": "plots/SP_TMA-RUB-18_poly1_cut.jpg",
-    "atr_ir_spectrum_data": "atr_ir_spectra/TMA_RUB-18poly1_ir.csv"
+    "structure_plot": "plots/SP_TMA-RUB-18_poly1_cut.webp",
+    "atr_ir_spectrum_data": "atr_ir_spectra/TMA_RUB-18poly1_ir.csv",
+    "structure_plot_original": "plots/SP_TMA-RUB-18_poly1_cut.jpg"
   },
   "synthesis": [
     {
       "pk": 48,
       "mixture": "Na-RUB-18 exchanged with aqueous TMAOH solution",
       "sda": "Tetramethylammonium",
-      "temperature": 25.0,
+      "temperature": 25,
       "duration": "3-7 d",
       "conditions": "",
       "comment": "",
@@ -103,9 +104,9 @@
       "a": 7.4121,
       "b": 7.4121,
       "c": 22.615,
-      "alpha": 90.0,
-      "beta": 90.0,
-      "gamma": 90.0,
+      "alpha": 90,
+      "beta": 90,
+      "gamma": 90,
       "comment": "",
       "reference": {
         "pk": 48,

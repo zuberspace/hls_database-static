@@ -2,14 +2,14 @@
   "pk": 15,
   "name": "rwr",
   "slug": "rwr",
-  "ratio_q3q4": 1.0,
-  "composition_si": 8.0,
-  "composition_o": 18.0,
+  "ratio_q3q4": 1,
+  "composition_si": 8,
+  "composition_o": 18,
   "ratio_sio": "2.25",
   "thickness": 7.1,
   "layer_charge": 0.037,
   "d_oh_oh": 2.3,
-  "plot": "layer_types/rwr_top.png",
+  "plot": "layer_types/rwr_top.webp",
   "materials": [
     {
       "pk": 1,
@@ -41,5 +41,6 @@
       "slug": "tma-rub-18-poly-2",
       "is_related_material": false
     }
-  ]
+  ],
+  "plot_original": "layer_types/rwr_top.png"
 }

@@ -27,15 +27,16 @@
     "powder_pattern_data": "powder_pattern/NU-6-1_calc.csv",
     "reflections_data": "reflections/NU-6-1_ref_aRdRbOl.csv",
     "fractional_atomic_coordinates_data": "facs/Nu-61_fracs.csv",
-    "structure_plot": "plots/SP_NU-6_cut.jpg",
-    "atr_ir_spectrum_data": null
+    "structure_plot": "plots/SP_NU-6_cut.webp",
+    "atr_ir_spectrum_data": null,
+    "structure_plot_original": "plots/SP_NU-6_cut.jpg"
   },
   "synthesis": [
     {
       "pk": 19,
       "mixture": "1.82 g SDA: 20.06 g Na-silicate :  0.62 g Al-sulfate : 1.52 g sulfuric acid : 10.08 g ethanol : 36.16 g water",
       "sda": "4,4'-Bipyridinium",
-      "temperature": 135.0,
+      "temperature": 135,
       "duration": "3 d",
       "conditions": "rotated",
       "comment": "",
@@ -107,9 +108,9 @@
       "a": 27.7287,
       "b": 4.973,
       "c": 13.935,
-      "alpha": 90.0,
+      "alpha": 90,
       "beta": 103.73,
-      "gamma": 90.0,
+      "gamma": 90,
       "comment": "",
       "reference": {
         "pk": 25,

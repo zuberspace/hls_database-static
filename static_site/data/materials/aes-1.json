@@ -23,15 +23,16 @@
     "powder_pattern_data": "powder_pattern/AES-1_powder_pattern.csv",
     "reflections_data": "reflections/AES-1__ref.csv",
     "fractional_atomic_coordinates_data": "facs/AES-1_fracs.csv",
-    "structure_plot": "plots/SP_AES1.png",
-    "atr_ir_spectrum_data": "atr_ir_spectra/AES-1_ir.csv"
+    "structure_plot": "plots/SP_AES1.webp",
+    "atr_ir_spectrum_data": "atr_ir_spectra/AES-1_ir.csv",
+    "structure_plot_original": "plots/SP_AES1.png"
   },
   "synthesis": [
     {
       "pk": 2,
       "mixture": "1 SiO<sub>2</sub> : 0.2 Ca(OH)<sub>2</sub> : 0.35 KOH : 20 H<sub>2</sub>O",
       "sda": "K<sup>+</sup>,Ca<sup>2+</sup>",
-      "temperature": 15.0,
+      "temperature": 15,
       "duration": "7 d",
       "conditions": "static",
       "comment": "",
@@ -91,9 +92,9 @@
       "a": 24.1933,
       "b": 7.02297,
       "c": 6.49078,
-      "alpha": 90.0,
+      "alpha": 90,
       "beta": 95.144,
-      "gamma": 90.0,
+      "gamma": 90,
       "comment": "",
       "reference": {
         "pk": 5,

@@ -23,15 +23,16 @@
     "powder_pattern_data": "powder_pattern/ULS-1_calc.csv",
     "reflections_data": "reflections/ULS-1_ref.csv",
     "fractional_atomic_coordinates_data": "facs/ULS-1_fracs.csv",
-    "structure_plot": "plots/SP_ULS-1_cut.jpg",
-    "atr_ir_spectrum_data": null
+    "structure_plot": "plots/SP_ULS-1_cut.webp",
+    "atr_ir_spectrum_data": null,
+    "structure_plot_original": "plots/SP_ULS-1_cut.jpg"
   },
   "synthesis": [
     {
       "pk": 50,
       "mixture": "1.0 SiO<sub>2</sub> : 0.8 SDA : 0.05 Al(OH)<sub>3</sub> : 26.3 H<sub>2</sub>O : 0.025 LiOH",
       "sda": "Ethyltrimethylammonium",
-      "temperature": 100.0,
+      "temperature": 100,
       "duration": "150 d",
       "conditions": "",
       "comment": "",
@@ -115,9 +116,9 @@
       "a": 28.909,
       "b": 8.38,
       "c": 11.596,
-      "alpha": 90.0,
-      "beta": 90.0,
-      "gamma": 90.0,
+      "alpha": 90,
+      "beta": 90,
+      "gamma": 90,
       "comment": "",
       "reference": {
         "pk": 49,

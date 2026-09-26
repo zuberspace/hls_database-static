@@ -27,15 +27,16 @@
     "powder_pattern_data": "powder_pattern/Na-RUB-18_powder_pattern.csv",
     "reflections_data": "reflections/Na-RUB-18_Ref.csv",
     "fractional_atomic_coordinates_data": "facs/Na-RUB-18_fracs.csv",
-    "structure_plot": "plots/SP_Na-RUB-18_cut.jpg",
-    "atr_ir_spectrum_data": "atr_ir_spectra/Na-rub18_ATR.CSV"
+    "structure_plot": "plots/SP_Na-RUB-18_cut.webp",
+    "atr_ir_spectrum_data": "atr_ir_spectra/Na-rub18_ATR.CSV",
+    "structure_plot_original": "plots/SP_Na-RUB-18_cut.jpg"
   },
   "synthesis": [
     {
       "pk": 18,
       "mixture": "SiO<sub>2</sub> : Na<sub>2</sub>O : SDA: H<sub>2</sub>O",
       "sda": "Na, Hexamthylenetetramine/Triethanolamine",
-      "temperature": 95.0,
+      "temperature": 95,
       "duration": "21-28 d",
       "conditions": "static",
       "comment": "",
@@ -95,9 +96,9 @@
       "a": 7.328,
       "b": 7.328,
       "c": 44.319,
-      "alpha": 90.0,
-      "beta": 90.0,
-      "gamma": 90.0,
+      "alpha": 90,
+      "beta": 90,
+      "gamma": 90,
       "comment": "",
       "reference": {
         "pk": 24,

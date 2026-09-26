@@ -27,15 +27,16 @@
     "powder_pattern_data": "powder_pattern/RUB-53_powder_pattern.csv",
     "reflections_data": "reflections/RUB-53_ref.csv",
     "fractional_atomic_coordinates_data": null,
-    "structure_plot": "plots/SP_RUB-53_cut.jpg",
-    "atr_ir_spectrum_data": "atr_ir_spectra/RUB-53_1551J_pur.CSV"
+    "structure_plot": "plots/SP_RUB-53_cut.webp",
+    "atr_ir_spectrum_data": "atr_ir_spectra/RUB-53_1551J_pur.CSV",
+    "structure_plot_original": "plots/SP_RUB-53_cut.jpg"
   },
   "synthesis": [
     {
       "pk": 39,
       "mixture": "SiO<sub>2</sub> : Ga<sub>2</sub>O<sub>3</sub> : SDA : H<sub>2</sub>O",
       "sda": "Choline ((CH<sub>3</sub>)<sub>3</sub>(C<sub>2</sub>H<sub>4</sub>OH)N)",
-      "temperature": 100.0,
+      "temperature": 100,
       "duration": "",
       "conditions": "",
       "comment": "",
@@ -95,9 +96,9 @@
       "a": 7.315,
       "b": 23.486,
       "c": 9.544,
-      "alpha": 90.0,
+      "alpha": 90,
       "beta": 115.97,
-      "gamma": 90.0,
+      "gamma": 90,
       "comment": "",
       "reference": {
         "pk": 42,

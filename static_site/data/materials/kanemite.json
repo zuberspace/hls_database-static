@@ -23,15 +23,16 @@
     "powder_pattern_data": "powder_pattern/Kanemit_powder_pattern.csv",
     "reflections_data": "reflections/Kanemite_Ref.csv",
     "fractional_atomic_coordinates_data": "facs/Kanemite_Fracs.csv",
-    "structure_plot": "plots/SP_Kanemite_cut.jpg",
-    "atr_ir_spectrum_data": "atr_ir_spectra/IR_Kanemit_gewaschen.CSV"
+    "structure_plot": "plots/SP_Kanemite_cut.webp",
+    "atr_ir_spectrum_data": "atr_ir_spectra/IR_Kanemit_gewaschen.CSV",
+    "structure_plot_original": "plots/SP_Kanemite_cut.jpg"
   },
   "synthesis": [
     {
       "pk": 16,
       "mixture": "0.8-1.05 NaOH : 1 SiO<sub>2</sub> : H<sub>2</sub>O",
       "sda": "Na<sup>+</sup>",
-      "temperature": 700.0,
+      "temperature": 700,
       "duration": "5.5 h",
       "conditions": "",
       "comment": "",
@@ -79,9 +80,9 @@
       "a": 4.946,
       "b": 20.51,
       "c": 7.277,
-      "alpha": 90.0,
-      "beta": 90.0,
-      "gamma": 90.0,
+      "alpha": 90,
+      "beta": 90,
+      "gamma": 90,
       "comment": "",
       "reference": {
         "pk": 22,

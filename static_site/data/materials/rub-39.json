@@ -27,15 +27,16 @@
     "powder_pattern_data": "powder_pattern/RUB-39_powder_pattern.csv",
     "reflections_data": "reflections/RUB-39_ref.csv",
     "fractional_atomic_coordinates_data": "facs/RUB-39_fracs.csv",
-    "structure_plot": "plots/SP_RUB-39_cut.jpg",
-    "atr_ir_spectrum_data": "atr_ir_spectra/IR_rub39_pur.CSV"
+    "structure_plot": "plots/SP_RUB-39_cut.webp",
+    "atr_ir_spectrum_data": "atr_ir_spectra/IR_rub39_pur.CSV",
+    "structure_plot_original": "plots/SP_RUB-39_cut.jpg"
   },
   "synthesis": [
     {
       "pk": 25,
       "mixture": "0.55 SDA : 1 SiO<sub>2</sub> : 8-12 H<sub>2</sub>O",
       "sda": "Dimethyldipropylammonium hydroxide",
-      "temperature": 150.0,
+      "temperature": 150,
       "duration": "21 d",
       "conditions": "rotated",
       "comment": "",
@@ -137,9 +138,9 @@
       "a": 7.331,
       "b": 10.724,
       "c": 17.514,
-      "alpha": 90.0,
+      "alpha": 90,
       "beta": 115.69,
-      "gamma": 90.0,
+      "gamma": 90,
       "comment": "",
       "reference": {
         "pk": 30,

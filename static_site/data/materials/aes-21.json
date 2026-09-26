@@ -23,15 +23,16 @@
     "powder_pattern_data": "powder_pattern/AES-21_powder_pattern.csv",
     "reflections_data": "reflections/AES-21_R.csv",
     "fractional_atomic_coordinates_data": "facs/AES-21__fracs.csv",
-    "structure_plot": "plots/SP_AES21.png",
-    "atr_ir_spectrum_data": "atr_ir_spectra/AES-21_ir.csv"
+    "structure_plot": "plots/SP_AES21.webp",
+    "atr_ir_spectrum_data": "atr_ir_spectra/AES-21_ir.csv",
+    "structure_plot_original": "plots/SP_AES21.png"
   },
   "synthesis": [
     {
       "pk": 32,
       "mixture": "1 SiO<sub>2</sub> : 0.2 Ba(OH)<sub>2</sub> : 0.35 NaOH : 20 H<sub>2</sub>O",
       "sda": "Na<sup>+</sup>, Ba<sup>2+</sup>",
-      "temperature": 150.0,
+      "temperature": 150,
       "duration": "7 d",
       "conditions": "static",
       "comment": "",
@@ -85,9 +86,9 @@
       "a": 23.207,
       "b": 4.661,
       "c": 13.625,
-      "alpha": 90.0,
+      "alpha": 90,
       "beta": 82.449,
-      "gamma": 90.0,
+      "gamma": 90,
       "comment": "",
       "reference": {
         "pk": 34,

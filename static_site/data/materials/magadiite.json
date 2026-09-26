@@ -23,15 +23,16 @@
     "powder_pattern_data": "powder_pattern/magadiit_powder_pattern.csv",
     "reflections_data": "reflections/Magadiite_Reflections.csv",
     "fractional_atomic_coordinates_data": "facs/magadiite_6fa_atomic_coordinates.csv",
-    "structure_plot": "plots/magadaiite_6fa_composed.png",
-    "atr_ir_spectrum_data": "atr_ir_spectra/IR_magadiit_pur.CSV"
+    "structure_plot": "plots/magadaiite_6fa_composed.webp",
+    "atr_ir_spectrum_data": "atr_ir_spectra/IR_magadiit_pur.CSV",
+    "structure_plot_original": "plots/magadaiite_6fa_composed.png"
   },
   "synthesis": [
     {
       "pk": 44,
       "mixture": "7 SiO<sub>2</sub> : 1 Na<sub>2</sub>O : 50 H<sub>2</sub>O : 1.22 Na<sub>2</sub>SO<sub>4</sub> (2.43 NaNO<sub>3</sub>; 2.43 NaCl)",
       "sda": "Na<sup>+</sup>",
-      "temperature": 140.0,
+      "temperature": 140,
       "duration": "",
       "conditions": "",
       "comment": "",
@@ -91,9 +92,9 @@
       "a": 10.534,
       "b": 10.135,
       "c": 62.05,
-      "alpha": 90.0,
-      "beta": 90.0,
-      "gamma": 90.0,
+      "alpha": 90,
+      "beta": 90,
+      "gamma": 90,
       "comment": "The structure data as presented here are based on the non-conventional SG setting: F2dd, the conventional setting is Fdd2",
       "reference": {
         "pk": 54,

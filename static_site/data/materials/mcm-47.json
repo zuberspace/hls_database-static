@@ -27,15 +27,16 @@
     "powder_pattern_data": "powder_pattern/MCM-47_calc.csv",
     "reflections_data": "reflections/MCM-47_Ref.csv",
     "fractional_atomic_coordinates_data": "facs/MCM-47_fracs.csv",
-    "structure_plot": "plots/SP_MCM-47_cut.jpg",
-    "atr_ir_spectrum_data": "atr_ir_spectra/MCM-22p_Rose.csv"
+    "structure_plot": "plots/SP_MCM-47_cut.webp",
+    "atr_ir_spectrum_data": "atr_ir_spectra/MCM-22p_Rose.csv",
+    "structure_plot_original": "plots/SP_MCM-47_cut.jpg"
   },
   "synthesis": [
     {
       "pk": 17,
       "mixture": "1 SiO<sub>2</sub> : 0.3 NaOH: 40 H<sub>2</sub>O : 0.12 SDA",
       "sda": "Tetramethylene-bis(N-methyl-pyrrolidinium) dibromide",
-      "temperature": 160.0,
+      "temperature": 160,
       "duration": "5 d",
       "conditions": "tumbling (50 rpm)",
       "comment": "",
@@ -101,9 +102,9 @@
       "a": 7.386,
       "b": 22.454,
       "c": 14.018,
-      "alpha": 90.0,
-      "beta": 90.0,
-      "gamma": 90.0,
+      "alpha": 90,
+      "beta": 90,
+      "gamma": 90,
       "comment": "",
       "reference": {
         "pk": 23,

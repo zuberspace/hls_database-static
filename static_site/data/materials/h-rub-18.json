@@ -23,15 +23,16 @@
     "powder_pattern_data": "powder_pattern/H-RUB-18_powder-pattern.csv",
     "reflections_data": null,
     "fractional_atomic_coordinates_data": "facs/H-RUB-18_Fracs.csv",
-    "structure_plot": "plots/SP_H-RUB-18_cut.jpg",
-    "atr_ir_spectrum_data": "atr_ir_spectra/H-RUB-18_Borowski.csv"
+    "structure_plot": "plots/SP_H-RUB-18_cut.webp",
+    "atr_ir_spectrum_data": "atr_ir_spectra/H-RUB-18_Borowski.csv",
+    "structure_plot_original": "plots/SP_H-RUB-18_cut.jpg"
   },
   "synthesis": [
     {
       "pk": 9,
       "mixture": "Ion exchange of Na-RUB-18 with 0.1 M HCl",
       "sda": "H<sup>+</sup>",
-      "temperature": 25.0,
+      "temperature": 25,
       "duration": "",
       "conditions": "stirred",
       "comment": "",
@@ -85,9 +86,9 @@
       "a": 7.383,
       "b": 7.383,
       "c": 29.759,
-      "alpha": 90.0,
-      "beta": 90.0,
-      "gamma": 90.0,
+      "alpha": 90,
+      "beta": 90,
+      "gamma": 90,
       "comment": "H-RUB-18 is disordered - the average structure is represented here",
       "reference": {
         "pk": 11,

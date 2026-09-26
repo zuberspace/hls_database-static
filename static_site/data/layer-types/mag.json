@@ -3,13 +3,13 @@
   "name": "mag",
   "slug": "mag",
   "ratio_q3q4": 2.5,
-  "composition_si": 28.0,
-  "composition_o": 60.0,
+  "composition_si": 28,
+  "composition_o": 60,
   "ratio_sio": "2.14",
   "thickness": 11.5,
   "layer_charge": 0.038,
   "d_oh_oh": 2.5,
-  "plot": "layer_types/mag-Schicht_für_Database.jpg",
+  "plot": "layer_types/mag-Schicht_für_Database.webp",
   "materials": [
     {
       "pk": 51,
@@ -17,5 +17,6 @@
       "slug": "magadiite",
       "is_related_material": false
     }
-  ]
+  ],
+  "plot_original": "layer_types/mag-Schicht_für_Database.jpg"
 }

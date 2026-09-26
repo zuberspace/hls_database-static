@@ -3,13 +3,13 @@
   "name": "fer",
   "slug": "fer",
   "ratio_q3q4": 3.5,
-  "composition_si": 18.0,
-  "composition_o": 38.0,
+  "composition_si": 18,
+  "composition_o": 38,
   "ratio_sio": "2.11",
   "thickness": 9.5,
   "layer_charge": 0.019,
   "d_oh_oh": 5.8,
-  "plot": "layer_types/fer_top.png",
+  "plot": "layer_types/fer_top.webp",
   "materials": [
     {
       "pk": 4,
@@ -59,5 +59,6 @@
       "slug": "rub-48",
       "is_related_material": false
     }
-  ]
+  ],
+  "plot_original": "layer_types/fer_top.png"
 }

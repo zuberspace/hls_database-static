@@ -23,15 +23,16 @@
     "powder_pattern_data": "powder_pattern/RUB-51_powder_pattern.csv",
     "reflections_data": "reflections/RUB-51_Ref.csv",
     "fractional_atomic_coordinates_data": "facs/RUB-51_fracs.csv",
-    "structure_plot": "plots/SP_RUB-51_cut.jpg",
-    "atr_ir_spectrum_data": "atr_ir_spectra/Rub51_pur.CSV"
+    "structure_plot": "plots/SP_RUB-51_cut.webp",
+    "atr_ir_spectrum_data": "atr_ir_spectra/Rub51_pur.CSV",
+    "structure_plot_original": "plots/SP_RUB-51_cut.jpg"
   },
   "synthesis": [
     {
       "pk": 28,
       "mixture": "0.9 SiO<sub>2</sub> : 0.1 H<sub>3</sub>BO<sub>3</sub> : 0.5 SDA : 3-4 H<sub>2</sub>O",
       "sda": "Benzyltrimethylammonium",
-      "temperature": 120.0,
+      "temperature": 120,
       "duration": "21-30 d",
       "conditions": "",
       "comment": "",
@@ -85,9 +86,9 @@
       "a": 8.405,
       "b": 14.524,
       "c": 11.771,
-      "alpha": 90.0,
-      "beta": 90.0,
-      "gamma": 90.0,
+      "alpha": 90,
+      "beta": 90,
+      "gamma": 90,
       "comment": "",
       "reference": {
         "pk": 31,

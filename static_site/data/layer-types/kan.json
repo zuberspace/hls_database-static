@@ -2,14 +2,14 @@
   "pk": 10,
   "name": "kan",
   "slug": "kan",
-  "ratio_q3q4": 0.0,
-  "composition_si": 8.0,
-  "composition_o": 20.0,
+  "ratio_q3q4": 0,
+  "composition_si": 8,
+  "composition_o": 20,
   "ratio_sio": "2.50",
   "thickness": 4.4,
   "layer_charge": 0.056,
   "d_oh_oh": 2.5,
-  "plot": "layer_types/kan_top.png",
+  "plot": "layer_types/kan_top.webp",
   "materials": [
     {
       "pk": 8,
@@ -23,5 +23,6 @@
       "slug": "kanemite",
       "is_related_material": false
     }
-  ]
+  ],
+  "plot_original": "layer_types/kan_top.png"
 }

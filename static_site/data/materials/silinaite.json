@@ -23,15 +23,16 @@
     "powder_pattern_data": "powder_pattern/Silinaite_powder_pattern.csv",
     "reflections_data": "reflections/Silinaite_ref_l92Ywbe.csv",
     "fractional_atomic_coordinates_data": "facs/silinaite_fracs.csv",
-    "structure_plot": "plots/SP_Silinaite.png",
-    "atr_ir_spectrum_data": "atr_ir_spectra/Silinait_ATR-FT-IR.csv"
+    "structure_plot": "plots/SP_Silinaite.webp",
+    "atr_ir_spectrum_data": "atr_ir_spectra/Silinait_ATR-FT-IR.csv",
+    "structure_plot_original": "plots/SP_Silinaite.png"
   },
   "synthesis": [
     {
       "pk": 36,
       "mixture": "1 SiO<sub>2</sub> : 0.56 LiOH : 0.56 NaOH : 22 H<sub>2</sub>O",
       "sda": "Na<sup>+</sup>, Li<sup>+</sup>",
-      "temperature": 90.0,
+      "temperature": 90,
       "duration": "6 d",
       "conditions": "static",
       "comment": "",
@@ -85,9 +86,9 @@
       "a": 5.063,
       "b": 8.343,
       "c": 14.365,
-      "alpha": 90.0,
+      "alpha": 90,
       "beta": 96.729,
-      "gamma": 90.0,
+      "gamma": 90,
       "comment": "The powder pattern contains a broad peak of an impurity phase around 30.4° .",
       "reference": {
         "pk": 61,

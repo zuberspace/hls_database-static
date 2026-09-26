@@ -27,15 +27,16 @@
     "powder_pattern_data": "powder_pattern/H-LDS_powder_pattern.csv",
     "reflections_data": "reflections/H-LDS_Ref.csv",
     "fractional_atomic_coordinates_data": "facs/H-LDS_Fracs.csv",
-    "structure_plot": "plots/SP_H-LDS_cut.jpg",
-    "atr_ir_spectrum_data": "atr_ir_spectra/H-LDS_ir.csv"
+    "structure_plot": "plots/SP_H-LDS_cut.webp",
+    "atr_ir_spectrum_data": "atr_ir_spectra/H-LDS_ir.csv",
+    "structure_plot_original": "plots/SP_H-LDS_cut.jpg"
   },
   "synthesis": [
     {
       "pk": 8,
       "mixture": "K-LDS leached with 0.5 M aqueous HCl",
       "sda": "H<sup>+</sup>",
-      "temperature": 25.0,
+      "temperature": 25,
       "duration": "30 min",
       "conditions": "",
       "comment": "",
@@ -95,9 +96,9 @@
       "a": 4.906,
       "b": 11.901,
       "c": 7.482,
-      "alpha": 90.0,
-      "beta": 90.0,
-      "gamma": 90.0,
+      "alpha": 90,
+      "beta": 90,
+      "gamma": 90,
       "comment": "",
       "reference": {
         "pk": 10,

@@ -23,15 +23,16 @@
     "powder_pattern_data": "powder_pattern/RUB-54_powder_pattern.csv",
     "reflections_data": "reflections/RUB-54_ref.csv",
     "fractional_atomic_coordinates_data": "facs/RUB-54_fracs.csv",
-    "structure_plot": "plots/SP_RUB-54_cut.jpg",
-    "atr_ir_spectrum_data": "atr_ir_spectra/rub-54-ZL-051_pur.csv"
+    "structure_plot": "plots/SP_RUB-54_cut.webp",
+    "atr_ir_spectrum_data": "atr_ir_spectra/rub-54-ZL-051_pur.csv",
+    "structure_plot_original": "plots/SP_RUB-54_cut.jpg"
   },
   "synthesis": [
     {
       "pk": 40,
       "mixture": "0.2 NaOH : 1 SiO<sub>2</sub> : 0.2 SDA : 20 H<sub>2</sub>O",
       "sda": "Hexamethonium",
-      "temperature": 120.0,
+      "temperature": 120,
       "duration": "5 d",
       "conditions": "static",
       "comment": "",

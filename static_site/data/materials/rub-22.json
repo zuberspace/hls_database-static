@@ -29,15 +29,16 @@
     "powder_pattern_data": "powder_pattern/RUB-22_powder_pattern.csv",
     "reflections_data": "reflections/RUB-22_Ref.csv",
     "fractional_atomic_coordinates_data": "facs/RUB-22_fracs.csv",
-    "structure_plot": "plots/SP_RUB-22_cut.jpg",
-    "atr_ir_spectrum_data": "atr_ir_spectra/ATR_RUB-22.csv"
+    "structure_plot": "plots/SP_RUB-22_cut.webp",
+    "atr_ir_spectrum_data": "atr_ir_spectra/ATR_RUB-22.csv",
+    "structure_plot_original": "plots/SP_RUB-22_cut.jpg"
   },
   "synthesis": [
     {
       "pk": 35,
       "mixture": "2.8 SDA : 1-3.8 SiO<sub>2</sub> : 55.5 H<sub>2</sub>O",
       "sda": "Tetramethylammonium",
-      "temperature": 160.0,
+      "temperature": 160,
       "duration": "8 d",
       "conditions": "static",
       "comment": "",
@@ -103,9 +104,9 @@
       "a": 13.6626,
       "b": 13.24,
       "c": 12.3009,
-      "alpha": 90.0,
+      "alpha": 90,
       "beta": 112.7,
-      "gamma": 90.0,
+      "gamma": 90,
       "comment": "The structure data as presented here are based on the non-conventional SG setting: C-1 the conventional setting is P-1",
       "reference": {
         "pk": 39,

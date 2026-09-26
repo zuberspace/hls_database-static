@@ -23,8 +23,9 @@
     "powder_pattern_data": "powder_pattern/PXRD_Cowlesite_calculated.csv",
     "reflections_data": "reflections/Cowlesite_ref.csv",
     "fractional_atomic_coordinates_data": "facs/Cowlesite_coord_Cmce.csv",
-    "structure_plot": "plots/Cowlesite_Drawings.jpg",
-    "atr_ir_spectrum_data": null
+    "structure_plot": "plots/Cowlesite_Drawings.webp",
+    "atr_ir_spectrum_data": null,
+    "structure_plot_original": "plots/Cowlesite_Drawings.jpg"
   },
   "synthesis": [
     {
@@ -77,11 +78,11 @@
       "chemical_composition": "Ca<sub>48</sub>[Al<sub>96</sub>Si<sub>144</sub>O<sub>480</sub>] · 288 H<sub>2</sub>O",
       "stacking_direction": "c",
       "a": 24.8,
-      "b": 23.0,
+      "b": 23,
       "c": 30.1,
-      "alpha": 90.0,
-      "beta": 90.0,
-      "gamma": 90.0,
+      "alpha": 90,
+      "beta": 90,
+      "gamma": 90,
       "comment": "Space group used in the publication: Ccme",
       "reference": {
         "pk": 58,

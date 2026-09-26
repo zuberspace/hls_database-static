@@ -2,14 +2,14 @@
   "pk": 5,
   "name": "cri",
   "slug": "cri",
-  "ratio_q3q4": 0.0,
-  "composition_si": 4.0,
-  "composition_o": 10.0,
+  "ratio_q3q4": 0,
+  "composition_si": 4,
+  "composition_o": 10,
   "ratio_sio": "2.50",
   "thickness": 5.1,
   "layer_charge": 0.067,
   "d_oh_oh": 3.2,
-  "plot": "layer_types/cri_top.png",
+  "plot": "layer_types/cri_top.webp",
   "materials": [
     {
       "pk": 3,
@@ -17,5 +17,6 @@
       "slug": "disilicic-acid",
       "is_related_material": false
     }
-  ]
+  ],
+  "plot_original": "layer_types/cri_top.png"
 }

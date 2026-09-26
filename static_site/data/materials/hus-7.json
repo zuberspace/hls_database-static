@@ -23,15 +23,16 @@
     "powder_pattern_data": "powder_pattern/HUS-7_powder_pattern.csv",
     "reflections_data": "reflections/hus-7_R.csv",
     "fractional_atomic_coordinates_data": "facs/HUS-7_Fracs.csv",
-    "structure_plot": "plots/SP_HUS-7_cut.jpg",
-    "atr_ir_spectrum_data": "atr_ir_spectra/HUS-7_ir.csv"
+    "structure_plot": "plots/SP_HUS-7_cut.webp",
+    "atr_ir_spectrum_data": "atr_ir_spectra/HUS-7_ir.csv",
+    "structure_plot_original": "plots/SP_HUS-7_cut.jpg"
   },
   "synthesis": [
     {
       "pk": 12,
       "mixture": "SiO<sub>2</sub> : 0.2-0.4 SDA : 0.2 NaOH : 0-0.2 biphenyl : 5.5-10.5 H<sub>2</sub>O",
       "sda": "Benzyltrimethylammonium hydroxide",
-      "temperature": 125.0,
+      "temperature": 125,
       "duration": "7-14 d",
       "conditions": "static",
       "comment": "",
@@ -91,9 +92,9 @@
       "a": 17.1112,
       "b": 7.3945,
       "c": 33.0249,
-      "alpha": 90.0,
+      "alpha": 90,
       "beta": 94.401,
-      "gamma": 90.0,
+      "gamma": 90,
       "comment": "",
       "reference": {
         "pk": 15,

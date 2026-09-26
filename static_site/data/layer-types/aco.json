@@ -2,14 +2,14 @@
   "pk": 1,
   "name": "aco",
   "slug": "aco",
-  "ratio_q3q4": 0.0,
-  "composition_si": 16.0,
-  "composition_o": 40.0,
+  "ratio_q3q4": 0,
+  "composition_si": 16,
+  "composition_o": 40,
   "ratio_sio": "2.50",
-  "thickness": 5.0,
+  "thickness": 5,
   "layer_charge": 0.056,
   "d_oh_oh": 3.8,
-  "plot": "layer_types/aco_top.png",
+  "plot": "layer_types/aco_top.webp",
   "materials": [
     {
       "pk": 6,
@@ -17,5 +17,6 @@
       "slug": "h-apophyllite",
       "is_related_material": false
     }
-  ]
+  ],
+  "plot_original": "layer_types/aco_top.png"
 }

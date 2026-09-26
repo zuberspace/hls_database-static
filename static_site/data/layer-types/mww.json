@@ -2,14 +2,14 @@
   "pk": 13,
   "name": "mww",
   "slug": "mww",
-  "ratio_q3q4": 15.0,
-  "composition_si": 72.0,
-  "composition_o": 146.0,
+  "ratio_q3q4": 15,
+  "composition_si": 72,
+  "composition_o": 146,
   "ratio_sio": "2.03",
   "thickness": 24.9,
   "layer_charge": 0.011,
   "d_oh_oh": 8.2,
-  "plot": "layer_types/mww_top.png",
+  "plot": "layer_types/mww_top.webp",
   "materials": [
     {
       "pk": 58,
@@ -17,5 +17,6 @@
       "slug": "mcm-22p",
       "is_related_material": false
     }
-  ]
+  ],
+  "plot_original": "layer_types/mww_top.png"
 }

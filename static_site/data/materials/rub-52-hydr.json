@@ -23,15 +23,16 @@
     "powder_pattern_data": "powder_pattern/RUB-52_hydrated_powder_pattern.csv",
     "reflections_data": "reflections/RUB-52-hyd_ref.csv",
     "fractional_atomic_coordinates_data": "facs/RUB-52_hydrated_fracs.csv",
-    "structure_plot": "plots/SP_RUB-52_hydrated_cut.jpg",
-    "atr_ir_spectrum_data": null
+    "structure_plot": "plots/SP_RUB-52_hydrated_cut.webp",
+    "atr_ir_spectrum_data": null,
+    "structure_plot_original": "plots/SP_RUB-52_hydrated_cut.jpg"
   },
   "synthesis": [
     {
       "pk": 38,
       "mixture": "1 SiO<sub>2</sub> : 1.0-1.5 SDA : 12-18 H<sub>2</sub>O",
       "sda": "Diethyldimethylammonium",
-      "temperature": 150.0,
+      "temperature": 150,
       "duration": "7-15 d",
       "conditions": "",
       "comment": "",

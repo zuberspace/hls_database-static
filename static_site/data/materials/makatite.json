@@ -23,8 +23,9 @@
     "powder_pattern_data": "powder_pattern/Makatite_powder_pattern.csv",
     "reflections_data": "reflections/Makatite_ref.csv",
     "fractional_atomic_coordinates_data": "facs/Makatite_fracs_llJzihK.csv",
-    "structure_plot": "plots/SP_Makatite_cut.jpg",
-    "atr_ir_spectrum_data": "atr_ir_spectra/Makatite_2US-unten.csv"
+    "structure_plot": "plots/SP_Makatite_cut.webp",
+    "atr_ir_spectrum_data": "atr_ir_spectra/Makatite_2US-unten.csv",
+    "structure_plot_original": "plots/SP_Makatite_cut.jpg"
   },
   "synthesis": [
     {
@@ -85,9 +86,9 @@
       "a": 7.3881,
       "b": 18.094,
       "c": 9.5234,
-      "alpha": 90.0,
+      "alpha": 90,
       "beta": 90.64,
-      "gamma": 90.0,
+      "gamma": 90,
       "comment": "",
       "reference": {
         "pk": 57,

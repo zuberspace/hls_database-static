@@ -30,15 +30,16 @@
     "powder_pattern_data": "powder_pattern/RUB-20_powder_pattern.csv",
     "reflections_data": "reflections/RUB-20_ref.csv",
     "fractional_atomic_coordinates_data": "facs/RUB-20_fracs.csv",
-    "structure_plot": "plots/SP_RUB-20_cut.jpg",
-    "atr_ir_spectrum_data": "atr_ir_spectra/IR_RuB20_pur.CSV"
+    "structure_plot": "plots/SP_RUB-20_cut.webp",
+    "atr_ir_spectrum_data": "atr_ir_spectra/IR_RuB20_pur.CSV",
+    "structure_plot_original": "plots/SP_RUB-20_cut.jpg"
   },
   "synthesis": [
     {
       "pk": 22,
       "mixture": "1 SiO<sub>2</sub> : 2.8 SDA : 55 H<sub>2</sub>O",
       "sda": "Tetramethylammonium hydroxide",
-      "temperature": 160.0,
+      "temperature": 160,
       "duration": "18 d",
       "conditions": "static",
       "comment": "",
@@ -98,9 +99,9 @@
       "a": 10.493,
       "b": 13.988,
       "c": 7.411,
-      "alpha": 90.0,
+      "alpha": 90,
       "beta": 97.8,
-      "gamma": 90.0,
+      "gamma": 90,
       "comment": "",
       "reference": {
         "pk": 28,

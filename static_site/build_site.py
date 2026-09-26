@@ -111,12 +111,16 @@ def main() -> None:
         referenced_media.update(safe_iter(
             files.get(key) for key in ("cif", "cif_for_jsmol", "structure_plot")
         ))
+        # The original PNG/JPG kept beside each .webp is the <picture> fallback.
+        referenced_media.update(safe_iter([files.get("structure_plot_original")]))
 
     layer_types_dir = data_root / "layer-types"
     for layer_file in layer_types_dir.glob("*.json"):
         layer = json.loads(layer_file.read_text(encoding="utf-8"))
         if layer.get("plot"):
             referenced_media.add(layer["plot"])
+        if layer.get("plot_original"):
+            referenced_media.add(layer["plot_original"])
 
     absent = []
     for rel_path in sorted(referenced_media):

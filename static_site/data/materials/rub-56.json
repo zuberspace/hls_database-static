@@ -23,15 +23,16 @@
     "powder_pattern_data": "powder_pattern/RUB-56_bis_37.csv",
     "reflections_data": "reflections/RUB-56_ref.csv",
     "fractional_atomic_coordinates_data": "facs/RUB-56_Fracs.csv",
-    "structure_plot": "plots/RUB-56_Struktur.jpg",
-    "atr_ir_spectrum_data": "atr_ir_spectra/rub-56_pur_3615_7Tage.csv"
+    "structure_plot": "plots/RUB-56_Struktur.webp",
+    "atr_ir_spectrum_data": "atr_ir_spectra/rub-56_pur_3615_7Tage.csv",
+    "structure_plot_original": "plots/RUB-56_Struktur.jpg"
   },
   "synthesis": [
     {
       "pk": 46,
       "mixture": "1 SiO<sub>2</sub> : 0.5 SDA : 10 H<sub>2</sub>O",
       "sda": "Diethyldimethylammonium hydroxide",
-      "temperature": 140.0,
+      "temperature": 140,
       "duration": "7 d",
       "conditions": "static",
       "comment": "",
@@ -163,9 +164,9 @@
       "a": 16.246,
       "b": 13.303,
       "c": 16.767,
-      "alpha": 90.0,
+      "alpha": 90,
       "beta": 95.52,
-      "gamma": 90.0,
+      "gamma": 90,
       "comment": "The powder pattern contains a weak peak of an impurity phase at 5.75°",
       "reference": {
         "pk": 63,

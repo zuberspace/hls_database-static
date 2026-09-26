@@ -23,15 +23,16 @@
     "powder_pattern_data": "powder_pattern/SSA-1_powder_pattern.csv",
     "reflections_data": "reflections/SSA-1_ref.csv",
     "fractional_atomic_coordinates_data": "facs/SSA-1_fracs.csv",
-    "structure_plot": "plots/SP_SSA-1_cut.jpg",
-    "atr_ir_spectrum_data": "atr_ir_spectra/SSA-1_ir.csv"
+    "structure_plot": "plots/SP_SSA-1_cut.webp",
+    "atr_ir_spectrum_data": "atr_ir_spectra/SSA-1_ir.csv",
+    "structure_plot_original": "plots/SP_SSA-1_cut.jpg"
   },
   "synthesis": [
     {
       "pk": 42,
       "mixture": "1 SiO<sub>2</sub> : 0.5 SDA : 7.5-15 H<sub>2</sub>O",
       "sda": "Tetraethylammonium hydroxide",
-      "temperature": 160.0,
+      "temperature": 160,
       "duration": "12 d",
       "conditions": "static",
       "comment": "",
@@ -103,9 +104,9 @@
       "a": 7.453,
       "b": 20.961,
       "c": 9.481,
-      "alpha": 90.0,
+      "alpha": 90,
       "beta": 115.35,
-      "gamma": 90.0,
+      "gamma": 90,
       "comment": "",
       "reference": {
         "pk": 44,

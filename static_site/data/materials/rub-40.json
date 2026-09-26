@@ -30,15 +30,16 @@
     "powder_pattern_data": "powder_pattern/RUB-40_powder_pattern.csv",
     "reflections_data": "reflections/RUB-40_Ref.csv",
     "fractional_atomic_coordinates_data": "facs/RUB-40_fracs.csv",
-    "structure_plot": "plots/SP_RUB-40_cut.jpg",
-    "atr_ir_spectrum_data": "atr_ir_spectra/IR_RUB-40.CSV"
+    "structure_plot": "plots/SP_RUB-40_cut.webp",
+    "atr_ir_spectrum_data": "atr_ir_spectra/IR_RUB-40.CSV",
+    "structure_plot_original": "plots/SP_RUB-40_cut.jpg"
   },
   "synthesis": [
     {
       "pk": 26,
       "mixture": "1 SiO<sub>2</sub> : 1.0 SDA : 55 H<sub>2</sub>O",
       "sda": "Tetramethylphosphonium hydroxide",
-      "temperature": 160.0,
+      "temperature": 160,
       "duration": "28 d",
       "conditions": "static",
       "comment": "",
@@ -98,9 +99,9 @@
       "a": 10.724,
       "b": 14.001,
       "c": 7.407,
-      "alpha": 90.0,
+      "alpha": 90,
       "beta": 99.34,
-      "gamma": 90.0,
+      "gamma": 90,
       "comment": "",
       "reference": {
         "pk": 28,

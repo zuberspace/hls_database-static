@@ -3,13 +3,13 @@
   "name": "hus",
   "slug": "hus",
   "ratio_q3q4": 1.5,
-  "composition_si": 10.0,
-  "composition_o": 22.0,
+  "composition_si": 10,
+  "composition_o": 22,
   "ratio_sio": "2.20",
   "thickness": 7.7,
   "layer_charge": 0.032,
   "d_oh_oh": 2.5,
-  "plot": "layer_types/r52_top.png",
+  "plot": "layer_types/r52_top.webp",
   "materials": [
     {
       "pk": 12,
@@ -47,5 +47,6 @@
       "slug": "ssa-1",
       "is_related_material": false
     }
-  ]
+  ],
+  "plot_original": "layer_types/r52_top.png"
 }

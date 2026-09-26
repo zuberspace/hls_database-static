@@ -27,15 +27,16 @@
     "powder_pattern_data": "powder_pattern/EU-19_powder_pattern.csv",
     "reflections_data": "reflections/EU-19_Reflections.csv",
     "fractional_atomic_coordinates_data": "facs/EU-19_fracs.csv",
-    "structure_plot": "plots/SP_EU-19_cut.jpg",
-    "atr_ir_spectrum_data": "atr_ir_spectra/EU-19_THO49C.CSV"
+    "structure_plot": "plots/SP_EU-19_cut.webp",
+    "atr_ir_spectrum_data": "atr_ir_spectra/EU-19_THO49C.CSV",
+    "structure_plot_original": "plots/SP_EU-19_cut.jpg"
   },
   "synthesis": [
     {
       "pk": 5,
       "mixture": "15 SDA : 20 SiO<sub>2</sub> : 1000 H<sub>2</sub>O",
       "sda": "Piperazine",
-      "temperature": 150.0,
+      "temperature": 150,
       "duration": "102 d",
       "conditions": "static",
       "comment": "",
@@ -89,9 +90,9 @@
       "a": 13.57,
       "b": 4.9,
       "c": 22.46,
-      "alpha": 90.0,
+      "alpha": 90,
       "beta": 91.67,
-      "gamma": 90.0,
+      "gamma": 90,
       "comment": "",
       "reference": {
         "pk": 18,
